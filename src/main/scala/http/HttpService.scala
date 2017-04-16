@@ -1,5 +1,7 @@
 package http
 
+import http.routes.SummarizerServiceRoute
+
 import scala.concurrent.ExecutionContext
 /**
   * Created by jesus on 16/04/17.

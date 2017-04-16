@@ -5,12 +5,13 @@ import utils.Utils
 /**
   * Created by jesus on 15/04/17.
   */
-case class Airport(id: Long, identifier: String, airportType: AirportCategory, name: String, latitude: Double, longitude: Double,
+case class Airport(id: Long, identifier: String, airportType: String, name: String, latitude: Double, longitude: Double,
                    elevation: Double, continent: String, isoCountry: String, isoRegion: String, scheduledService: Boolean,
                    municipality: Option[String] = None, gpsCode: Option[String] = None, iataCode: Option[String] = None,
                    localCode: Option[String] = None, homeLink: Option[String] = None,
                    wikipediaLink: Option[String] = None, keywords: Iterable[String] = Iterable.empty) {
   require(identifier.nonEmpty, "identifier is empty")
+  require(airportType.nonEmpty, "airportType is empty")
   require(name.nonEmpty, "name is empty")
   require(continent.nonEmpty, "continent is empty")
   require(isoCountry.nonEmpty, "isoCountry is empty")
@@ -29,7 +30,7 @@ object Airport {
     // Parse and assign accordingly.
     Airport(id = inputMap("id").toLong,
             identifier = inputMap("ident"),
-            airportType = AirportCategory(inputMap("type")),
+            airportType = inputMap("type"),
             name = inputMap("name"),
             latitude = inputMap("latitude_deg").toDouble,
             longitude = inputMap("longitude_deg").toDouble,
