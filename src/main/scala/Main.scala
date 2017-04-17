@@ -11,7 +11,7 @@ import data.Data
 import http.HttpService
 import http.routes.SummarizerServiceRoute
 import org.apache.spark.{SparkConf, SparkContext}
-import services.Summarizer
+import services.{Summarizer, SummarizerCacheKeeper}
 import utils.Configuration
 
 import scala.concurrent.ExecutionContext
@@ -36,8 +36,11 @@ object Main extends App with Configuration {
   val countries = Data.loadCountries()
   val runways = Data.loadRunways()
 
+  // Create summarizer cache keeper
+  val cacheKeeper = system.actorOf(SummarizerCacheKeeper.props(frequency))
+
   // Create summarizer service
-  val summarizer = new Summarizer(airports, countries, runways)
+  val summarizer = new Summarizer(airports, countries, runways, cacheKeeper)
 
   // Create HTTP services.
   val summarizerServiceRoute = new SummarizerServiceRoute(summarizer)
