@@ -8,9 +8,9 @@ import utils.Utils
 case class Runway(id: Long,
                   airportReference: Long,
                   airportIdentifier: String,
-                  length: Double,
-                  width: Double,
-                  surface: String,
+                  length: Option[Double] = None,
+                  width: Option[Double] = None,
+                  surface: Option[String] = None,
                   lighted: Boolean,
                   closed: Boolean,
                   leIdent: Option[String] = None,
@@ -26,7 +26,7 @@ case class Runway(id: Long,
                   heHeading: Option[Double] = None,
                   heDisplacedThreshold: Option[Double] = None) {
   require(airportIdentifier.nonEmpty, "airportIdentifier is empty")
-  require(surface.nonEmpty, "surface is empty")
+  require(surface.forall(_.nonEmpty), "surface is empty")
   require(leIdent.forall(_.nonEmpty), "leIdent is empty")
   require(heIdent.forall(_.nonEmpty), "heIdent is empty")
 }
@@ -40,9 +40,9 @@ case object Runway {
       id = inputMap("id").toLong,
       airportReference = inputMap("airport_ref").toLong,
       airportIdentifier = inputMap("airport_ident"),
-      length = inputMap("length_ft").toDouble,
-      width = inputMap("width_ft").toDouble,
-      surface = inputMap("surface"),
+      length = optionByDouble(inputMap("length_ft")),
+      width = optionByDouble(inputMap("width_ft")),
+      surface = optionByString(inputMap("surface")),
       lighted = inputMap("lighted") == "1",
       closed = inputMap("closed") == "1",
       leIdent = optionByString(inputMap("le_ident")),

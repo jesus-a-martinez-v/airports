@@ -19,6 +19,6 @@ object Country {
             name = inputMap("name"),
             continent = inputMap("continent"),
             wikipediaLink = inputMap("wikipedia_link"),
-            keywords = inputMap("keywords").split(","))
+            keywords = inputMap("keywords").split(",").filterNot(_.isEmpty))
   }
 }

@@ -14,7 +14,7 @@ object Data {
 
   private def getResourceFileUri(filePath: String) = this.getClass.getClassLoader.getResource(filePath).toURI
 
-  private def loadData[T](file: File, mapper: Map[String, String] => T): Iterable[T] = {
+  private def loadData[T](file: File, mapper: Map[String, String] => T): Seq[T] = {
     val reader = CSVReader.open(file)
     val results = reader.allWithHeaders().map(mapper)
     reader.close()
@@ -22,7 +22,7 @@ object Data {
     results
   }
 
-  def loadAirports(): Iterable[Airport] = loadData(new File(airportsFileUri), Airport.fromMap)
-  def loadCountries(): Iterable[Country] = loadData(new File(countriesFileUri), Country.fromMap)
-  def loadRunways(): Iterable[Runway] = loadData(new File(runwaysFileUri), Runway.fromMap)
+  def loadAirports(): Seq[Airport] = loadData(new File(airportsFileUri), Airport.fromMap)
+  def loadCountries(): Seq[Country] = loadData(new File(countriesFileUri), Country.fromMap)
+  def loadRunways(): Seq[Runway] = loadData(new File(runwaysFileUri), Runway.fromMap)
 }

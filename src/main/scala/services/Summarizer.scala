@@ -24,7 +24,10 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
     maybeCountry map { country =>
       val airportsAndIds: RDD[(String, Airport)] = airportsRdd.map(airport => (airport.identifier, airport))
       val runwaysPerAirport: RDD[(String, Iterable[Runway])] = runwaysRdd.map(runway => (runway.airportIdentifier, runway)).groupByKey()
-      val airportsAndRunways: RDD[(Airport, Iterable[Runway])] = airportsAndIds.join(runwaysPerAirport).map(_._2)
+      val airportsAndRunways: RDD[(Airport, Iterable[Runway])] = airportsAndIds.leftOuterJoin(runwaysPerAirport).map(_._2 match {
+        case (airport, Some(rws)) => (airport, rws)
+        case (airport, None) => (airport, Iterable.empty)
+      })
 
       QueryResult(country = country, results = airportsAndRunways.filter(_._1.isoCountry == country.code).collect().toSeq)
     }
@@ -35,8 +38,8 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
     val airportsPerCountry = airportsRdd.map(airport => (airport.isoCountry, 1)).reduceByKey(_ + _)
     val countriesAndAirportCount = countriesAndCode.join(airportsPerCountry).map(_._2)
 
-    val top10Upper = countriesAndAirportCount.sortBy(_._2, ascending = false).cache().take(10)
-    val top10Bottom = countriesAndAirportCount.sortBy(_._2, ascending = true).cache().take(10)
+    val topTen = countriesAndAirportCount.sortBy(_._2, ascending = false).cache().take(10)
+    val bottomTen = countriesAndAirportCount.sortBy(_._2, ascending = true).cache().take(10)
 
     //////////////////////////////////////////////////////////////////////////////////////
 
@@ -48,7 +51,11 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
 
     //////////////////////////////////////////////////////////////////////////////////////
 
-    val runwaysPerCountry = countriesAndCode.join(airportsAndRunways).map(_._2).groupByKey().mapValues(_.flatten.map(_.surface).toSet).collect()
+    val runwaysPerCountry = countriesAndCode
+      .join(airportsAndRunways)
+      .map(_._2)
+      .groupByKey()
+      .mapValues(_.flatten.collect {case rw if rw.surface.isDefined => rw.surface.get} toSet).collect()
 
     //////////////////////////////////////////////////////////////////////////////////////
 
@@ -56,8 +63,8 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
       case rw if rw.leIdent.isDefined => (rw.leIdent.get, 1)
     } reduceByKey (_ + _) sortBy (_._2, ascending = false) take 10
 
-    Report(countriesWithHighestNumberOfAirports = top10Upper,
-           countriesWithLowestNumberOfAirports = top10Bottom,
+    Report(countriesWithHighestNumberOfAirports = topTen,
+           countriesWithLowestNumberOfAirports = bottomTen,
            runwaysPerCountry = runwaysPerCountry,
            mostCommonRunwayIdentifications = top10RunwaysIds)
   }

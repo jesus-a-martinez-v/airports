@@ -13,11 +13,14 @@ import scala.concurrent.ExecutionContext
   */
 class SummarizerServiceRoute(summarizer: Summarizer)(implicit executionContext: ExecutionContext) extends BaseServiceRoute {
 
-  def getReport = pathEndOrSingleSlash {
-    get {
-      complete(summarizer.report())
+  def getReport: Route = pathPrefix("report") {
+    pathEndOrSingleSlash {
+      get {
+        complete(summarizer.report())
+      }
     }
   }
 
 //  def performQuery = pathPrefix()
+  val routes = getReport
 }
