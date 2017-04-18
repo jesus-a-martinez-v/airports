@@ -46,7 +46,7 @@ sbt test
  
  
 ```
-GET /v1/{countryReference}[?referenceIsCode=<true|false>]
+GET /v1/query/{countryReference}[?referenceIsCode=<true|false>]
 ```
 
 Where:
@@ -57,11 +57,11 @@ Where:
 Example: 
 
 ```
-GET /v1/Netherlands?referenceIsCode=false
+GET /v1/query/Netherlands?referenceIsCode=false
 
 or
 
-GET /v1/NL (same as GET /v1/NL?referenceIsCode=true)
+GET /v1/query/NL (same as GET /v1/query/NL?referenceIsCode=true)
 
 ```
 
