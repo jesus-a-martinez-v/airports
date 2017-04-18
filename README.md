@@ -37,7 +37,7 @@ sbt test
  GET /v1/report
  ```
  
- This will return something like [this.](http://www.google.com)
+ This will return something like [this.](https://github.com/jesus-a-martinez-v/airports/blob/master/report.json)
  
  
  #### Querying
@@ -65,4 +65,4 @@ GET /v1/NL (same as GET /v1/NL?referenceIsCode=true)
 
 ```
 
-This will return [this.]()
+This will return [this.](https://github.com/jesus-a-martinez-v/airports/blob/master/query.json)
