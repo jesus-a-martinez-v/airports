@@ -7,7 +7,7 @@ import com.typesafe.config.ConfigFactory
 import scala.concurrent.duration.FiniteDuration
 
 /**
-  * Created by jesus on 17/04/17.
+  * App configurations.
   */
 trait Configuration {
   //Load configuration information from application.conf into memory
