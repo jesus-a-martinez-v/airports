@@ -61,9 +61,6 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
     }
 
     def getTypeOfRunwaysPerCountry = {
-
-      // PART II: Type of runways per country
-
       // Pair each airport with its identifier.
       val airportsAndIds: RDD[(String, Airport)] = airportsRdd.map(airport => (airport.identifier, airport))
       // Join the two RDDS. Keep only the country code of the airport and their runways.
@@ -84,9 +81,8 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
     }
 
     def getTopTenRunwaysIdentifications = {
-      // PART 3: Top most common runways identifications.
       val topTenRunwaysIds: Array[(String, Int)] = runwaysRdd.collect {
-        case rw if rw.leIdent.isDefined => (rw.leIdent.get, 1) // We count each occurrence of each key.
+        case runway if runway.leIdent.isDefined => (runway.leIdent.get, 1) // We count each occurrence of each key.
       }
         .reduceByKey(_ + _) // Sum all occurrences by key.
         .sortBy(_._2, ascending = false)
