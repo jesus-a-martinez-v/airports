@@ -1,12 +1,8 @@
-import java.io.File
-
 import akka.actor.ActorSystem
 import akka.event.{Logging, LoggingAdapter}
 import akka.http.scaladsl.Http
 import akka.stream.ActorMaterializer
 
-import scala.io.Source
-import com.github.tototoshi.csv._
 import data.Data
 import http.HttpService
 import http.routes.SummarizerServiceRoute
@@ -17,7 +13,7 @@ import utils.Configuration
 import scala.concurrent.ExecutionContext
 
 /**
-  * Created by jesus on 16/04/17.
+  * Service initialization and entry point.
   */
 object Main extends App with Configuration {
   private implicit val system = ActorSystem()
@@ -47,5 +43,6 @@ object Main extends App with Configuration {
   val httpService = new HttpService(summarizerServiceRoute)
 
   // Run server and start serving.
+  println(s"Server started. Listening on $httpHost:$httpPort")
   Http().bindAndHandle(httpService.routes, httpHost, httpPort)
 }

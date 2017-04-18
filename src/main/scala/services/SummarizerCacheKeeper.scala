@@ -10,7 +10,9 @@ import scala.concurrent.duration.FiniteDuration
 /**
   * Created by jesus on 17/04/17.
   */
-class SummarizerCacheKeeper(frequency: FiniteDuration)(implicit executionContext: ExecutionContext) extends Actor {
+class SummarizerCacheKeeper(frequency: FiniteDuration)
+                           (implicit executionContext: ExecutionContext) extends Actor {
+  // Cache state
   private var report: Option[Report] = None
   private var queriesPerCountry: Map[String, QueryResult] = Map()
 
@@ -53,13 +55,9 @@ object SummarizerCacheKeeper {
 
   // Inbound messages
   case class SaveReport(report: Report)
-
   case class SaveQueryForCountry(countryCode: String, queryResult: QueryResult)
-
   case object GetReport
-
   case class GetQueryForCountry(countryCode: String)
-
   case object Clean
 
   // Outbound messages
@@ -67,5 +65,6 @@ object SummarizerCacheKeeper {
   case class QueryOperationResult(result: Option[QueryResult])
 
   // Factory method.
-  def props(frequency: FiniteDuration)(implicit executionContext: ExecutionContext) = Props(new SummarizerCacheKeeper(frequency))
+  def props(frequency: FiniteDuration)
+           (implicit executionContext: ExecutionContext) = Props(new SummarizerCacheKeeper(frequency))
 }

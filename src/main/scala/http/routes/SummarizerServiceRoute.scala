@@ -4,23 +4,36 @@ import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.model.StatusCodes
 import akka.http.scaladsl.server.Route
 import services.Summarizer
-import spray.json.{JsonParser, pimpAny}
 
 import scala.concurrent.ExecutionContext
+import scala.util.Success
 
 /**
-  * Created by jesus on 16/04/17.
+  * Endpoints to serve reports and queries about countries.
   */
-class SummarizerServiceRoute(summarizer: Summarizer)(implicit executionContext: ExecutionContext) extends BaseServiceRoute {
+class SummarizerServiceRoute(summarizer: Summarizer)
+                            (implicit executionContext: ExecutionContext) extends BaseServiceRoute {
 
-  def getReport: Route = pathPrefix("report") {
+  private def getReport: Route = pathPrefix("report") {
     pathEndOrSingleSlash {
       get {
-        complete(summarizer.report())
+        completeSimple(summarizer.report())
       }
     }
   }
 
-//  def performQuery = pathPrefix()
-  val routes = getReport
+  private def performQuery: Route = pathPrefix("query") {
+    pathPrefix(Segment) { countryReference =>
+      pathEndOrSingleSlash {
+        parameters('referenceIsCode.as[Boolean] ? true) { referenceIsCode =>
+          completeGracefully(summarizer.query(countryReference, referenceIsCode)) {
+            case Success(Some(queryResult)) => complete(queryResult)
+            case Success(None) => complete(StatusCodes.NotFound)
+          }
+        }
+      }
+    }
+  }
+
+  val routes: Route = getReport ~ performQuery
 }

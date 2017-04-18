@@ -18,6 +18,5 @@ trait Configuration {
   //Server parameters.
   val httpHost: String = httpConfig.getString("interface")
   val httpPort: Int = httpConfig.getInt("port")
-  println(s"DURATION: ${cacheConfig.getDuration("time-to-live", TimeUnit.SECONDS)}")
   val frequency: FiniteDuration = FiniteDuration(cacheConfig.getDuration("time-to-live", TimeUnit.SECONDS), TimeUnit.SECONDS)
 }

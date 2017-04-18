@@ -5,7 +5,7 @@ import com.github.tototoshi.csv._
 import models.{Airport, Country, Runway}
 
 /**
-  * Created by jesus on 16/04/17.
+  * Loads data from CSV files located in /resources/airports_analysis
   */
 object Data {
   private val airportsFileUri = getResourceFileUri("airports_analysis/airports.csv")
@@ -13,7 +13,6 @@ object Data {
   private val runwaysFileUri = getResourceFileUri("airports_analysis/runways.csv")
 
   private def getResourceFileUri(filePath: String) = this.getClass.getClassLoader.getResource(filePath).toURI
-
   private def loadData[T](file: File, mapper: Map[String, String] => T): Seq[T] = {
     val reader = CSVReader.open(file)
     val results = reader.allWithHeaders().map(mapper)

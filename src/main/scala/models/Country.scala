@@ -1,8 +1,5 @@
 package models
 
-/**
-  * Created by jesus on 15/04/17.
-  */
 case class Country(id: Long, code: String, name: String, continent: String, wikipediaLink: String, keywords: Iterable[String] = Iterable.empty) {
   require(code.nonEmpty, "code is empty")
   require(name.nonEmpty, "name is empty")

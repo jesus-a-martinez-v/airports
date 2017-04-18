@@ -1,7 +1,7 @@
 package utils
 
 /**
-  * Created by jesus on 16/04/17.
+  * Helper functions throughout the app.
   */
 object Utils {
   def optionBy[T, U](value: T, predicate: T => Boolean, mapper: T => U): Option[U] =
