@@ -1,0 +1,4572 @@
+{
+  "countriesWithHighestNumberOfAirports": [
+    [
+      {
+        "name": "United States",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/United_States",
+        "continent": "NA",
+        "code": "US",
+        "id": 302755,
+        "keywords": [
+          "America"
+        ]
+      },
+      21501
+    ],
+    [
+      {
+        "name": "Brazil",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Brazil",
+        "continent": "SA",
+        "code": "BR",
+        "id": 302791,
+        "keywords": [
+          "Brasil",
+          " Brasilian"
+        ]
+      },
+      3839
+    ],
+    [
+      {
+        "name": "Canada",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Canada",
+        "continent": "NA",
+        "code": "CA",
+        "id": 302730,
+        "keywords": []
+      },
+      2454
+    ],
+    [
+      {
+        "name": "Australia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Australia",
+        "continent": "OC",
+        "code": "AU",
+        "id": 302764,
+        "keywords": []
+      },
+      1908
+    ],
+    [
+      {
+        "name": "Russia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Russia",
+        "continent": "EU",
+        "code": "RU",
+        "id": 302714,
+        "keywords": [
+          "Soviet",
+          " Sovietskaya",
+          " Sovetskaya"
+        ]
+      },
+      920
+    ],
+    [
+      {
+        "name": "France",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/France",
+        "continent": "EU",
+        "code": "FR",
+        "id": 302687,
+        "keywords": []
+      },
+      789
+    ],
+    [
+      {
+        "name": "Argentina",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Argentina",
+        "continent": "SA",
+        "code": "AR",
+        "id": 302789,
+        "keywords": []
+      },
+      713
+    ],
+    [
+      {
+        "name": "Germany",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Germany",
+        "continent": "EU",
+        "code": "DE",
+        "id": 302681,
+        "keywords": [
+          "Deutschland"
+        ]
+      },
+      703
+    ],
+    [
+      {
+        "name": "Colombia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Colombia",
+        "continent": "SA",
+        "code": "CO",
+        "id": 302793,
+        "keywords": []
+      },
+      700
+    ],
+    [
+      {
+        "name": "Venezuela",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Venezuela",
+        "continent": "SA",
+        "code": "VE",
+        "id": 302802,
+        "keywords": []
+      },
+      592
+    ]
+  ],
+  "countriesWithLowestNumberOfAirports": [
+    [
+      {
+        "name": "Macau",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Macau",
+        "continent": "AS",
+        "code": "MO",
+        "id": 302651,
+        "keywords": [
+          "Macao"
+        ]
+      },
+      1
+    ],
+    [
+      {
+        "name": "Cocos (Keeling) Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
+        "continent": "AS",
+        "code": "CC",
+        "id": 302626,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Martinique",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Martinique",
+        "continent": "NA",
+        "code": "MQ",
+        "id": 302745,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Monaco",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Monaco",
+        "continent": "EU",
+        "code": "MC",
+        "id": 302703,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Gibraltar",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Gibraltar",
+        "continent": "EU",
+        "code": "GI",
+        "id": 302690,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Andorra",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Andorra",
+        "continent": "EU",
+        "code": "AD",
+        "id": 302672,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Mayotte",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mayotte",
+        "continent": "AF",
+        "code": "YT",
+        "id": 302609,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Nauru",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Nauru",
+        "continent": "OC",
+        "code": "NR",
+        "id": 302774,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Curaçao",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cura%C3%A7ao",
+        "continent": "NA",
+        "code": "CW",
+        "id": 302762,
+        "keywords": []
+      },
+      1
+    ],
+    [
+      {
+        "name": "Niue",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Niue",
+        "continent": "OC",
+        "code": "NU",
+        "id": 302775,
+        "keywords": []
+      },
+      1
+    ]
+  ],
+  "runwaysPerCountry": [
+    [
+      {
+        "name": "Northern Mariana Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Northern_Mariana_Islands",
+        "continent": "OC",
+        "code": "MP",
+        "id": 302771,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "TURF-GRVL",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Finland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Finland",
+        "continent": "EU",
+        "code": "FI",
+        "id": 302685,
+        "keywords": []
+      },
+      [
+        "GRVL/GRASS",
+        "ASPH/GRASS",
+        "ASPH/GRVL",
+        "COP",
+        "ASPH",
+        "Sand",
+        "Asphalt",
+        "sand/grass",
+        "GVL",
+        "ASP",
+        "GRVL",
+        "COM",
+        "grass",
+        "Oilgravel",
+        "GRASS",
+        "Oilgravel/sand",
+        "Oligravel/GRVL"
+      ]
+    ],
+    [
+      {
+        "name": "Cambodia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cambodia",
+        "continent": "AS",
+        "code": "KH",
+        "id": 302641,
+        "keywords": []
+      },
+      [
+        "GVL",
+        "ASP",
+        "CON",
+        "UNK",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Puerto Rico",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Puerto_Rico",
+        "continent": "NA",
+        "code": "PR",
+        "id": 302751,
+        "keywords": []
+      },
+      [
+        "WATER",
+        "ASPH-G",
+        "ASPH",
+        "ASPH-CONC",
+        "TURF",
+        "ASP",
+        "CON",
+        "ASPH-F"
+      ]
+    ],
+    [
+      {
+        "name": "Djibouti",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Djibouti",
+        "continent": "AF",
+        "code": "DJ",
+        "id": 302567,
+        "keywords": []
+      },
+      [
+        "PEM"
+      ]
+    ],
+    [
+      {
+        "name": "Portugal",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Portugal",
+        "continent": "EU",
+        "code": "PT",
+        "id": 302711,
+        "keywords": []
+      },
+      [
+        "grav",
+        "asphalt",
+        "GVL",
+        "ASP",
+        "CON",
+        "UNK",
+        "asph",
+        "GRAV"
+      ]
+    ],
+    [
+      {
+        "name": "Tunisia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Tunisia",
+        "continent": "AF",
+        "code": "TN",
+        "id": 302606,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "PEM",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "New Zealand",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/New_Zealand",
+        "continent": "OC",
+        "code": "NZ",
+        "id": 302776,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "GRE",
+        "Sealed",
+        "GVL",
+        "Bitumen",
+        "ASP",
+        "concrete",
+        "CON",
+        "bitumen/gravel",
+        "UNK",
+        "COM",
+        "GRS",
+        "Grass",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Nicaragua",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Nicaragua",
+        "continent": "NA",
+        "code": "NI",
+        "id": 302748,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "United Arab Emirates",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "continent": "AS",
+        "code": "AE",
+        "id": 302618,
+        "keywords": [
+          "UAE"
+        ]
+      },
+      [
+        "Asphalt",
+        "U",
+        "ASP",
+        "UNK",
+        "MAC"
+      ]
+    ],
+    [
+      {
+        "name": "Pakistan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Pakistan",
+        "continent": "AS",
+        "code": "PK",
+        "id": 302657,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "PEM",
+        "GRE",
+        "GVL",
+        "ASP",
+        "CON",
+        "UNK",
+        "MAC",
+        "SAN",
+        "'asphalt'"
+      ]
+    ],
+    [
+      {
+        "name": "Austria",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Austria",
+        "continent": "EU",
+        "code": "AT",
+        "id": 302674,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "CLOSED",
+        "ASPHALT",
+        "GRS",
+        "GRASS"
+      ]
+    ],
+    [
+      {
+        "name": "British Virgin Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/British_Virgin_Islands",
+        "continent": "NA",
+        "code": "VG",
+        "id": 302757,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Italy",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Italy",
+        "continent": "EU",
+        "code": "IT",
+        "id": 302697,
+        "keywords": [
+          "Italia"
+        ]
+      },
+      [
+        "BIT",
+        "GRE",
+        "dirt",
+        "BITUMINOUS",
+        "asphalt",
+        "ASP",
+        "concrete",
+        "UNK",
+        "grass",
+        "GRS",
+        "ground",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Algeria",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Algeria",
+        "continent": "AF",
+        "code": "DZ",
+        "id": 302568,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "PEM",
+        "GRE",
+        "ASP",
+        "CON",
+        "UNK",
+        "SAN"
+      ]
+    ],
+    [
+      {
+        "name": "Laos",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Laos",
+        "continent": "AS",
+        "code": "LA",
+        "id": 302646,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "COP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Haiti",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Haiti",
+        "continent": "NA",
+        "code": "HT",
+        "id": 302740,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Serbia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Serbia",
+        "continent": "EU",
+        "code": "RS",
+        "id": 302713,
+        "keywords": [
+          "Serb"
+        ]
+      },
+      [
+        "ASP",
+        "Paved",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Solomon Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Solomon_Islands",
+        "continent": "OC",
+        "code": "SB",
+        "id": 302781,
+        "keywords": []
+      },
+      [
+        "Sand/grass",
+        "Sand grass",
+        "Gravel dirt",
+        "Limestone/Grass",
+        "Crushed coral",
+        "Coral grass",
+        "Soil and Grass",
+        "Coral sand",
+        "Graded earth",
+        "grass coral",
+        "ASP",
+        "UNK",
+        "Grass",
+        "Coral"
+      ]
+    ],
+    [
+      {
+        "name": "Zambia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Zambia",
+        "continent": "AF",
+        "code": "ZM",
+        "id": 302611,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "Gravel",
+        "ASP",
+        "CON",
+        "UNK",
+        "BRI",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Somalia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Somalia",
+        "continent": "AF",
+        "code": "SO",
+        "id": 302601,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "sand"
+      ]
+    ],
+    [
+      {
+        "name": "Turkmenistan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Turkmenistan",
+        "continent": "AS",
+        "code": "TM",
+        "id": 302666,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Maldives",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Maldives",
+        "continent": "AS",
+        "code": "MV",
+        "id": 302652,
+        "keywords": []
+      },
+      [
+        "CON",
+        "BIT",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Netherlands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Netherlands",
+        "continent": "EU",
+        "code": "NL",
+        "id": 302708,
+        "keywords": [
+          "Holland"
+        ]
+      },
+      [
+        "PEM",
+        "ASPH",
+        "asphalt",
+        "ASP",
+        "CON",
+        "grass",
+        "grass, first 500x6 meter on 25 is paved"
+      ]
+    ],
+    [
+      {
+        "name": "Mozambique",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mozambique",
+        "continent": "AF",
+        "code": "MZ",
+        "id": 302590,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "SAN",
+        "GVL",
+        "BIT"
+      ]
+    ],
+    [
+      {
+        "name": "Senegal",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Senegal",
+        "continent": "AF",
+        "code": "SN",
+        "id": 302600,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "SAN",
+        "MAC",
+        "GRE"
+      ]
+    ],
+    [
+      {
+        "name": "South Sudan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/South_Sudan",
+        "continent": "AF",
+        "code": "SS",
+        "id": 302614,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP",
+        "Asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "France",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/France",
+        "continent": "EU",
+        "code": "FR",
+        "id": 302687,
+        "keywords": []
+      },
+      [
+        "grass - herbe  (avion)",
+        "UNPAVED",
+        "PEM",
+        "Unknown",
+        "Unpaved",
+        "Asphalt",
+        "CONCRETE",
+        "ASP",
+        "Turf",
+        "Grass - Herbe",
+        "CON",
+        "Paved",
+        "UNK",
+        "UnPaved",
+        "GRS",
+        "Grass - Herbe -> Avion - ULM",
+        "GRASS",
+        "MAC",
+        "Grass",
+        "grass - herbe  (planeur)",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Guam",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guam",
+        "continent": "OC",
+        "code": "GU",
+        "id": 302768,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Belgium",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Belgium",
+        "continent": "EU",
+        "code": "BE",
+        "id": 302676,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "CON",
+        "UNK",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Equatorial Guinea",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Equatorial_Guinea",
+        "continent": "AF",
+        "code": "GQ",
+        "id": 302577,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Yemen",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Yemen",
+        "continent": "AS",
+        "code": "YE",
+        "id": 302671,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Gibraltar",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Gibraltar",
+        "continent": "EU",
+        "code": "GI",
+        "id": 302690,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Réunion",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Réunion",
+        "continent": "AF",
+        "code": "RE",
+        "id": 302594,
+        "keywords": [
+          "Île Bourbon",
+          " La Réunion"
+        ]
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Perú",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Perú",
+        "continent": "SA",
+        "code": "PE",
+        "id": 302798,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Armenia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Armenia",
+        "continent": "AS",
+        "code": "AM",
+        "id": 302620,
+        "keywords": []
+      },
+      [
+        "paved",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Poland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Poland",
+        "continent": "EU",
+        "code": "PL",
+        "id": 302710,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "asphalt",
+        "ASP",
+        "CON",
+        "UNK",
+        "grass",
+        "Brick",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Guadeloupe",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guadeloupe",
+        "continent": "NA",
+        "code": "GP",
+        "id": 302737,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Malawi",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Malawi",
+        "continent": "AF",
+        "code": "MW",
+        "id": 302589,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRS",
+        "BIT"
+      ]
+    ],
+    [
+      {
+        "name": "Macedonia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Macedonia",
+        "continent": "EU",
+        "code": "MK",
+        "id": 302706,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRE",
+        "CON",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Hungary",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Hungary",
+        "continent": "EU",
+        "code": "HU",
+        "id": 302693,
+        "keywords": []
+      },
+      [
+        "GRE",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "Concrete",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Croatia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Croatia",
+        "continent": "EU",
+        "code": "HR",
+        "id": 302692,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "ASP",
+        "CON",
+        "UNK",
+        "grass"
+      ]
+    ],
+    [
+      {
+        "name": "Norway",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Norway",
+        "continent": "EU",
+        "code": "NO",
+        "id": 302709,
+        "keywords": []
+      },
+      [
+        "Gravel/Grass",
+        "Gravel",
+        "Ice",
+        "Asphalt",
+        "Ice - frozen lake",
+        "ASP",
+        "CON",
+        "UNK",
+        "Concrete",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Bermuda",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bermuda",
+        "continent": "NA",
+        "code": "BM",
+        "id": 302727,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Israel",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Israel",
+        "continent": "AS",
+        "code": "IL",
+        "id": 302633,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "Asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "Paraguay",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Paraguay",
+        "continent": "SA",
+        "code": "PY",
+        "id": 302799,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Mayotte",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mayotte",
+        "continent": "AF",
+        "code": "YT",
+        "id": 302609,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Costa Rica",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Costa_Rica",
+        "continent": "NA",
+        "code": "CR",
+        "id": 302731,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "United States",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/United_States",
+        "continent": "NA",
+        "code": "US",
+        "id": 302755,
+        "keywords": [
+          "America"
+        ]
+      },
+      [
+        "BIT",
+        "DIRT-GRVL",
+        "DIRT-P",
+        "GRAVEL, GRASS / SOD",
+        "ASPH-TRTD",
+        "ALUMINUM",
+        "WATER",
+        "CONC-GRVL",
+        "ASPH-CONC-G",
+        "PEM",
+        "TURF-GRVL",
+        "CONC-G",
+        "PIERCED STEEL PLANKING / LANDING MATS / MEMBRANES",
+        "ASPH-TRTD-F",
+        "ASPH-GRVL-G",
+        "TURF-P",
+        "CONC-F",
+        "ASPH-G",
+        "TRTD-DIRT-P",
+        "ASPH-GRVL-F",
+        "DIRT",
+        "GRAVEL, TRTD",
+        "Water",
+        "COP",
+        "GRE",
+        "GRVL-DIRT-E",
+        "GRASS / SOD",
+        "CONC",
+        "ASPH-E",
+        "Gravel",
+        "TURF-E",
+        "TREATED-F",
+        "ASPH-TURF",
+        "ASPH",
+        "GRVL-DIRT",
+        "CLA",
+        "ASPH/CONC",
+        "Conc",
+        "TURF-DIRT-G",
+        "OILED DIRT",
+        "DIRT-GRVL-P",
+        "UNKNOWN",
+        "CORAL",
+        "GRVL-E",
+        "ASPH-DIRT",
+        "ASPH-DIRT-P",
+        "ALUM",
+        "TURF-F",
+        "STEEL",
+        "ASPH-TURF-E",
+        "turf",
+        "GRVL-TURF-G",
+        "CONC-P",
+        "Asphalt",
+        "ASPH-GRVL",
+        "MATS-G",
+        "DIRT-G",
+        "ASPH-CONC",
+        "ASP/CONC",
+        "asphalt",
+        "U",
+        "GRVL-TURF-P",
+        "TURF",
+        "CONC-TURF-F",
+        "ROOF-TOP",
+        "C",
+        "DIRT-TRTD",
+        "TREATED-E",
+        "STEEL-CONC",
+        "ICE",
+        "GRVL-TRTD-F",
+        "GRASS / SOD, NATURAL SOIL",
+        "GVL",
+        "TURF-GRVL-G",
+        "GRVL-TURF-F",
+        "PER",
+        "ASPH-P",
+        "GRVL-DIRT-P",
+        "WOOD",
+        "WATER-G",
+        "ASPH-CONC-P",
+        "DIRT-TURF-G",
+        "ASPH-TURF-G",
+        "TREATED",
+        "CALICHE",
+        "None",
+        "ASP",
+        "GRAVEL-E",
+        "concrete",
+        "TURF-DIRT",
+        "GRVL-TURF",
+        "Turf",
+        "GRVL",
+        "DIRT-GRVL-F",
+        "NATURAL SOIL",
+        "TRTD-DIRT-F",
+        "TURF-TRTD-G",
+        "CON",
+        "TURF-SAND-F",
+        "NSTD",
+        "GRASS-F",
+        "TRTD-DIRT",
+        "GRVL-TRTD",
+        "GRVL-DIRT-F",
+        "GRAVEL-F",
+        "DIRT-F",
+        "TRTD",
+        "ASPH-TRTD-P",
+        "GRAVEL / CINDERS / CRUSHED ROCK / CORAL/SHELLS / SLAG",
+        "NEOPRENE",
+        "ASPH-TURF-P",
+        "OIL&CHIP-T-G",
+        "PSP",
+        "SAND-F",
+        "GRASS / SOD, GRAVEL",
+        "Natural Soil",
+        "ASPH/ CONC",
+        "GRAVEL-P",
+        "TURF-GRVL-P",
+        "UNK",
+        "COR",
+        "ASPH/GRVL-F",
+        "COM",
+        "ROOFTOP",
+        "grass",
+        "DIRT-SAND",
+        "GRAVEL-G",
+        "GRVL-G",
+        "ASPH-TURF-F",
+        "TURF-DIRT-F",
+        "DECK",
+        "PFC",
+        "ASPH-L",
+        "TURF-G",
+        "MATS",
+        "BRICK",
+        "ASPH-F",
+        "ASPH-CONC-F",
+        "CONC-TURF-G",
+        "CONC-TRTD-G",
+        "METAL",
+        "GRS",
+        "TURF-DIRT-P",
+        "DIRT-GRVL-G",
+        "DIRT-TURF",
+        "GRASS",
+        "GRVL-F",
+        "DIRT-E",
+        "ASPH-DIRT-G",
+        "GRVL-TRTD-P",
+        "GRVL-DIRT-G",
+        "ALUM-DECK",
+        "CONC-TURF",
+        "LAT",
+        "WATER-E",
+        "Grass",
+        "GRAVEL",
+        "ASPH-GRVL-P",
+        "GRVL-P",
+        "SOD",
+        "CONC-TRTD",
+        "CONC-E",
+        "NATURAL SOIL, GRASS / SOD",
+        "TREATED-G",
+        "DIRT-TURF-F",
+        "SAND",
+        "CONC-GRVL-G",
+        "ASPH-TRTD-G",
+        "TURF-GRVL-F"
+      ]
+    ],
+    [
+      {
+        "name": "Wallis and Futuna",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Wallis_and_Futuna",
+        "continent": "OC",
+        "code": "WF",
+        "id": 302787,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Turkey",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Turkey",
+        "continent": "AS",
+        "code": "TR",
+        "id": 302667,
+        "keywords": []
+      },
+      [
+        "Asphalt",
+        "PER",
+        "CONCRETE",
+        "ASP",
+        "concrete",
+        "CON",
+        "Concrete"
+      ]
+    ],
+    [
+      {
+        "name": "Botswana",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Botswana",
+        "continent": "AF",
+        "code": "BW",
+        "id": 302560,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GVL",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Vanuatu",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Vanuatu",
+        "continent": "OC",
+        "code": "VU",
+        "id": 302786,
+        "keywords": []
+      },
+      [
+        "Volcanic ash/soil",
+        "Asphalt",
+        "ASP",
+        "Volcanic ash impregnated with bitumen",
+        "GRS",
+        "Grass",
+        "Coral",
+        "Grass on coral"
+      ]
+    ],
+    [
+      {
+        "name": "Namibia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Namibia",
+        "continent": "AF",
+        "code": "NA",
+        "id": 302591,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GVL",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Greece",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Greece",
+        "continent": "EU",
+        "code": "GR",
+        "id": 302691,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "PEM"
+      ]
+    ],
+    [
+      {
+        "name": "Guatemala",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guatemala",
+        "continent": "NA",
+        "code": "GT",
+        "id": 302738,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP",
+        "Dirt/Gravel"
+      ]
+    ],
+    [
+      {
+        "name": "Congo (Brazzaville)",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Congo_(Brazzaville)",
+        "continent": "AF",
+        "code": "CG",
+        "id": 302563,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Cocos (Keeling) Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
+        "continent": "AS",
+        "code": "CC",
+        "id": 302626,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Estonia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Estonia",
+        "continent": "EU",
+        "code": "EE",
+        "id": 302683,
+        "keywords": []
+      },
+      [
+        "GRS",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Jersey",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Jersey",
+        "continent": "EU",
+        "code": "JE",
+        "id": 302698,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "French Southern Territories",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/French_Southern_Territories",
+        "continent": "AN",
+        "code": "TF",
+        "id": 302617,
+        "keywords": []
+      },
+      [
+        "dirt"
+      ]
+    ],
+    [
+      {
+        "name": "Libya",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Libya",
+        "continent": "AF",
+        "code": "LY",
+        "id": 302583,
+        "keywords": []
+      },
+      [
+        "COP",
+        "GVL",
+        "ASP",
+        "CON",
+        "SAN"
+      ]
+    ],
+    [
+      {
+        "name": "British Indian Ocean Territory",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
+        "continent": "AS",
+        "code": "IO",
+        "id": 302635,
+        "keywords": []
+      },
+      [
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "French Polynesia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/French_Polynesia",
+        "continent": "OC",
+        "code": "PF",
+        "id": 302777,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "BIT",
+        "COR",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Sint Maarten",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Sint_Maarten",
+        "continent": "NA",
+        "code": "SX",
+        "id": 302761,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "ASPH-CONC"
+      ]
+    ],
+    [
+      {
+        "name": "Burundi",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Burundi",
+        "continent": "AF",
+        "code": "BI",
+        "id": 302558,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "American Samoa",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/American_Samoa",
+        "continent": "OC",
+        "code": "AS",
+        "id": 302763,
+        "keywords": []
+      },
+      [
+        "CONC-G",
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Nepal",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Nepal",
+        "continent": "AS",
+        "code": "NP",
+        "id": 302654,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP",
+        "asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "New Caledonia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/New_Caledonia",
+        "continent": "OC",
+        "code": "NC",
+        "id": 302772,
+        "keywords": []
+      },
+      [
+        "Paved/Compacted schist",
+        "Asphalt",
+        "ASP",
+        "UNK",
+        "MAC",
+        "Paved/Gravel"
+      ]
+    ],
+    [
+      {
+        "name": "Comoros",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Comoros",
+        "continent": "AF",
+        "code": "KM",
+        "id": 302580,
+        "keywords": [
+          "جزر القمر"
+        ]
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Guernsey",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guernsey",
+        "continent": "EU",
+        "code": "GG",
+        "id": 302689,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRE"
+      ]
+    ],
+    [
+      {
+        "name": "São Tomé and Principe",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/São_Tomé_and_Principe",
+        "continent": "AF",
+        "code": "ST",
+        "id": 302602,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Norfolk Island",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Norfolk_Island",
+        "continent": "OC",
+        "code": "NF",
+        "id": 302773,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Niger",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Niger",
+        "continent": "AF",
+        "code": "NE",
+        "id": 302592,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "LAT"
+      ]
+    ],
+    [
+      {
+        "name": "Sri Lanka",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Sri_Lanka",
+        "continent": "AS",
+        "code": "LK",
+        "id": 302648,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "Asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "Venezuela",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Venezuela",
+        "continent": "SA",
+        "code": "VE",
+        "id": 302802,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "UNK",
+        "CONCRETE"
+      ]
+    ],
+    [
+      {
+        "name": "Angola",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Angola",
+        "continent": "AF",
+        "code": "AO",
+        "id": 302556,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "United Kingdom",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/United_Kingdom",
+        "continent": "EU",
+        "code": "GB",
+        "id": 302688,
+        "keywords": [
+          "Great Britain"
+        ]
+      },
+      [
+        "Grass/Graded Hardcore",
+        "Grass/Asphalt",
+        "PEM",
+        "Grass/Asphalt Insert 1968X59 Feet",
+        "GRE",
+        "Gravel",
+        "Asphalt",
+        "asphalt",
+        "U",
+        "TURF",
+        "ASP",
+        "CON",
+        "Graded Hardcore",
+        "Concrete/Asphalt",
+        "UNK",
+        "Concrete",
+        "grass",
+        "Concrete/Grass",
+        "Tarmac",
+        "GRS",
+        "GRASS",
+        "Grass",
+        "Grass/Helipads Concrete",
+        "SAND"
+      ]
+    ],
+    [
+      {
+        "name": "Germany",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Germany",
+        "continent": "EU",
+        "code": "DE",
+        "id": 302681,
+        "keywords": [
+          "Deutschland"
+        ]
+      },
+      [
+        "PEM",
+        "ASPH",
+        "CONCRETE + GRASS. MTOM 2t",
+        "Asphalt",
+        "asphalt",
+        "U",
+        "TURF",
+        "ASP",
+        "concrete",
+        "CON",
+        "Paved",
+        "gras",
+        "UNK",
+        "Concrete",
+        "grass",
+        "ASPHALT",
+        "GRS",
+        "GRASS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Cuba",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cuba",
+        "continent": "NA",
+        "code": "CU",
+        "id": 302732,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Kenya",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kenya",
+        "continent": "AF",
+        "code": "KE",
+        "id": 302579,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "GRE",
+        "BIT"
+      ]
+    ],
+    [
+      {
+        "name": "Swaziland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Swaziland",
+        "continent": "AF",
+        "code": "SZ",
+        "id": 302603,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Montserrat",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Montserrat",
+        "continent": "NA",
+        "code": "MS",
+        "id": 302746,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Mongolia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mongolia",
+        "continent": "AS",
+        "code": "MN",
+        "id": 302650,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "GRE",
+        "ASP",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Moldova",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Moldova",
+        "continent": "EU",
+        "code": "MD",
+        "id": 302704,
+        "keywords": []
+      },
+      [
+        "grass",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Saint Lucia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Lucia",
+        "continent": "NA",
+        "code": "LC",
+        "id": 302744,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Uganda",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Uganda",
+        "continent": "AF",
+        "code": "UG",
+        "id": 302608,
+        "keywords": []
+      },
+      [
+        "GRE",
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Cape Verde",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cape_Verde",
+        "continent": "AF",
+        "code": "CV",
+        "id": 302566,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Ethiopia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ethiopia",
+        "continent": "AF",
+        "code": "ET",
+        "id": 302572,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Philippines",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Philippines",
+        "continent": "AS",
+        "code": "PH",
+        "id": 302656,
+        "keywords": [
+          "Philippine",
+          " Phillipines Philipines"
+        ]
+      },
+      [
+        "BIT",
+        "PEM",
+        "COP",
+        "dirt",
+        "ASP",
+        "CON",
+        "Paved",
+        "Concrete",
+        "ASP/CON"
+      ]
+    ],
+    [
+      {
+        "name": "Japan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Japan",
+        "continent": "AS",
+        "code": "JP",
+        "id": 302639,
+        "keywords": [
+          "Nippon"
+        ]
+      },
+      [
+        "PEM",
+        "GRE",
+        "U",
+        "ASP",
+        "concrete",
+        "CON",
+        "PSP",
+        "UNK",
+        "COR",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Taiwan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Taiwan",
+        "continent": "AS",
+        "code": "TW",
+        "id": 302668,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Palestinian Territory",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Palestinian_Territory",
+        "continent": "AS",
+        "code": "PS",
+        "id": 302658,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Canada",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Canada",
+        "continent": "NA",
+        "code": "CA",
+        "id": 302730,
+        "keywords": []
+      },
+      [
+        "GRVL/CLAY",
+        "TURF/OIL PACKE",
+        "GRVL/ASP",
+        "TURF/GRAVEL/CL",
+        "OILED GRAVEL",
+        "CLAY/GRAVEL",
+        "asp",
+        "PEM",
+        "LOOSE GRAVEL",
+        "ASPHALT/TURF",
+        "GRAVEL/CLAY",
+        "CLAY/TURF",
+        "GRASS&amp;GRAVEL",
+        "OLD ASP",
+        "SAND/GRAVEL",
+        "DIRT",
+        "CLAY/GRAVEL/TU",
+        "Gravel/Asphalt mix",
+        "COP",
+        "GRE",
+        "TURF/CHIPSEAL",
+        "TURF/EARTH",
+        "Gravel",
+        "dirt, No winter maint.",
+        "ASPH",
+        "Turf / Snow",
+        "water",
+        "SAND/GRVL",
+        "Ice",
+        "TURF/GRAVEL",
+        "SOFT SAND",
+        "SAND/CLAY/GRAV",
+        "Sand",
+        "turf",
+        "OILED",
+        "TREATED GRAVEL",
+        "Asphalt",
+        "TREATED SAND",
+        "TURF/ASPHALT",
+        "TURF/GRAVEL/AS",
+        "asphalt",
+        "Turf, soft during spring thaw",
+        "GRASS/GRAVEL",
+        "TURF",
+        "Turf / Gravel",
+        "GRAVEL/TURF",
+        "GVL",
+        "CRUSHED ROCK",
+        "CLAY",
+        "Asphalt/Turf",
+        "TURF/GRAVEL/SN",
+        "GRAVEL/SAND",
+        "PACKED GRAVEL",
+        "GRAVEL/CLAY/SA",
+        "ASP",
+        "EARTH/TURF",
+        "OILED GRAVEL/T",
+        "GRASS/SNOW",
+        "Turf",
+        "TRTD GRVL",
+        "GRVL",
+        "Turf/Snow",
+        "EARTH/SNOW",
+        "CON",
+        "TURF/ASP",
+        "TURF/TREATED G",
+        "TURF/GRVL",
+        "EARTH",
+        "GRVL/TURF",
+        "UNK",
+        "CLAY/GRVL",
+        "COM",
+        "asphalt/gravel",
+        "CONC/GRVL",
+        "grass",
+        "SNOW",
+        "TURF/CLAY",
+        "GRAVEL/GRASS",
+        "SAND/GRAVEL/AS",
+        "gravel",
+        "ASPHALT",
+        "GRAVEL/SAND/CL",
+        "GRS",
+        "TURF/SOIL",
+        "Stone Dust",
+        "GRASS",
+        "TURF/SNOW",
+        "Gravel/Snow",
+        "SAN",
+        "TURF/EARTH/GRA",
+        "Grass",
+        "GRAVEL",
+        "paved",
+        "CLAY/SAND",
+        "SAND",
+        "ASP/TURF"
+      ]
+    ],
+    [
+      {
+        "name": "Bulgaria",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bulgaria",
+        "continent": "EU",
+        "code": "BG",
+        "id": 302677,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "ASP",
+        "concrete",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Uruguay",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Uruguay",
+        "continent": "SA",
+        "code": "UY",
+        "id": 302801,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "CON",
+        "UNK",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "El Salvador",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/El_Salvador",
+        "continent": "NA",
+        "code": "SV",
+        "id": 302752,
+        "keywords": [
+          "Salvadorian",
+          " Salvadorean"
+        ]
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Bahrain",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bahrain",
+        "continent": "AS",
+        "code": "BH",
+        "id": 302623,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Falkland Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Falkland_Islands",
+        "continent": "SA",
+        "code": "FK",
+        "id": 302795,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Lesotho",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Lesotho",
+        "continent": "AF",
+        "code": "LS",
+        "id": 302582,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRE"
+      ]
+    ],
+    [
+      {
+        "name": "Ukraine",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ukraine",
+        "continent": "EU",
+        "code": "UA",
+        "id": 302719,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "ASP",
+        "CON",
+        "UNK",
+        "BRI",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Afghanistan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Afghanistan",
+        "continent": "AS",
+        "code": "AF",
+        "id": 302619,
+        "keywords": []
+      },
+      [
+        "GRV",
+        "CONCRETE AND ASP",
+        "GVL",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Nauru",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Nauru",
+        "continent": "OC",
+        "code": "NR",
+        "id": 302774,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Palau",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Palau",
+        "continent": "OC",
+        "code": "PW",
+        "id": 302780,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRAVEL-F",
+        "GRVL-F"
+      ]
+    ],
+    [
+      {
+        "name": "Morocco",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Morocco",
+        "continent": "AF",
+        "code": "MA",
+        "id": 302584,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "BIT",
+        "UNK",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Singapore",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Singapore",
+        "continent": "AS",
+        "code": "SG",
+        "id": 302661,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Malaysia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Malaysia",
+        "continent": "AS",
+        "code": "MY",
+        "id": 302653,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRE",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Saudi Arabia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+        "continent": "AS",
+        "code": "SA",
+        "id": 302660,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "ASP",
+        "CON",
+        "UNK",
+        "SAN"
+      ]
+    ],
+    [
+      {
+        "name": "United States Minor Outlying Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
+        "continent": "OC",
+        "code": "UM",
+        "id": 302785,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Tajikistan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Tajikistan",
+        "continent": "AS",
+        "code": "TJ",
+        "id": 302664,
+        "keywords": [
+          "Tajik"
+        ]
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Vietnam",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Vietnam",
+        "continent": "AS",
+        "code": "VN",
+        "id": 302670,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Dominica",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Dominica",
+        "continent": "NA",
+        "code": "DM",
+        "id": 302733,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Saint Helena",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Helena",
+        "continent": "AF",
+        "code": "SH",
+        "id": 302598,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Russia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Russia",
+        "continent": "EU",
+        "code": "RU",
+        "id": 302714,
+        "keywords": [
+          "Soviet",
+          " Sovietskaya",
+          " Sovetskaya"
+        ]
+      },
+      [
+        "'concrete'",
+        "PEM",
+        "GRE",
+        "Asphalt",
+        "Ground",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "Concrete",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Tonga",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Tonga",
+        "continent": "OC",
+        "code": "TO",
+        "id": 302783,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP",
+        "GRS",
+        "BIT"
+      ]
+    ],
+    [
+      {
+        "name": "Honduras",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Honduras",
+        "continent": "NA",
+        "code": "HN",
+        "id": 302739,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRVL",
+        "CON",
+        "GRVL-GRASS",
+        "GRASS"
+      ]
+    ],
+    [
+      {
+        "name": "Antigua and Barbuda",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+        "continent": "NA",
+        "code": "AG",
+        "id": 302722,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Kazakhstan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kazakhstan",
+        "continent": "AS",
+        "code": "KZ",
+        "id": 302645,
+        "keywords": [
+          "Kazakh"
+        ]
+      },
+      [
+        "PEM",
+        "GRE",
+        "asphalt",
+        "ASP",
+        "CON",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Anguilla",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Anguilla",
+        "continent": "NA",
+        "code": "AI",
+        "id": 302723,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Western Sahara",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Western_Sahara",
+        "continent": "AF",
+        "code": "EH",
+        "id": 302570,
+        "keywords": [
+          "Sahrawian"
+        ]
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Oman",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Oman",
+        "continent": "AS",
+        "code": "OM",
+        "id": 302655,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GVL",
+        "GRE"
+      ]
+    ],
+    [
+      {
+        "name": "Marshall Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Marshall_Islands",
+        "continent": "OC",
+        "code": "MH",
+        "id": 302770,
+        "keywords": []
+      },
+      [
+        "GRVL",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Sudan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Sudan",
+        "continent": "AF",
+        "code": "SD",
+        "id": 302597,
+        "keywords": []
+      },
+      [
+        "Asphalt",
+        "GVL",
+        "ASP",
+        "UNK",
+        "gravel",
+        "graded earth"
+      ]
+    ],
+    [
+      {
+        "name": "Saint Martin",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Martin_(France)",
+        "continent": "NA",
+        "code": "MF",
+        "id": 302759,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Liberia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Liberia",
+        "continent": "AF",
+        "code": "LR",
+        "id": 302581,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Mauritius",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mauritius",
+        "continent": "AF",
+        "code": "MU",
+        "id": 302588,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Belarus",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Belarus",
+        "continent": "EU",
+        "code": "BY",
+        "id": 302678,
+        "keywords": [
+          "Belarussian",
+          " Беларусь"
+        ]
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Lebanon",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Lebanon",
+        "continent": "AS",
+        "code": "LB",
+        "id": 302647,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Hong Kong",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Hong_Kong",
+        "continent": "AS",
+        "code": "HK",
+        "id": 302631,
+        "keywords": []
+      },
+      [
+        "Asphalt",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Kuwait",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kuwait",
+        "continent": "AS",
+        "code": "KW",
+        "id": 302644,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Barbados",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Barbados",
+        "continent": "NA",
+        "code": "BB",
+        "id": 302726,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Timor-Leste",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Timor-Leste",
+        "continent": "AS",
+        "code": "TL",
+        "id": 302665,
+        "keywords": [
+          "East Timor"
+        ]
+      },
+      [
+        "Grass",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Côte d'Ivoire",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Côte_d'Ivoire",
+        "continent": "AF",
+        "code": "CI",
+        "id": 302564,
+        "keywords": [
+          "Ivory Coast"
+        ]
+      },
+      [
+        "ASP",
+        "UNK",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Isle of Man",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Isle_of_Man",
+        "continent": "EU",
+        "code": "IM",
+        "id": 302695,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Niue",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Niue",
+        "continent": "OC",
+        "code": "NU",
+        "id": 302775,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Chad",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Chad",
+        "continent": "AF",
+        "code": "TD",
+        "id": 302604,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Seychelles",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Seychelles",
+        "continent": "AF",
+        "code": "SC",
+        "id": 302596,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Denmark",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Denmark",
+        "continent": "EU",
+        "code": "DK",
+        "id": 302682,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "ASP",
+        "UNK",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Eritrea",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Eritrea",
+        "continent": "AF",
+        "code": "ER",
+        "id": 302571,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Iceland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Iceland",
+        "continent": "EU",
+        "code": "IS",
+        "id": 302696,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "BIT",
+        "ASP",
+        "ASPH-G"
+      ]
+    ],
+    [
+      {
+        "name": "Brunei",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Brunei",
+        "continent": "AS",
+        "code": "BN",
+        "id": 302624,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Ghana",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ghana",
+        "continent": "AF",
+        "code": "GH",
+        "id": 302574,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Bangladesh",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bangladesh",
+        "continent": "AS",
+        "code": "BD",
+        "id": 302622,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Albania",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Albania",
+        "continent": "EU",
+        "code": "AL",
+        "id": 302673,
+        "keywords": []
+      },
+      [
+        "GRE",
+        "ASP",
+        "CON",
+        "GRS",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Cameroon",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cameroon",
+        "continent": "AF",
+        "code": "CM",
+        "id": 302565,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Colombia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Colombia",
+        "continent": "SA",
+        "code": "CO",
+        "id": 302793,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "GRE",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Burkina Faso",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Burkina_Faso",
+        "continent": "AF",
+        "code": "BF",
+        "id": 302557,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "LAT"
+      ]
+    ],
+    [
+      {
+        "name": "India",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/India",
+        "continent": "AS",
+        "code": "IN",
+        "id": 302634,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "PEM",
+        "GRE",
+        "asphalt",
+        "GVL",
+        "Dirt",
+        "Bitumen",
+        "ASP",
+        "grass/concrete",
+        "CON",
+        "UNK",
+        "COM",
+        "Concrete",
+        "ASPHALT",
+        "GRS",
+        "MAC",
+        "Grass",
+        "paved",
+        "PAVED"
+      ]
+    ],
+    [
+      {
+        "name": "Antarctica",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Antarctica",
+        "continent": "AN",
+        "code": "AQ",
+        "id": 302615,
+        "keywords": []
+      },
+      [
+        "SNO",
+        "ice",
+        "ICE",
+        "GRE"
+      ]
+    ],
+    [
+      {
+        "name": "Syria",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Syria",
+        "continent": "AS",
+        "code": "SY",
+        "id": 302662,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "ASP",
+        "CON",
+        "UNK",
+        "SAN"
+      ]
+    ],
+    [
+      {
+        "name": "Nigeria",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Nigeria",
+        "continent": "AF",
+        "code": "NG",
+        "id": 302593,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "LAT"
+      ]
+    ],
+    [
+      {
+        "name": "Togo",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Togo",
+        "continent": "AF",
+        "code": "TG",
+        "id": 302605,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Samoa",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Samoa",
+        "continent": "OC",
+        "code": "WS",
+        "id": 302788,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Cyprus",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cyprus",
+        "continent": "AS",
+        "code": "CY",
+        "id": 302629,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "concrete"
+      ]
+    ],
+    [
+      {
+        "name": "Spain",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Spain",
+        "continent": "EU",
+        "code": "ES",
+        "id": 302684,
+        "keywords": []
+      },
+      [
+        "GRE",
+        "Asphalt",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "ASPHALT",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Sierra Leone",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Sierra_Leone",
+        "continent": "AF",
+        "code": "SL",
+        "id": 302599,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Martinique",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Martinique",
+        "continent": "NA",
+        "code": "MQ",
+        "id": 302745,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Turks and Caicos Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+        "continent": "NA",
+        "code": "TC",
+        "id": 302753,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Cook Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cook_Islands",
+        "continent": "OC",
+        "code": "CK",
+        "id": 302765,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "COR",
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Panama",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Panama",
+        "continent": "NA",
+        "code": "PA",
+        "id": 302749,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "Asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "Bosnia and Herzegovina",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+        "continent": "EU",
+        "code": "BA",
+        "id": 302675,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "Grass",
+        "GRASS"
+      ]
+    ],
+    [
+      {
+        "name": "Chile",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Chile",
+        "continent": "SA",
+        "code": "CL",
+        "id": 302792,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "GRV",
+        "GRE",
+        "GRV/MAICILLO",
+        "GRASS/PAD",
+        "SAND/GRASS",
+        "CON/PAD",
+        "PAD/GRASS",
+        "GVL",
+        "CLAY",
+        "ASP",
+        "PAD",
+        "CON",
+        "GRV/GRASS",
+        "UNK",
+        "GRV/PAD",
+        "PAD/CON",
+        "GRASS",
+        "GRAIN",
+        "GRV/ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Aruba",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Aruba",
+        "continent": "NA",
+        "code": "AW",
+        "id": 302725,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Lithuania",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Lithuania",
+        "continent": "EU",
+        "code": "LT",
+        "id": 302700,
+        "keywords": []
+      },
+      [
+        "Asphalt",
+        "GRASS OR EARTH NOT GRADED OR ROLLED",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "GRASS",
+        "Grass",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Grenada",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Grenada",
+        "continent": "NA",
+        "code": "GD",
+        "id": 302735,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Azerbaijan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Azerbaijan",
+        "continent": "AS",
+        "code": "AZ",
+        "id": 302621,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Iran",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Iran",
+        "continent": "AS",
+        "code": "IR",
+        "id": 302637,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "PEM",
+        "CON",
+        "GRE"
+      ]
+    ],
+    [
+      {
+        "name": "Argentina",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Argentina",
+        "continent": "SA",
+        "code": "AR",
+        "id": 302789,
+        "keywords": []
+      },
+      [
+        "GRE",
+        "STONE",
+        "ASP",
+        "CON",
+        "UNK",
+        "Concrete",
+        "MET"
+      ]
+    ],
+    [
+      {
+        "name": "Sweden",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Sweden",
+        "continent": "EU",
+        "code": "SE",
+        "id": 302715,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "Gravel",
+        "Pavement",
+        "Asphalt",
+        "ASP",
+        "CON",
+        "UNK",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Burma",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Burma",
+        "continent": "AS",
+        "code": "MM",
+        "id": 302649,
+        "keywords": [
+          "Myanmar"
+        ]
+      },
+      [
+        "ASP",
+        "BIT",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Guyana",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guyana",
+        "continent": "SA",
+        "code": "GY",
+        "id": 302797,
+        "keywords": []
+      },
+      [
+        "concrete",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Tuvalu",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Tuvalu",
+        "continent": "OC",
+        "code": "TV",
+        "id": 302784,
+        "keywords": []
+      },
+      [
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Georgia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Georgia_(country)",
+        "continent": "AS",
+        "code": "GE",
+        "id": 302630,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Benin",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Benin",
+        "continent": "AF",
+        "code": "BJ",
+        "id": 302559,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Bolivia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bolivia",
+        "continent": "SA",
+        "code": "BO",
+        "id": 302790,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRE",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Romania",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Romania",
+        "continent": "EU",
+        "code": "RO",
+        "id": 302712,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "UNK",
+        "grass",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Suriname",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Suriname",
+        "continent": "SA",
+        "code": "SR",
+        "id": 302800,
+        "keywords": []
+      },
+      [
+        "ASPHALT"
+      ]
+    ],
+    [
+      {
+        "name": "Mali",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mali",
+        "continent": "AF",
+        "code": "ML",
+        "id": 302586,
+        "keywords": []
+      },
+      [
+        "Brown clay gravel",
+        "GVL",
+        "ASP",
+        "UNK",
+        "LAT"
+      ]
+    ],
+    [
+      {
+        "name": "Jordan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Jordan",
+        "continent": "AS",
+        "code": "JO",
+        "id": 302638,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Indonesia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Indonesia",
+        "continent": "AS",
+        "code": "ID",
+        "id": 302632,
+        "keywords": []
+      },
+      [
+        "Grass/sandy soil",
+        "Sand/grass",
+        "Rocky gravel",
+        "PEM",
+        "Grass/gravel",
+        "Sand/clay",
+        "Hard clay",
+        "GRE",
+        "Grass over hard gravel",
+        "Gravel/grass",
+        "Gravel",
+        "Grass/Clay",
+        "ASPH/CONC",
+        "Gravel/grass, First 410m of RWY 23 paved",
+        "Grass/red clay",
+        "Graded earth",
+        "Asphalt",
+        "Rock/Gravel/Clay",
+        "Compacted sand",
+        "Sod with gravel & sand",
+        "Dirt/rock",
+        "Grass over gravel",
+        "asphalt",
+        "Grass/rolled earth",
+        "GVL",
+        "Asphalt concrete",
+        "Grass Dirt",
+        "Grass/Moss",
+        "ASP",
+        "Grass/dirt",
+        "CON",
+        "Sod over hard clay",
+        "Grass over rock",
+        "grass",
+        "Compacted coral and sand",
+        "Dirt/grass",
+        "Sand laterite",
+        "Hard mud",
+        "ASPHALT",
+        "GRS",
+        "Clay/grass",
+        "Grass/clay",
+        "Asphalt/Grass",
+        "Coral penetration",
+        "Gravel/dirt",
+        "Asphalt/Concrete",
+        "Grass",
+        "Gravel/soil",
+        "Coral",
+        "Gravel/clay",
+        "Clay"
+      ]
+    ],
+    [
+      {
+        "name": "Macau",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Macau",
+        "continent": "AS",
+        "code": "MO",
+        "id": 302651,
+        "keywords": [
+          "Macao"
+        ]
+      },
+      [
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Luxembourg",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Luxembourg",
+        "continent": "EU",
+        "code": "LU",
+        "id": 302701,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "grass"
+      ]
+    ],
+    [
+      {
+        "name": "Faroe Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Faroe_Islands",
+        "continent": "EU",
+        "code": "FO",
+        "id": 302686,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Iraq",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Iraq",
+        "continent": "AS",
+        "code": "IQ",
+        "id": 302636,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GRE",
+        "U",
+        "Asphaltic Concrete",
+        "ASP",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Fiji",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Fiji",
+        "continent": "OC",
+        "code": "FJ",
+        "id": 302766,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Greenland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Greenland",
+        "continent": "NA",
+        "code": "GL",
+        "id": 302736,
+        "keywords": []
+      },
+      [
+        "ASPH",
+        "ICE",
+        "GVL",
+        "ASP",
+        "CON",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "U.S. Virgin Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/U.S._Virgin_Islands",
+        "continent": "NA",
+        "code": "VI",
+        "id": 302758,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "WATER"
+      ]
+    ],
+    [
+      {
+        "name": "Caribbean Netherlands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Caribbean_Netherlands",
+        "continent": "NA",
+        "code": "BQ",
+        "id": 302724,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Mauritania",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mauritania",
+        "continent": "AF",
+        "code": "MR",
+        "id": 302587,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "MAC",
+        "BIT"
+      ]
+    ],
+    [
+      {
+        "name": "Kyrgyzstan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kyrgyzstan",
+        "continent": "AS",
+        "code": "KG",
+        "id": 302640,
+        "keywords": []
+      },
+      [
+        "asphalt",
+        "ASP",
+        "concrete",
+        "CON",
+        "ASB"
+      ]
+    ],
+    [
+      {
+        "name": "Trinidad and Tobago",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+        "continent": "NA",
+        "code": "TT",
+        "id": 302754,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Belize",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Belize",
+        "continent": "NA",
+        "code": "BZ",
+        "id": 302729,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Gabon",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Gabon",
+        "continent": "AF",
+        "code": "GA",
+        "id": 302573,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "LAT"
+      ]
+    ],
+    [
+      {
+        "name": "Slovenia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Slovenia",
+        "continent": "EU",
+        "code": "SI",
+        "id": 302716,
+        "keywords": []
+      },
+      [
+        "asphalt",
+        "ASP",
+        "concrete",
+        "grass",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Curaçao",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cura%C3%A7ao",
+        "continent": "NA",
+        "code": "CW",
+        "id": 302762,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+        "continent": "NA",
+        "code": "VC",
+        "id": 302756,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Cayman Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Cayman_Islands",
+        "continent": "NA",
+        "code": "KY",
+        "id": 302743,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Papua New Guinea",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "continent": "OC",
+        "code": "PG",
+        "id": 302778,
+        "keywords": []
+      },
+      [
+        "Grassed brown silty clay",
+        "Grassed red clay gravel",
+        "Grassed red silt clay",
+        "Grassed brown silt clay",
+        "Grass/gravel",
+        "Grassed black clay",
+        "Grassed grey silt sand",
+        "Brown clay gravel",
+        "Brown clay",
+        "Brown gravel",
+        "Grassed blackclay",
+        "GRE",
+        "Grassed Brown Clay",
+        "Grey clay",
+        "Grassed brown clay gravel",
+        "Grassed grey clay",
+        "Grassed red silt sand",
+        "Grassed sandy loam",
+        "Gravel",
+        "Brown silt clay",
+        "Grassed limestone gravel",
+        "Grassed red clay",
+        "Red clay",
+        "Grassed clay silt clay",
+        "Grassed white gravel",
+        "Grassed grey gravel",
+        "Grassed black clay silt",
+        "Yellow gravel",
+        "Grassed sand clay",
+        "Grassed brown sandy clay",
+        "Grassed black soil",
+        "Grassed yellow gravel",
+        "Grassed black sand",
+        "Grassed black clay sand",
+        "Grassed clay",
+        "Grassed brown loam",
+        "GVL",
+        "Grey silt clay",
+        "White gravel",
+        "Grey gravel",
+        "Grassed yellow silt clay",
+        "Grassed red silt",
+        "Grassed brown gravel",
+        "ASP",
+        "Black silt",
+        "Grassed Sand",
+        "Grassed brown clay",
+        "Grassed river gravel",
+        "UNK",
+        "Grassed silt clay",
+        "Grassed grey silt clay",
+        "Red clay gravel",
+        "Grassed black silt sand",
+        "Brown Silt clay",
+        "Red gravel",
+        "Black clay",
+        "Grass red silty clay",
+        "Grassed yellow clay",
+        "Grassed gravel",
+        "GRS",
+        "Hard loam",
+        "Grassed grey sand",
+        "Grassed black silt clay",
+        "Grassed red silty clay",
+        "Grassed white lime stone",
+        "Red silt clay",
+        "Grassed brown silt loam",
+        "Grassed black silt",
+        "Grassed Red Clay",
+        "Sandy gravel with clay",
+        "Grassed white coronas",
+        "Clay"
+      ]
+    ],
+    [
+      {
+        "name": "Saint Pierre and Miquelon",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+        "continent": "NA",
+        "code": "PM",
+        "id": 302750,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Egypt",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Egypt",
+        "continent": "AF",
+        "code": "EG",
+        "id": 302569,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "Asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "Latvia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Latvia",
+        "continent": "EU",
+        "code": "LV",
+        "id": 302702,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "PEM"
+      ]
+    ],
+    [
+      {
+        "name": "Ireland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ireland",
+        "continent": "EU",
+        "code": "IE",
+        "id": 302694,
+        "keywords": [
+          "Eire"
+        ]
+      },
+      [
+        "BIT",
+        "PEM",
+        "ASPH",
+        "GRASS/HARDCORE",
+        "Bituminous",
+        "ASP",
+        "CON",
+        "UNK",
+        "GRASS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Mexico",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Mexico",
+        "continent": "NA",
+        "code": "MX",
+        "id": 302747,
+        "keywords": []
+      },
+      [
+        "packed dirt",
+        "Soil",
+        "GRE",
+        "Asphalt",
+        "asphalt",
+        "ASPHALTH",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Guinea",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guinea",
+        "continent": "AF",
+        "code": "GN",
+        "id": 302576,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Christmas Island",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Christmas_Island",
+        "continent": "AS",
+        "code": "CX",
+        "id": 302628,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Guinea-Bissau",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Guinea-Bissau",
+        "continent": "AF",
+        "code": "GW",
+        "id": 302578,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "French Guiana",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/French_Guiana",
+        "continent": "SA",
+        "code": "GF",
+        "id": 302796,
+        "keywords": [
+          "French Guyana"
+        ]
+      },
+      [
+        "CON",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Uzbekistan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Uzbekistan",
+        "continent": "AS",
+        "code": "UZ",
+        "id": 302669,
+        "keywords": [
+          "Uzbek"
+        ]
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "South Africa",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/South_Africa",
+        "continent": "AF",
+        "code": "ZA",
+        "id": 302610,
+        "keywords": []
+      },
+      [
+        "hard",
+        "GRE",
+        "Gravel",
+        "grass, use at own risk, animals may errode surface",
+        "paving",
+        "Asphalt",
+        "tar old",
+        "asphalt",
+        "tar",
+        "dirt, use at own risk, animals may errode surface",
+        "Soil, rough gravel",
+        "GVL",
+        "ASP",
+        "CON",
+        "Tar",
+        "Grass/Concrete",
+        "UNK",
+        "Tar - lights 5 clicks on 124.8",
+        "COM",
+        "gravel",
+        "GRS",
+        "LAT",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Saint Kitts and Nevis",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+        "continent": "NA",
+        "code": "KN",
+        "id": 302742,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Thailand",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Thailand",
+        "continent": "AS",
+        "code": "TH",
+        "id": 302663,
+        "keywords": [
+          "Siam",
+          " Siamese"
+        ]
+      },
+      [
+        "ASP",
+        "CON"
+      ]
+    ],
+    [
+      {
+        "name": "Dominican Republic",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Dominican_Republic",
+        "continent": "NA",
+        "code": "DO",
+        "id": 302734,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP",
+        "asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "North Korea",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/North_Korea",
+        "continent": "AS",
+        "code": "KP",
+        "id": 302642,
+        "keywords": []
+      },
+      [
+        "CON",
+        "ASP",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Switzerland",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Switzerland",
+        "continent": "EU",
+        "code": "CH",
+        "id": 302679,
+        "keywords": []
+      },
+      [
+        "CAUTION: ATC do NOT apply wake turbulence separation ! GRS.",
+        "CONC",
+        "ASPH",
+        "asphalt",
+        "CONCRETE",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "GRS",
+        "GRASS"
+      ]
+    ],
+    [
+      {
+        "name": "Kosovo",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kosovo",
+        "continent": "EU",
+        "code": "KS",
+        "id": 302720,
+        "keywords": [
+          "Kosova"
+        ]
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Tanzania",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Tanzania",
+        "continent": "AF",
+        "code": "TZ",
+        "id": 302607,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "GRE",
+        "ASP",
+        "Hard",
+        "UNK"
+      ]
+    ],
+    [
+      {
+        "name": "Micronesia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Micronesia",
+        "continent": "OC",
+        "code": "FM",
+        "id": 302767,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Ecuador",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ecuador",
+        "continent": "SA",
+        "code": "EC",
+        "id": 302794,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "UNK",
+        "Paviment hard"
+      ]
+    ],
+    [
+      {
+        "name": "Zimbabwe",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Zimbabwe",
+        "continent": "AF",
+        "code": "ZW",
+        "id": 302612,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "GRE",
+        "ASP",
+        "GRS",
+        "MAC"
+      ]
+    ],
+    [
+      {
+        "name": "China",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/China",
+        "continent": "AS",
+        "code": "CN",
+        "id": 302627,
+        "keywords": []
+      },
+      [
+        "Asphalt",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "Concrete",
+        "paved"
+      ]
+    ],
+    [
+      {
+        "name": "Central African Republic",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Central_African_Republic",
+        "continent": "AF",
+        "code": "CF",
+        "id": 302562,
+        "keywords": []
+      },
+      [
+        "UNK",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Brazil",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Brazil",
+        "continent": "SA",
+        "code": "BR",
+        "id": 302791,
+        "keywords": [
+          "Brasil",
+          " Brasilian"
+        ]
+      },
+      [
+        "PIÇ",
+        "SAI",
+        "CON/MET",
+        "GRV",
+        "GRE",
+        "CONC",
+        "Gravel",
+        "CON/ASP",
+        "ASPH",
+        "MTAL",
+        "GRVL/PIÇ",
+        "ARG",
+        "Asphalt",
+        "CON/GRS",
+        "GVL",
+        "WOOD",
+        "ASP",
+        "conc",
+        "GRVL",
+        "CONC/MTAL",
+        "ASP/GRS",
+        "CON",
+        "GRE/GRS",
+        "MET/CON",
+        "UNK",
+        "TER",
+        "MET",
+        "ASP/GRE",
+        "GRS",
+        "GRASS",
+        "Grass",
+        "GRAVEL",
+        "PIC",
+        "SAND"
+      ]
+    ],
+    [
+      {
+        "name": "Montenegro",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Montenegro",
+        "continent": "EU",
+        "code": "ME",
+        "id": 302705,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Slovakia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Slovakia",
+        "continent": "EU",
+        "code": "SK",
+        "id": 302717,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "CON",
+        "UNK",
+        "grass",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Bahamas",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bahamas",
+        "continent": "NA",
+        "code": "BS",
+        "id": 302728,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "ASPH",
+        "BIT"
+      ]
+    ],
+    [
+      {
+        "name": "Bhutan",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Bhutan",
+        "continent": "AS",
+        "code": "BT",
+        "id": 302625,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "Asphalt",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Jamaica",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Jamaica",
+        "continent": "NA",
+        "code": "JM",
+        "id": 302741,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Congo (Kinshasa)",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Congo_(Kinshasa)",
+        "continent": "AF",
+        "code": "CD",
+        "id": 302561,
+        "keywords": []
+      },
+      [
+        "PEM",
+        "GVL",
+        "Dirt",
+        "ASP",
+        "CON",
+        "LAT"
+      ]
+    ],
+    [
+      {
+        "name": "Qatar",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Qatar",
+        "continent": "AS",
+        "code": "QA",
+        "id": 302659,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "Asphalt"
+      ]
+    ],
+    [
+      {
+        "name": "Malta",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Malta",
+        "continent": "EU",
+        "code": "MT",
+        "id": 302707,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Kiribati",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kiribati",
+        "continent": "OC",
+        "code": "KI",
+        "id": 302769,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "COR",
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Rwanda",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Rwanda",
+        "continent": "AF",
+        "code": "RW",
+        "id": 302595,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "'asphalt'",
+        "grass"
+      ]
+    ],
+    [
+      {
+        "name": "South Korea",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/South_Korea",
+        "continent": "AS",
+        "code": "KR",
+        "id": 302643,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "PEM",
+        "GRE",
+        "Graded earth",
+        "GVL",
+        "ASP",
+        "concrete",
+        "CON",
+        "UNK",
+        "GRS"
+      ]
+    ],
+    [
+      {
+        "name": "Gambia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Gambia",
+        "continent": "AF",
+        "code": "GM",
+        "id": 302575,
+        "keywords": []
+      },
+      [
+        "ASP"
+      ]
+    ],
+    [
+      {
+        "name": "Madagascar",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Madagascar",
+        "continent": "AF",
+        "code": "MG",
+        "id": 302585,
+        "keywords": []
+      },
+      [
+        "ASP",
+        "COP",
+        "BIT",
+        "PEM"
+      ]
+    ],
+    [
+      {
+        "name": "Czech Republic",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Czech_Republic",
+        "continent": "EU",
+        "code": "CZ",
+        "id": 302680,
+        "keywords": []
+      },
+      [
+        "Asphalt",
+        "ASP",
+        "CON",
+        "UNK",
+        "grass",
+        "GRS",
+        "Grass"
+      ]
+    ],
+    [
+      {
+        "name": "Australia",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Australia",
+        "continent": "OC",
+        "code": "AU",
+        "id": 302764,
+        "keywords": []
+      },
+      [
+        "BIT",
+        "NRC",
+        "UG",
+        "PEM",
+        "unsealed",
+        "COP",
+        "GRE",
+        "Gravel",
+        "CLA",
+        "sealed",
+        "Asphalt",
+        "B",
+        "dirt",
+        "GG",
+        "TURF",
+        "C",
+        "Grass/Gravel",
+        "X",
+        "GVL",
+        "PER",
+        "Earth/sand",
+        "S",
+        "N",
+        "ASP",
+        "CON",
+        "NSGG",
+        "L",
+        "XSA",
+        "UNK",
+        "COM",
+        "grass",
+        "gravel",
+        "H",
+        "G",
+        "XUG",
+        "Grass and granite sand",
+        "GRS",
+        "SAN",
+        "SU",
+        "Grass",
+        "NW",
+        "XS",
+        "XU",
+        "paved"
+      ]
+    ]
+  ],
+  "mostCommonRunwayIdentifications": [
+    [
+      "H1",
+      5566
+    ],
+    [
+      "18",
+      3180
+    ],
+    [
+      "09",
+      2581
+    ],
+    [
+      "17",
+      2320
+    ],
+    [
+      "16",
+      1559
+    ],
+    [
+      "12",
+      1506
+    ],
+    [
+      "14",
+      1469
+    ],
+    [
+      "08",
+      1459
+    ],
+    [
+      "13",
+      1447
+    ],
+    [
+      "15",
+      1399
+    ]
+  ]
+}

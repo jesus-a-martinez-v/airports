@@ -18,4 +18,5 @@ libraryDependencies += "com.typesafe.akka" %% "akka-http-experimental" % "2.4.10
 libraryDependencies += "com.typesafe.akka" % "akka-http-spray-json-experimental_2.11" % "2.4.10"
 libraryDependencies += "com.typesafe.akka" %% "akka-http-testkit" % "2.4.10" % "test"
 
+// CSV library dependency
 libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.3.4"

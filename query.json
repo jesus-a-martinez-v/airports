@@ -1,0 +1,2560 @@
+{
+  "country": {
+    "name": "Netherlands",
+    "wikipediaLink": "http://en.wikipedia.org/wiki/Netherlands",
+    "continent": "EU",
+    "code": "NL",
+    "id": 302708,
+    "keywords": [
+      "Holland"
+    ]
+  },
+  "results": [
+    [
+      {
+        "name": "Ameland Airport",
+        "latitude": 53.451698303200004,
+        "identifier": "EHAL",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ameland_Airport",
+        "isoRegion": "NL-FR",
+        "airportType": "small_airport",
+        "longitude": 5.67721986771,
+        "continent": "EU",
+        "id": 28120,
+        "elevation": 11,
+        "keywords": [
+          "Aachen"
+        ],
+        "homeLink": "http://www.ehal.nl/",
+        "gpsCode": "EHAL",
+        "municipality": "Ameland"
+      },
+      [
+        {
+          "leElevation": 11,
+          "airportReference": 28120,
+          "heElevation": 11,
+          "surface": "grass",
+          "airportIdentifier": "EHAL",
+          "closed": false,
+          "id": 260145,
+          "leIdent": "09",
+          "length": 2625,
+          "lighted": false,
+          "width": 82,
+          "heIdent": "27"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Leids Universitair Medisch Centrum Heliport",
+        "latitude": 52.166255950927734,
+        "identifier": "NL-0018",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZH",
+        "airportType": "heliport",
+        "longitude": 4.477972030639648,
+        "continent": "EU",
+        "id": 43713,
+        "elevation": 40,
+        "keywords": [
+          "EH0014"
+        ],
+        "municipality": "Leiden"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Deelen Air Base",
+        "latitude": 52.06060028076172,
+        "iataCode": "QAR",
+        "identifier": "EHDL",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Deelen_Air_Base",
+        "isoRegion": "NL-GE",
+        "airportType": "medium_airport",
+        "longitude": 5.87306022644043,
+        "continent": "EU",
+        "id": 2516,
+        "elevation": 158,
+        "keywords": [],
+        "gpsCode": "EHDL",
+        "municipality": "Arnhem"
+      },
+      [
+        {
+          "leElevation": 144,
+          "leLatitude": 52.047,
+          "airportReference": 2516,
+          "heElevation": 158,
+          "surface": "PEM",
+          "heLatitude": 52.0723,
+          "airportIdentifier": "EHDL",
+          "closed": true,
+          "leHeading": 17.5,
+          "id": 237919,
+          "heHeading": 197.5,
+          "leIdent": "02",
+          "leLongitude": 5.86552,
+          "heDisplacedThreshold": 899,
+          "length": 9678,
+          "leDisplacedThreshold": 895,
+          "heLongitude": 5.87848,
+          "lighted": true,
+          "width": 164,
+          "heIdent": "20"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Seppe Airport",
+        "latitude": 51.5546989441,
+        "identifier": "EHSE",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Seppe_Airport",
+        "isoRegion": "NL-NB",
+        "airportType": "small_airport",
+        "longitude": 4.55249977112,
+        "continent": "EU",
+        "id": 28124,
+        "elevation": 30,
+        "keywords": [],
+        "homeLink": "http://www.seppe-airport.com/",
+        "gpsCode": "EHSE",
+        "municipality": "Hoeven"
+      },
+      [
+        {
+          "leElevation": 30,
+          "airportReference": 28124,
+          "heElevation": 30,
+          "surface": "ASPH",
+          "airportIdentifier": "EHSE",
+          "closed": false,
+          "leHeading": 66,
+          "id": 260146,
+          "heHeading": 246,
+          "leIdent": "07",
+          "length": 2723,
+          "lighted": false,
+          "width": 75,
+          "heIdent": "25"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Vu Medisch Centrum Heliport",
+        "latitude": 52.33433532714844,
+        "identifier": "NL-0012",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NH",
+        "airportType": "heliport",
+        "longitude": 4.8591108322143555,
+        "continent": "EU",
+        "id": 43707,
+        "elevation": 12,
+        "keywords": [
+          "EH0001"
+        ],
+        "municipality": "Amsterdam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Isala Klinieken. Locatie Sophia Heliport",
+        "latitude": 52.51387405395508,
+        "identifier": "NL-0013",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-OV",
+        "airportType": "heliport",
+        "longitude": 6.127999782562256,
+        "continent": "EU",
+        "id": 43708,
+        "elevation": 6,
+        "keywords": [
+          "EH0029"
+        ],
+        "municipality": "Zwolle"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Antonius Ziekenhuis Heliport",
+        "latitude": 53.03475952149999,
+        "identifier": "NL-0001",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-FR",
+        "airportType": "heliport",
+        "longitude": 5.639972209929999,
+        "continent": "EU",
+        "id": 43696,
+        "elevation": 14,
+        "keywords": [
+          "EH0020"
+        ],
+        "municipality": "Sneek"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Amsterdam Heliport",
+        "latitude": 52.4146250808,
+        "identifier": "EHHA",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Amsterdam_Heliport",
+        "isoRegion": "NL-NH",
+        "airportType": "heliport",
+        "longitude": 4.804801940920001,
+        "continent": "EU",
+        "id": 43207,
+        "elevation": 1,
+        "keywords": [],
+        "homeLink": "http://www.amsterdamheliport.com/",
+        "gpsCode": "EHHA",
+        "municipality": "Amsterdam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Medisch Centrum Leeuwarden. Locatie Zuid Heliport",
+        "latitude": 53.188507080078125,
+        "identifier": "NL-0002",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-FR",
+        "airportType": "heliport",
+        "longitude": 5.8028059005737305,
+        "continent": "EU",
+        "id": 43697,
+        "elevation": 1,
+        "keywords": [
+          "EH0013"
+        ],
+        "municipality": "Leeuwarden"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Mc Haaglanden. Locatie Westeinde Heliport",
+        "latitude": 52.07400894165039,
+        "identifier": "NL-0019",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZH",
+        "airportType": "heliport",
+        "longitude": 4.300278186798096,
+        "continent": "EU",
+        "id": 43714,
+        "elevation": 22,
+        "keywords": [
+          "EH0005"
+        ],
+        "municipality": "Den Haag"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Oosterschelde Ziekenhuis Heliport",
+        "latitude": 51.48480224609375,
+        "identifier": "NL-0021",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZL",
+        "airportType": "heliport",
+        "longitude": 3.9105000495910645,
+        "continent": "EU",
+        "id": 43716,
+        "elevation": 1,
+        "keywords": [
+          "EH0009"
+        ],
+        "municipality": "Goes"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Glider Field Biddinghuizen",
+        "latitude": 52.4291666667,
+        "identifier": "NL-0028",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-FL",
+        "airportType": "small_airport",
+        "longitude": 5.67416666667,
+        "continent": "EU",
+        "id": 299509,
+        "elevation": -20,
+        "keywords": [],
+        "municipality": "Dronten"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Terlet Airport",
+        "latitude": 52.0572013855,
+        "identifier": "EHTL",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Terlet_Airfield",
+        "isoRegion": "NL-GE",
+        "airportType": "small_airport",
+        "longitude": 5.92443990707,
+        "continent": "EU",
+        "id": 28127,
+        "elevation": 276,
+        "keywords": [
+          "terlet",
+          " szt",
+          " gezc",
+          " Stichting Zweefvliegers Terlet",
+          " Gelderse Zweefvliegclub",
+          " De Thermiekbel"
+        ],
+        "homeLink": "http://www.terlet.nl/",
+        "gpsCode": "EHTL",
+        "municipality": "Terlet"
+      },
+      [
+        {
+          "airportReference": 28127,
+          "surface": "grass",
+          "airportIdentifier": "EHTL",
+          "closed": false,
+          "id": 263464,
+          "leIdent": "04C",
+          "length": 4100,
+          "lighted": false,
+          "width": 700,
+          "heIdent": "22C"
+        },
+        {
+          "airportReference": 28127,
+          "surface": "grass",
+          "airportIdentifier": "EHTL",
+          "closed": false,
+          "id": 263463,
+          "leIdent": "04L",
+          "length": 4000,
+          "lighted": false,
+          "width": 500,
+          "heIdent": "22R"
+        },
+        {
+          "airportReference": 28127,
+          "surface": "grass",
+          "airportIdentifier": "EHTL",
+          "closed": false,
+          "id": 263465,
+          "leIdent": "04R",
+          "length": 4100,
+          "lighted": false,
+          "width": 700,
+          "heIdent": "22L"
+        },
+        {
+          "airportReference": 28127,
+          "surface": "grass",
+          "airportIdentifier": "EHTL",
+          "closed": false,
+          "id": 263466,
+          "leIdent": "12",
+          "length": 3600,
+          "lighted": false,
+          "width": 560,
+          "heIdent": "30"
+        },
+        {
+          "airportReference": 28127,
+          "surface": "grass",
+          "airportIdentifier": "EHTL",
+          "closed": false,
+          "id": 263467,
+          "leIdent": "14L",
+          "length": 4500,
+          "lighted": false,
+          "width": 910,
+          "heIdent": "32R"
+        },
+        {
+          "airportReference": 28127,
+          "surface": "grass",
+          "airportIdentifier": "EHTL",
+          "closed": false,
+          "id": 263468,
+          "leIdent": "14R",
+          "length": 4500,
+          "lighted": false,
+          "width": 910,
+          "heIdent": "32L"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "TrafficPort Venlo Airport",
+        "latitude": 51.3930555556,
+        "identifier": "NL-0026",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/TrafficPort_Venlo",
+        "isoRegion": "NL-U-A",
+        "airportType": "small_airport",
+        "longitude": 6.06277777778,
+        "continent": "EU",
+        "id": 299507,
+        "elevation": 75,
+        "keywords": [],
+        "homeLink": "http://www.trafficport.nl/airport.htm",
+        "municipality": "Venlo"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Valkenburg Naval Air Base",
+        "latitude": 52.166099548300004,
+        "iataCode": "LID",
+        "identifier": "EHVB",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Valkenburg_Naval_Air_Base",
+        "isoRegion": "NL-ZH",
+        "airportType": "closed",
+        "longitude": 4.41794013977,
+        "continent": "EU",
+        "id": 2527,
+        "elevation": 1,
+        "keywords": [],
+        "gpsCode": "EHVB",
+        "municipality": "Leiden"
+      },
+      [
+        {
+          "leElevation": 1,
+          "leLatitude": 52.1593,
+          "airportReference": 2527,
+          "heElevation": 1,
+          "surface": "ASP",
+          "heLatitude": 52.173,
+          "airportIdentifier": "EHVB",
+          "closed": false,
+          "leHeading": 52,
+          "id": 237933,
+          "heHeading": 232,
+          "leIdent": "05",
+          "leLongitude": 4.404,
+          "length": 8006,
+          "heLongitude": 4.432,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "23"
+        },
+        {
+          "leElevation": 1,
+          "leLatitude": 52.1752,
+          "airportReference": 2527,
+          "heElevation": 1,
+          "surface": "ASP",
+          "heLatitude": 52.1623,
+          "airportIdentifier": "EHVB",
+          "closed": false,
+          "leHeading": 163,
+          "id": 237934,
+          "heHeading": 343,
+          "leIdent": "16",
+          "leLongitude": 4.42333,
+          "heDisplacedThreshold": 327,
+          "length": 4920,
+          "heLongitude": 4.42985,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "34"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Drachten Airport",
+        "latitude": 53.1192016602,
+        "identifier": "EHDR",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Drachten_Airfield",
+        "isoRegion": "NL-FR",
+        "airportType": "small_airport",
+        "longitude": 6.12972021103,
+        "continent": "EU",
+        "id": 2517,
+        "elevation": 14,
+        "keywords": [],
+        "gpsCode": "EHDR",
+        "municipality": "Drachten"
+      },
+      [
+        {
+          "leElevation": 14,
+          "leLatitude": 53.118,
+          "airportReference": 2517,
+          "heElevation": 14,
+          "surface": "PEM",
+          "heLatitude": 53.1203,
+          "airportIdentifier": "EHDR",
+          "closed": false,
+          "leHeading": 74.4,
+          "id": 237918,
+          "heHeading": 254.4,
+          "leIdent": "08",
+          "leLongitude": 6.1229,
+          "heDisplacedThreshold": 394,
+          "length": 3117,
+          "heLongitude": 6.13654,
+          "lighted": false,
+          "width": 102,
+          "heIdent": "26"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "De Peel Air Base",
+        "latitude": 51.51729965209961,
+        "identifier": "EHDP",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/De_Peel_Air_Base",
+        "isoRegion": "NL-LI",
+        "airportType": "medium_airport",
+        "longitude": 5.855720043182373,
+        "continent": "EU",
+        "id": 29211,
+        "elevation": 98,
+        "keywords": [],
+        "homeLink": "http://www.defensie.nl/luchtmacht/luchtmachtbases/de_peel/",
+        "gpsCode": "EHDP",
+        "municipality": "Venray"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Lukkien Heliport",
+        "latitude": 52.0224444444,
+        "identifier": "NL-0025",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Lukkien_Heliport",
+        "isoRegion": "NL-GE",
+        "airportType": "heliport",
+        "longitude": 5.62394444444,
+        "continent": "EU",
+        "id": 299506,
+        "elevation": 50,
+        "keywords": [],
+        "municipality": "Ede"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Streekziekenhuis Koningin Beatrix Heliport",
+        "latitude": 51.97972106933594,
+        "identifier": "NL-0004",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-GE",
+        "airportType": "heliport",
+        "longitude": 6.700277805328369,
+        "continent": "EU",
+        "id": 43699,
+        "elevation": 110,
+        "keywords": [
+          "EH0028"
+        ],
+        "municipality": "Winterswijk"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Heli Holland Heliport",
+        "latitude": 52.8033333333,
+        "identifier": "NL-0032",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Heli_Holland",
+        "isoRegion": "NL-DR",
+        "airportType": "heliport",
+        "longitude": 6.95722222222,
+        "continent": "EU",
+        "id": 299513,
+        "elevation": 39,
+        "keywords": [],
+        "municipality": "Emmer- Compascuum"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Soesterberg Air Base",
+        "latitude": 52.1273002625,
+        "iataCode": "UTC",
+        "identifier": "EHSB",
+        "isoCountry": "NL",
+        "scheduledService": true,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Soesterberg_Air_Base",
+        "isoRegion": "NL-UT",
+        "airportType": "closed",
+        "longitude": 5.27618980408,
+        "continent": "EU",
+        "id": 2525,
+        "elevation": 66,
+        "keywords": [
+          "ACvZ",
+          " Amsterdamsche Club voor Zweefvliegen"
+        ],
+        "gpsCode": "EHSB",
+        "municipality": "Soesterberg"
+      },
+      [
+        {
+          "leElevation": 44,
+          "leLatitude": 52.1275,
+          "airportReference": 2525,
+          "heElevation": 66,
+          "surface": "ASP",
+          "heLatitude": 52.1269,
+          "airportIdentifier": "EHSB",
+          "closed": false,
+          "leHeading": 91.1,
+          "id": 237944,
+          "heHeading": 271.1,
+          "leIdent": "09",
+          "leLongitude": 5.25395,
+          "heDisplacedThreshold": 1605,
+          "length": 10089,
+          "leDisplacedThreshold": 1488,
+          "heLongitude": 5.29902,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "27"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Teuge Airport",
+        "latitude": 52.2447013855,
+        "identifier": "EHTE",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Teuge_Airport",
+        "isoRegion": "NL-GE",
+        "airportType": "small_airport",
+        "longitude": 6.04666996002,
+        "continent": "EU",
+        "id": 28126,
+        "elevation": 17,
+        "keywords": [
+          "Teuge",
+          " Apeldoorn",
+          " Deventer"
+        ],
+        "homeLink": "http://www.teuge-airport.nl/",
+        "gpsCode": "EHTE",
+        "municipality": "Deventer"
+      },
+      [
+        {
+          "leElevation": 17,
+          "airportReference": 28126,
+          "heElevation": 17,
+          "surface": "grass",
+          "airportIdentifier": "EHTE",
+          "closed": true,
+          "leHeading": 27,
+          "id": 263470,
+          "heHeading": 207,
+          "leIdent": "03",
+          "length": 2297,
+          "lighted": false,
+          "width": 98,
+          "heIdent": "21"
+        },
+        {
+          "leElevation": 17,
+          "airportReference": 28126,
+          "heElevation": 17,
+          "surface": "asphalt",
+          "airportIdentifier": "EHTE",
+          "closed": false,
+          "leHeading": 86,
+          "id": 263469,
+          "heHeading": 266,
+          "leIdent": "09",
+          "length": 3934,
+          "lighted": false,
+          "width": 88,
+          "heIdent": "27"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Leeuwarden Air Base",
+        "latitude": 53.228599548339844,
+        "iataCode": "LWR",
+        "identifier": "EHLW",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Leeuwarden_Air_Base",
+        "isoRegion": "NL-FR",
+        "airportType": "medium_airport",
+        "longitude": 5.760560035705566,
+        "continent": "EU",
+        "id": 2523,
+        "elevation": 3,
+        "keywords": [],
+        "homeLink": "http://www.defensie.nl/luchtmacht/luchtmachtbases/leeuwarden/",
+        "gpsCode": "EHLW",
+        "municipality": "Leeuwarden"
+      },
+      [
+        {
+          "leElevation": 4,
+          "leLatitude": 53.2192,
+          "airportReference": 2523,
+          "heElevation": 4,
+          "surface": "ASP",
+          "heLatitude": 53.2317,
+          "airportIdentifier": "EHLW",
+          "closed": false,
+          "leHeading": 55.4,
+          "id": 237938,
+          "heHeading": 235.4,
+          "leIdent": "06",
+          "leLongitude": 5.73809,
+          "heDisplacedThreshold": 1053,
+          "length": 9701,
+          "leDisplacedThreshold": 847,
+          "heLongitude": 5.7683,
+          "lighted": true,
+          "width": 164,
+          "heIdent": "24"
+        },
+        {
+          "leElevation": 3,
+          "leLatitude": 53.2287,
+          "airportReference": 2523,
+          "heElevation": 4,
+          "surface": "ASP",
+          "heLatitude": 53.2285,
+          "airportIdentifier": "EHLW",
+          "closed": false,
+          "leHeading": 91,
+          "id": 237939,
+          "heHeading": 271,
+          "leIdent": "09",
+          "leLongitude": 5.73967,
+          "length": 6559,
+          "leDisplacedThreshold": 195,
+          "heLongitude": 5.76967,
+          "lighted": true,
+          "width": 164,
+          "heIdent": "27"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Maastricht Universitair Medisch Centrum Heliport",
+        "latitude": 50.834442138671875,
+        "identifier": "NL-0007",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-LI",
+        "airportType": "heliport",
+        "longitude": 5.712500095367432,
+        "continent": "EU",
+        "id": 43702,
+        "elevation": 165,
+        "keywords": [
+          "EH0015"
+        ],
+        "municipality": "Maastricht"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Ziekenhuis Talma Sionsberg Heliport",
+        "latitude": 53.319637298583984,
+        "identifier": "NL-0003",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-FR",
+        "airportType": "heliport",
+        "longitude": 5.9930830001831055,
+        "continent": "EU",
+        "id": 43698,
+        "elevation": 4,
+        "keywords": [
+          "EH0007"
+        ],
+        "municipality": "Dokkum"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Budel Airport",
+        "latitude": 51.2552986145,
+        "identifier": "EHBD",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Kempen_Airport",
+        "isoRegion": "NL-NB",
+        "airportType": "medium_airport",
+        "longitude": 5.60138988495,
+        "continent": "EU",
+        "id": 2514,
+        "elevation": 114,
+        "keywords": [
+          "Kempen Airport",
+          " Budel Aerodrome"
+        ],
+        "homeLink": "http://www.kempenairport.nl/",
+        "gpsCode": "EHBD",
+        "municipality": "Weert"
+      },
+      [
+        {
+          "leElevation": 115,
+          "leLatitude": 51.2515,
+          "airportReference": 2514,
+          "heElevation": 111,
+          "surface": "ASP",
+          "heLatitude": 51.2609,
+          "airportIdentifier": "EHBD",
+          "closed": false,
+          "leHeading": 30,
+          "id": 237945,
+          "heHeading": 210,
+          "leIdent": "03",
+          "leLongitude": 5.59765,
+          "heDisplacedThreshold": 443,
+          "length": 3934,
+          "leDisplacedThreshold": 164,
+          "heLongitude": 5.60625,
+          "lighted": true,
+          "width": 75,
+          "heIdent": "21"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Gilze Rijen Air Base",
+        "latitude": 51.56740188598633,
+        "iataCode": "GLZ",
+        "identifier": "EHGR",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Gilze-Rijen_Air_Base",
+        "isoRegion": "NL-NB",
+        "airportType": "medium_airport",
+        "longitude": 4.931829929351807,
+        "continent": "EU",
+        "id": 2520,
+        "elevation": 49,
+        "keywords": [],
+        "homeLink": "http://www.defensie.nl/luchtmacht/luchtmachtbases/gilze-rijen/",
+        "gpsCode": "EHGR",
+        "municipality": "Breda"
+      },
+      [
+        {
+          "leElevation": 49,
+          "leLatitude": 51.5554,
+          "airportReference": 2520,
+          "heElevation": 40,
+          "surface": "ASP",
+          "heLatitude": 51.5728,
+          "airportIdentifier": "EHGR",
+          "closed": false,
+          "leHeading": 17.8,
+          "id": 237922,
+          "heHeading": 197.8,
+          "leIdent": "02",
+          "leLongitude": 4.93324,
+          "heDisplacedThreshold": 192,
+          "length": 6549,
+          "leDisplacedThreshold": 191,
+          "heLongitude": 4.94209,
+          "lighted": true,
+          "width": 98,
+          "heIdent": "20"
+        },
+        {
+          "leElevation": 42,
+          "leLatitude": 51.5695,
+          "airportReference": 2520,
+          "heElevation": 38,
+          "surface": "ASP",
+          "heLatitude": 51.5652,
+          "airportIdentifier": "EHGR",
+          "closed": false,
+          "leHeading": 100,
+          "id": 237923,
+          "heHeading": 280,
+          "leIdent": "10",
+          "leLongitude": 4.91198,
+          "heDisplacedThreshold": 331,
+          "length": 9118,
+          "leDisplacedThreshold": 427,
+          "heLongitude": 4.95145,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "28"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Air Operations Control Station Nieuw Milligen",
+        "latitude": 52.223172725400005,
+        "identifier": "EHMC",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Air_Operations_Control_Station_Nieuw-Milligen",
+        "isoRegion": "NL-GE",
+        "airportType": "heliport",
+        "longitude": 5.7678222656199996,
+        "continent": "EU",
+        "id": 29212,
+        "elevation": 171,
+        "keywords": [],
+        "homeLink": "http://www.defensie.nl/luchtmacht/luchtmachtbases/aocs_nieuw_milligen/",
+        "gpsCode": "EHMC",
+        "municipality": "Nieuw Milligen"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Eelde Airport",
+        "latitude": 53.1197013855,
+        "iataCode": "GRQ",
+        "identifier": "EHGG",
+        "isoCountry": "NL",
+        "scheduledService": true,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Groningen_Airport_Eelde",
+        "isoRegion": "NL-DR",
+        "airportType": "medium_airport",
+        "longitude": 6.57944011688,
+        "continent": "EU",
+        "id": 2519,
+        "elevation": 17,
+        "keywords": [],
+        "gpsCode": "EHGG",
+        "municipality": "Groningen"
+      },
+      [
+        {
+          "leElevation": 16,
+          "leLatitude": 53.1174,
+          "airportReference": 2519,
+          "heElevation": 12,
+          "surface": "ASP",
+          "heLatitude": 53.1307,
+          "airportIdentifier": "EHGG",
+          "closed": false,
+          "leHeading": 9,
+          "id": 237935,
+          "heHeading": 189,
+          "leIdent": "01",
+          "leLongitude": 6.57686,
+          "length": 4922,
+          "heLongitude": 6.58027,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "19"
+        },
+        {
+          "leElevation": 13,
+          "leLatitude": 53.115,
+          "airportReference": 2519,
+          "heElevation": 13,
+          "surface": "ASP",
+          "heLatitude": 53.125,
+          "airportIdentifier": "EHGG",
+          "closed": false,
+          "leHeading": 52,
+          "id": 237936,
+          "heHeading": 232,
+          "leIdent": "05",
+          "leLongitude": 6.56913,
+          "length": 8202,
+          "heLongitude": 6.59027,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "23"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Ziekenhuis Zeeuws-Vlaanderen. Locatie De Honte Heliport",
+        "latitude": 51.30833435058594,
+        "identifier": "NL-0022",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZL",
+        "airportType": "heliport",
+        "longitude": 3.862499952316284,
+        "continent": "EU",
+        "id": 43717,
+        "elevation": 6,
+        "keywords": [
+          "EH0021"
+        ],
+        "municipality": "Terneuzen"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Ypenburg Airbase",
+        "latitude": 52.041111,
+        "identifier": "NL-0044",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Ypenburg_Airport",
+        "isoRegion": "NL-ZH",
+        "airportType": "closed",
+        "longitude": 4.356944,
+        "continent": "EU",
+        "id": 301012,
+        "keywords": [],
+        "gpsCode": "EHYP",
+        "municipality": "Den Haag"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Buiksloot Airfield",
+        "latitude": 52.4072222222,
+        "identifier": "NL-0042",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NH",
+        "airportType": "closed",
+        "longitude": 4.89527777778,
+        "continent": "EU",
+        "id": 299529,
+        "elevation": 7,
+        "keywords": [],
+        "municipality": "Amsterdam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Wieringermeer Glider Field",
+        "latitude": 52.8205555556,
+        "identifier": "NL-0041",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NH",
+        "airportType": "small_airport",
+        "longitude": 4.92638888889,
+        "continent": "EU",
+        "id": 299528,
+        "elevation": -15,
+        "keywords": []
+      },
+      [
+        {
+          "airportReference": 299528,
+          "surface": "grass",
+          "airportIdentifier": "NL-0041",
+          "closed": false,
+          "leHeading": 70,
+          "id": 310143,
+          "heHeading": 250,
+          "leIdent": "07L",
+          "length": 3149,
+          "lighted": false,
+          "width": 492,
+          "heIdent": "25R"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Volkel Air Base",
+        "latitude": 51.65639877319336,
+        "iataCode": "UDE",
+        "identifier": "EHVK",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Volkel_Air_Base",
+        "isoRegion": "NL-NB",
+        "airportType": "medium_airport",
+        "longitude": 5.7086100578308105,
+        "continent": "EU",
+        "id": 2528,
+        "elevation": 72,
+        "keywords": [
+          "The Hague"
+        ],
+        "homeLink": "http://www.defensie.nl/luchtmacht/luchtmachtbases/volkel/",
+        "gpsCode": "EHVK",
+        "municipality": "Uden"
+      },
+      [
+        {
+          "leElevation": 71,
+          "leLatitude": 51.65,
+          "airportReference": 2528,
+          "heElevation": 64,
+          "surface": "ASP",
+          "heLatitude": 51.6644,
+          "airportIdentifier": "EHVK",
+          "closed": false,
+          "leHeading": 57.9,
+          "id": 237932,
+          "heHeading": 237.9,
+          "leIdent": "06L",
+          "leLongitude": 5.68927,
+          "heDisplacedThreshold": 444,
+          "length": 9922,
+          "leDisplacedThreshold": 444,
+          "heLongitude": 5.72637,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "24R"
+        },
+        {
+          "leElevation": 72,
+          "leLatitude": 51.6484,
+          "airportReference": 2528,
+          "heElevation": 65,
+          "surface": "ASP",
+          "heLatitude": 51.6628,
+          "airportIdentifier": "EHVK",
+          "closed": false,
+          "leHeading": 57.9,
+          "id": 237931,
+          "heHeading": 237.9,
+          "leIdent": "06R",
+          "leLongitude": 5.69089,
+          "heDisplacedThreshold": 446,
+          "length": 9931,
+          "leDisplacedThreshold": 446,
+          "heLongitude": 5.72796,
+          "lighted": true,
+          "width": 74,
+          "heIdent": "24L"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Twenthe Airport",
+        "latitude": 52.27000045776367,
+        "iataCode": "ENS",
+        "identifier": "EHTW",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Enschede_Airport_Twente",
+        "isoRegion": "NL-OV",
+        "airportType": "medium_airport",
+        "longitude": 6.874169826507568,
+        "continent": "EU",
+        "id": 2526,
+        "elevation": 114,
+        "keywords": [],
+        "gpsCode": "EHTW",
+        "municipality": "Enschede"
+      },
+      [
+        {
+          "leElevation": 99,
+          "leLatitude": 52.2682,
+          "airportReference": 2526,
+          "heElevation": 114,
+          "surface": "ASP",
+          "heLatitude": 52.2835,
+          "airportIdentifier": "EHTW",
+          "closed": false,
+          "leHeading": 56,
+          "id": 237942,
+          "heHeading": 236,
+          "leIdent": "06",
+          "leLongitude": 6.87123,
+          "heDisplacedThreshold": 972,
+          "length": 9801,
+          "leDisplacedThreshold": 935,
+          "heLongitude": 6.90711,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "24"
+        },
+        {
+          "leElevation": 98,
+          "leLatitude": 52.2716,
+          "airportReference": 2526,
+          "heElevation": 115,
+          "surface": "ASP",
+          "heLatitude": 52.2651,
+          "airportIdentifier": "EHTW",
+          "closed": false,
+          "leHeading": 112,
+          "id": 237943,
+          "heHeading": 292,
+          "leIdent": "11",
+          "leLongitude": 6.87047,
+          "heDisplacedThreshold": 397,
+          "length": 6558,
+          "leDisplacedThreshold": 792,
+          "heLongitude": 6.89764,
+          "lighted": true,
+          "width": 82,
+          "heIdent": "29"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Haamstede Airfield",
+        "latitude": 51.7088888889,
+        "identifier": "NL-0031",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZL",
+        "airportType": "small_airport",
+        "longitude": 3.7122222222200003,
+        "continent": "EU",
+        "id": 299512,
+        "elevation": 15,
+        "keywords": [],
+        "municipality": "Schouwen-Duiveland"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Eindhoven Airport",
+        "latitude": 51.4500999451,
+        "iataCode": "EIN",
+        "identifier": "EHEH",
+        "isoCountry": "NL",
+        "scheduledService": true,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Eindhoven_Airport",
+        "isoRegion": "NL-NB",
+        "airportType": "large_airport",
+        "longitude": 5.37452983856,
+        "continent": "EU",
+        "id": 2518,
+        "elevation": 74,
+        "keywords": [
+          "Welschap Airport"
+        ],
+        "homeLink": "http://www.eindhovenairport.nl/",
+        "gpsCode": "EHEH",
+        "municipality": "Eindhoven"
+      },
+      [
+        {
+          "leElevation": 73,
+          "leLatitude": 51.4391,
+          "airportReference": 2518,
+          "heElevation": 67,
+          "surface": "ASP",
+          "heLatitude": 51.4612,
+          "airportIdentifier": "EHEH",
+          "closed": false,
+          "leHeading": 35,
+          "id": 237941,
+          "heHeading": 215,
+          "leIdent": "03",
+          "leLongitude": 5.36213,
+          "heDisplacedThreshold": 821,
+          "length": 9843,
+          "leDisplacedThreshold": 821,
+          "heLongitude": 5.38689,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "21"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Aeroclub Nistelrode",
+        "latitude": 51.683333333300006,
+        "identifier": "NL-0034",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NB",
+        "airportType": "small_airport",
+        "longitude": 5.549444444440001,
+        "continent": "EU",
+        "id": 299515,
+        "elevation": 30,
+        "keywords": [],
+        "homeLink": "http://www.acnistelrode.nl/index.html",
+        "municipality": "Bernheze"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Woensdrecht Air Base",
+        "latitude": 51.44910049439999,
+        "iataCode": "WOE",
+        "identifier": "EHWO",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Woensdrecht_Air_Base",
+        "isoRegion": "NL-NB",
+        "airportType": "medium_airport",
+        "longitude": 4.34203004837,
+        "continent": "EU",
+        "id": 2529,
+        "elevation": 63,
+        "keywords": [
+          "BZM"
+        ],
+        "homeLink": "http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/",
+        "gpsCode": "EHWO",
+        "municipality": "Bergen Op Zoom",
+        "localCode": "BZM"
+      },
+      [
+        {
+          "leElevation": 39,
+          "leLatitude": 51.4452,
+          "airportReference": 2529,
+          "heElevation": 63,
+          "surface": "ASP",
+          "heLatitude": 51.4528,
+          "airportIdentifier": "EHWO",
+          "closed": false,
+          "leHeading": 69,
+          "id": 237937,
+          "heHeading": 249,
+          "leIdent": "07",
+          "leLongitude": 4.32567,
+          "length": 7996,
+          "heLongitude": 4.3585,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "25"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "St. Elisabeth Ziekenhuis Heliport",
+        "latitude": 51.53889083862305,
+        "identifier": "NL-0010",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NB",
+        "airportType": "heliport",
+        "longitude": 5.104722023010254,
+        "continent": "EU",
+        "id": 43705,
+        "elevation": 49,
+        "keywords": [
+          "EH0023"
+        ],
+        "municipality": "Tilburg"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Middenmeer Aerodrome",
+        "latitude": 52.815368824100005,
+        "identifier": "NL-0024",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Middenmeer_Aerodrome",
+        "isoRegion": "NL-NH",
+        "airportType": "small_airport",
+        "longitude": 5.0216960907,
+        "continent": "EU",
+        "id": 299505,
+        "elevation": -14,
+        "keywords": [],
+        "homeLink": "http://www.vliegclubwieringermeer.nl/",
+        "municipality": "Wieringermeer"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Venlo Airfield",
+        "latitude": 51.3630555556,
+        "identifier": "NL-0037",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-LI",
+        "airportType": "small_airport",
+        "longitude": 6.216111111110001,
+        "continent": "EU",
+        "id": 299518,
+        "elevation": 145,
+        "keywords": [],
+        "municipality": "Venlo"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Veendam Glider Site",
+        "latitude": 53.0844444444,
+        "identifier": "NL-0036",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-GR",
+        "airportType": "small_airport",
+        "longitude": 6.823611111110001,
+        "continent": "EU",
+        "id": 299517,
+        "keywords": [],
+        "municipality": "Veendam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Havelte Airport",
+        "latitude": 52.7838888889,
+        "identifier": "NL-0039",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-DR",
+        "airportType": "closed",
+        "longitude": 6.2375,
+        "continent": "EU",
+        "id": 299521,
+        "elevation": 36,
+        "keywords": []
+      },
+      []
+    ],
+    [
+      {
+        "name": "Hoogeveen Airport",
+        "latitude": 52.730800628699996,
+        "identifier": "EHHO",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Hoogeveen_Airport",
+        "isoRegion": "NL-DR",
+        "airportType": "small_airport",
+        "longitude": 6.51610994339,
+        "continent": "EU",
+        "id": 28121,
+        "elevation": 40,
+        "keywords": [],
+        "homeLink": "http://www.vliegveldhoogeveen.nl/pages/whiterings_indexpag.html",
+        "gpsCode": "EHHO",
+        "municipality": "Hoogeveen"
+      },
+      [
+        {
+          "leElevation": 40,
+          "airportReference": 28121,
+          "heElevation": 40,
+          "surface": "grass",
+          "airportIdentifier": "EHHO",
+          "closed": false,
+          "id": 260147,
+          "leIdent": "10",
+          "length": 3543,
+          "lighted": false,
+          "width": 99,
+          "heIdent": "28"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Maasvlakte Heliport",
+        "latitude": 51.95940017700195,
+        "identifier": "EHTP",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Maasvlakte_Heliport",
+        "isoRegion": "NL-ZH",
+        "airportType": "heliport",
+        "longitude": 4.090000152587891,
+        "continent": "EU",
+        "id": 43209,
+        "elevation": 3,
+        "keywords": [],
+        "gpsCode": "EHTP",
+        "municipality": "Rotterdam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Maxima Medisch Centrum Heliport",
+        "latitude": 51.404998779296875,
+        "identifier": "NL-0009",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NB",
+        "airportType": "heliport",
+        "longitude": 5.419722080230713,
+        "continent": "EU",
+        "id": 43704,
+        "elevation": 62,
+        "keywords": [
+          "EH0025"
+        ],
+        "municipality": "Veldhoven"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Ä²muiden Heliport",
+        "latitude": 52.46979904169999,
+        "identifier": "EHYP",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/IJmuiden_Heliport",
+        "isoRegion": "NL-NH",
+        "airportType": "heliport",
+        "longitude": 4.59329986572,
+        "continent": "EU",
+        "id": 43208,
+        "elevation": 1,
+        "keywords": [],
+        "gpsCode": "EHYP",
+        "municipality": "Ä²muiden"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Maldens Vlak",
+        "latitude": 51.7852586619,
+        "identifier": "NL-0023",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-GE",
+        "airportType": "small_airport",
+        "longitude": 5.88099002838,
+        "continent": "EU",
+        "id": 45159,
+        "elevation": 89,
+        "keywords": [
+          "NijAC",
+          " gliding",
+          " Nijmegen",
+          " Groesbeek"
+        ],
+        "homeLink": "http://www.nijac.nl/?pid=11",
+        "municipality": "Malden"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Medisch Spectrum Twente Heliport",
+        "latitude": 52.215476989746094,
+        "identifier": "NL-0014",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-OV",
+        "airportType": "heliport",
+        "longitude": 6.891250133514404,
+        "continent": "EU",
+        "id": 43709,
+        "elevation": 130,
+        "keywords": [
+          "EH0008"
+        ],
+        "municipality": "Enschede"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Erasmus Medisch Centrum Heliport",
+        "latitude": 51.90999984741211,
+        "identifier": "NL-0017",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZH",
+        "airportType": "heliport",
+        "longitude": 4.470832824707031,
+        "continent": "EU",
+        "id": 43712,
+        "elevation": 30,
+        "keywords": [
+          "EH0018"
+        ],
+        "municipality": "Rotterdam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Ziekenhuis Rivierenland Heliport",
+        "latitude": 51.88972091674805,
+        "identifier": "NL-0005",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-GE",
+        "airportType": "heliport",
+        "longitude": 5.413888931274414,
+        "continent": "EU",
+        "id": 43700,
+        "elevation": 16,
+        "keywords": [
+          "EH0022"
+        ],
+        "municipality": "Tiel"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Langeveld Airfield",
+        "latitude": 52.29777777779999,
+        "identifier": "NL-0033",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-U-A",
+        "airportType": "small_airport",
+        "longitude": 4.51361111111,
+        "continent": "EU",
+        "id": 299514,
+        "elevation": 10,
+        "keywords": [],
+        "municipality": "Noordwijk"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Glider Field De Voorst",
+        "latitude": 52.684722222199994,
+        "identifier": "NL-0030",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-GE",
+        "airportType": "small_airport",
+        "longitude": 5.91055555556,
+        "continent": "EU",
+        "id": 299511,
+        "keywords": [],
+        "municipality": "De Voorst"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Glider site Schinveld",
+        "latitude": 50.980833333300005,
+        "identifier": "NL-0035",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-LI",
+        "airportType": "small_airport",
+        "longitude": 5.998611111110001,
+        "continent": "EU",
+        "id": 299516,
+        "elevation": 180,
+        "keywords": [],
+        "municipality": "Onderbanken"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Axel Glider Airfield",
+        "latitude": 51.2555555556,
+        "identifier": "NL-0027",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZL",
+        "airportType": "small_airport",
+        "longitude": 3.89138888889,
+        "continent": "EU",
+        "id": 299508,
+        "elevation": 20,
+        "keywords": [],
+        "municipality": "Terneuzen"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Albert Schweitzer Ziekenhuis. Locatie Amstelwijck Heliport",
+        "latitude": 51.776344299316406,
+        "identifier": "NL-0016",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZH",
+        "airportType": "heliport",
+        "longitude": 4.651111125946045,
+        "continent": "EU",
+        "id": 43711,
+        "elevation": 6,
+        "keywords": [
+          "EH0030"
+        ],
+        "municipality": "Dordrecht"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Rode Kruis Ziekenhuis Heliport",
+        "latitude": 52.4791374206543,
+        "identifier": "NL-0011",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NH",
+        "airportType": "heliport",
+        "longitude": 4.651556015014648,
+        "continent": "EU",
+        "id": 43706,
+        "elevation": 68,
+        "keywords": [
+          "EH0002"
+        ],
+        "municipality": "Beverwijk"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Midden-Zeeland Airport",
+        "latitude": 51.5121994019,
+        "identifier": "EHMZ",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Midden-Zeeland_Airport",
+        "isoRegion": "NL-ZL",
+        "airportType": "small_airport",
+        "longitude": 3.73111009598,
+        "continent": "EU",
+        "id": 28123,
+        "elevation": 6,
+        "keywords": [],
+        "homeLink": "http://www.zeeland-airport.nl/",
+        "gpsCode": "EHMZ",
+        "municipality": "Middelburg"
+      },
+      [
+        {
+          "leElevation": 6,
+          "airportReference": 28123,
+          "heElevation": 6,
+          "surface": "grass",
+          "airportIdentifier": "EHMZ",
+          "closed": false,
+          "leHeading": 88,
+          "id": 256695,
+          "heHeading": 268,
+          "leIdent": "09",
+          "length": 3281,
+          "lighted": false,
+          "width": 99,
+          "heIdent": "27"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Peest Airport",
+        "latitude": 53.05,
+        "identifier": "NL-0040",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-DR",
+        "airportType": "closed",
+        "longitude": 6.5,
+        "continent": "EU",
+        "id": 299522,
+        "elevation": 32,
+        "keywords": []
+      },
+      []
+    ],
+    [
+      {
+        "name": "Universitair Medisch Centrum Heliport",
+        "latitude": 53.22173309326172,
+        "identifier": "NL-0006",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-GR",
+        "airportType": "heliport",
+        "longitude": 6.576056003570557,
+        "continent": "EU",
+        "id": 43701,
+        "elevation": 80,
+        "keywords": [
+          "EH0010"
+        ],
+        "municipality": "Groningen"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Viecuri Medisch Centrum Voor Noord-Limburg Heliport",
+        "latitude": 51.358333587646484,
+        "identifier": "NL-0008",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-LI",
+        "airportType": "heliport",
+        "longitude": 6.152500152587891,
+        "continent": "EU",
+        "id": 43703,
+        "elevation": 58,
+        "keywords": [
+          "EH0026"
+        ],
+        "municipality": "Venlo"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Glider Field Castricum",
+        "latitude": 52.5366666667,
+        "identifier": "NL-0029",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NH",
+        "airportType": "small_airport",
+        "longitude": 4.62666666667,
+        "continent": "EU",
+        "id": 299510,
+        "elevation": 20,
+        "keywords": [],
+        "municipality": "Castricum"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Eindhoven Heliport",
+        "latitude": 51.423731,
+        "identifier": "NL-0045",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NB",
+        "airportType": "closed",
+        "longitude": 5.47449,
+        "continent": "EU",
+        "id": 312620,
+        "keywords": []
+      },
+      []
+    ],
+    [
+      {
+        "name": "Helihaven P. van Zutphen",
+        "latitude": 51.535422,
+        "identifier": "NL-0046",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NB",
+        "airportType": "heliport",
+        "longitude": 5.378821,
+        "continent": "EU",
+        "id": 312621,
+        "keywords": []
+      },
+      []
+    ],
+    [
+      {
+        "name": "Texel Airport",
+        "latitude": 53.1152992249,
+        "identifier": "EHTX",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Texel_International_Airport",
+        "isoRegion": "NL-NH",
+        "airportType": "small_airport",
+        "longitude": 4.83361005783,
+        "continent": "EU",
+        "id": 28128,
+        "elevation": 2,
+        "keywords": [],
+        "homeLink": "http://www.texelairport.nl/",
+        "gpsCode": "EHTX",
+        "municipality": "Texel"
+      },
+      [
+        {
+          "airportReference": 28128,
+          "surface": "grass",
+          "airportIdentifier": "EHTX",
+          "closed": false,
+          "leHeading": 36,
+          "id": 269337,
+          "heHeading": 216,
+          "leIdent": "04",
+          "length": 3658,
+          "lighted": false,
+          "width": 131,
+          "heIdent": "22"
+        },
+        {
+          "airportReference": 28128,
+          "surface": "grass",
+          "airportIdentifier": "EHTX",
+          "closed": false,
+          "leHeading": 126,
+          "id": 269338,
+          "heHeading": 306,
+          "leIdent": "31",
+          "length": 2067,
+          "lighted": false,
+          "width": 131,
+          "heIdent": "31"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Aero Club Salland",
+        "latitude": 52.4683333333,
+        "identifier": "EHDS",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://nl.wikipedia.org/wiki/Aero_Club_Salland",
+        "isoRegion": "NL-OV",
+        "airportType": "small_airport",
+        "longitude": 6.33333333333,
+        "continent": "EU",
+        "id": 299211,
+        "elevation": 10,
+        "keywords": [
+          "Dalfsen Gliders"
+        ],
+        "homeLink": "http://aeroclubsalland.nl/",
+        "gpsCode": "EHDS",
+        "municipality": "Lemelerveld"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Stadskanaal Airport",
+        "latitude": 52.9986000061,
+        "identifier": "EHST",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Stadskanaal_Airfield",
+        "isoRegion": "NL-GR",
+        "airportType": "small_airport",
+        "longitude": 7.02277994156,
+        "continent": "EU",
+        "id": 28125,
+        "elevation": 14,
+        "keywords": [],
+        "homeLink": "http://www.ulv.nl/",
+        "gpsCode": "EHST",
+        "municipality": "Stadskanaal"
+      },
+      [
+        {
+          "airportReference": 28125,
+          "surface": "grass",
+          "airportIdentifier": "EHST",
+          "closed": false,
+          "leHeading": 60,
+          "id": 269339,
+          "heHeading": 240,
+          "leIdent": "06",
+          "length": 984,
+          "lighted": false,
+          "width": 99,
+          "heIdent": "24"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Lelystad Airport",
+        "latitude": 52.46030044555664,
+        "iataCode": "LEY",
+        "identifier": "EHLE",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Lelystad_Airport",
+        "isoRegion": "NL-FL",
+        "airportType": "medium_airport",
+        "longitude": 5.527219772338867,
+        "continent": "EU",
+        "id": 2522,
+        "elevation": -13,
+        "keywords": [],
+        "gpsCode": "EHLE",
+        "municipality": "Lelystad"
+      },
+      [
+        {
+          "leElevation": -12,
+          "leLatitude": 52.4511,
+          "airportReference": 2522,
+          "heElevation": -12,
+          "surface": "PEM",
+          "heLatitude": 52.4587,
+          "airportIdentifier": "EHLE",
+          "closed": false,
+          "leHeading": 48,
+          "id": 237920,
+          "heHeading": 228,
+          "leIdent": "05",
+          "leLongitude": 5.51102,
+          "length": 4101,
+          "heLongitude": 5.52459,
+          "lighted": true,
+          "width": 99,
+          "heIdent": "23"
+        },
+        {
+          "airportReference": 2522,
+          "surface": "grass",
+          "airportIdentifier": "EHLE",
+          "closed": false,
+          "leHeading": 228,
+          "id": 269335,
+          "heHeading": 48,
+          "leIdent": "23",
+          "length": 1410,
+          "lighted": false,
+          "width": 164,
+          "heIdent": "05"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Rotterdam Airport",
+        "latitude": 51.956901550299996,
+        "iataCode": "RTM",
+        "identifier": "EHRD",
+        "isoCountry": "NL",
+        "scheduledService": true,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Rotterdam_Airport",
+        "isoRegion": "NL-ZH",
+        "airportType": "medium_airport",
+        "longitude": 4.43722009659,
+        "continent": "EU",
+        "id": 2524,
+        "elevation": -15,
+        "keywords": [],
+        "gpsCode": "EHRD",
+        "municipality": "Rotterdam"
+      },
+      [
+        {
+          "leElevation": -15,
+          "leLatitude": 51.9521,
+          "airportReference": 2524,
+          "heElevation": -15,
+          "surface": "ASP",
+          "heLatitude": 51.9628,
+          "airportIdentifier": "EHRD",
+          "closed": false,
+          "leHeading": 57,
+          "id": 237940,
+          "heHeading": 237,
+          "leIdent": "06",
+          "leLongitude": 4.42824,
+          "heDisplacedThreshold": 656,
+          "length": 7218,
+          "leDisplacedThreshold": 656,
+          "heLongitude": 4.45508,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "24"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Maastricht Aachen Airport",
+        "latitude": 50.9117012024,
+        "iataCode": "MST",
+        "identifier": "EHBK",
+        "isoCountry": "NL",
+        "scheduledService": true,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Maastricht_Aachen_Airport",
+        "isoRegion": "NL-LI",
+        "airportType": "large_airport",
+        "longitude": 5.77014017105,
+        "continent": "EU",
+        "id": 2515,
+        "elevation": 375,
+        "keywords": [],
+        "gpsCode": "EHBK",
+        "municipality": "Maastricht"
+      },
+      [
+        {
+          "leElevation": 365,
+          "leLatitude": 50.9018,
+          "airportReference": 2515,
+          "heElevation": 370,
+          "surface": "ASP",
+          "heLatitude": 50.9208,
+          "airportIdentifier": "EHBK",
+          "closed": false,
+          "leHeading": 33,
+          "id": 237921,
+          "heHeading": 213,
+          "leIdent": "03",
+          "leLongitude": 5.76005,
+          "heDisplacedThreshold": 820,
+          "length": 8202,
+          "leDisplacedThreshold": 820,
+          "heLongitude": 5.77923,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "21"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Bergen Airfield",
+        "latitude": 52.6472222222,
+        "identifier": "NL-0043",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-NH",
+        "airportType": "closed",
+        "longitude": 4.69222222222,
+        "continent": "EU",
+        "id": 299530,
+        "elevation": -3,
+        "keywords": [],
+        "municipality": "Alkmaar"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Oostwold Airport",
+        "latitude": 53.2097583333,
+        "iataCode": "---",
+        "identifier": "EHOW",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://nl.wikipedia.org/wiki/Vliegveld_Oostwold",
+        "isoRegion": "NL-GR",
+        "airportType": "small_airport",
+        "longitude": 7.0365194444400005,
+        "continent": "EU",
+        "id": 46371,
+        "elevation": 3,
+        "keywords": [],
+        "homeLink": "http://www.oostwold-airport.nl/",
+        "gpsCode": "EHOW",
+        "localCode": "----"
+      },
+      [
+        {
+          "leElevation": 3,
+          "airportReference": 46371,
+          "heElevation": 3,
+          "surface": "grass, first 500x6 meter on 25 is paved",
+          "airportIdentifier": "EHOW",
+          "closed": false,
+          "leHeading": 70,
+          "id": 270952,
+          "heHeading": 250,
+          "leIdent": "07",
+          "length": 2887,
+          "lighted": false,
+          "width": 90,
+          "heIdent": "25"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Medisch Centrum Rijnmond. Locatie Zuid Heliport",
+        "latitude": 51.885555267333984,
+        "identifier": "NL-0020",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-ZH",
+        "airportType": "heliport",
+        "longitude": 4.503056049346924,
+        "continent": "EU",
+        "id": 43715,
+        "elevation": 4,
+        "keywords": [
+          "EH0019"
+        ],
+        "municipality": "Rotterdam"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Amsterdam Airport Schiphol",
+        "latitude": 52.3086013794,
+        "iataCode": "AMS",
+        "identifier": "EHAM",
+        "isoCountry": "NL",
+        "scheduledService": true,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Amsterdam_Schiphol_Airport",
+        "isoRegion": "NL-NH",
+        "airportType": "large_airport",
+        "longitude": 4.763889789579999,
+        "continent": "EU",
+        "id": 2513,
+        "elevation": -11,
+        "keywords": [],
+        "homeLink": "http://www.schiphol.nl/",
+        "gpsCode": "EHAM",
+        "municipality": "Amsterdam"
+      },
+      [
+        {
+          "leElevation": -13,
+          "leLatitude": 52.3004,
+          "airportReference": 2513,
+          "heElevation": -14,
+          "surface": "ASP",
+          "heLatitude": 52.314,
+          "airportIdentifier": "EHAM",
+          "closed": false,
+          "leHeading": 41,
+          "id": 237924,
+          "heHeading": 221,
+          "leIdent": "04",
+          "leLongitude": 4.78348,
+          "length": 6608,
+          "heLongitude": 4.80302,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "22"
+        },
+        {
+          "leElevation": -11,
+          "leLatitude": 52.2879,
+          "airportReference": 2513,
+          "heElevation": -12,
+          "surface": "ASP",
+          "heLatitude": 52.3046,
+          "airportIdentifier": "EHAM",
+          "closed": false,
+          "leHeading": 58,
+          "id": 237925,
+          "heHeading": 238,
+          "leIdent": "06",
+          "leLongitude": 4.73402,
+          "length": 11483,
+          "leDisplacedThreshold": 820,
+          "heLongitude": 4.77752,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "24"
+        },
+        {
+          "leElevation": -12,
+          "leLatitude": 52.3166,
+          "airportReference": 2513,
+          "heElevation": -13,
+          "surface": "ASP",
+          "heLatitude": 52.3184,
+          "airportIdentifier": "EHAM",
+          "closed": false,
+          "leHeading": 87,
+          "id": 237926,
+          "heHeading": 267,
+          "leIdent": "09",
+          "leLongitude": 4.74635,
+          "length": 11329,
+          "leDisplacedThreshold": 294,
+          "heLongitude": 4.79689,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "27"
+        },
+        {
+          "leElevation": -13,
+          "leLatitude": 52.3314,
+          "airportReference": 2513,
+          "heElevation": -12,
+          "surface": "ASP",
+          "heLatitude": 52.3018,
+          "airportIdentifier": "EHAM",
+          "closed": false,
+          "leHeading": 183,
+          "id": 237927,
+          "heHeading": 3,
+          "leIdent": "18C",
+          "leLongitude": 4.74003,
+          "heDisplacedThreshold": 1476,
+          "length": 10826,
+          "heLongitude": 4.7375,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "36C"
+        },
+        {
+          "leElevation": -12,
+          "leLatitude": 52.3213,
+          "airportReference": 2513,
+          "heElevation": -11,
+          "surface": "ASP",
+          "heLatitude": 52.2908,
+          "airportIdentifier": "EHAM",
+          "closed": false,
+          "leHeading": 183,
+          "id": 237929,
+          "heHeading": 3,
+          "leIdent": "18L",
+          "leLongitude": 4.77996,
+          "length": 11155,
+          "leDisplacedThreshold": 1887,
+          "heLongitude": 4.77735,
+          "lighted": true,
+          "width": 148,
+          "heIdent": "36R"
+        },
+        {
+          "leElevation": -13,
+          "leLatitude": 52.3627,
+          "airportReference": 2513,
+          "heElevation": -12,
+          "surface": "ASP",
+          "heLatitude": 52.3286,
+          "airportIdentifier": "EHAM",
+          "closed": false,
+          "leHeading": 183,
+          "id": 237928,
+          "heHeading": 3,
+          "leIdent": "18R",
+          "leLongitude": 4.71193,
+          "length": 12467,
+          "leDisplacedThreshold": 886,
+          "heLongitude": 4.70884,
+          "lighted": true,
+          "width": 198,
+          "heIdent": "36L"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Hilversum Airport",
+        "latitude": 52.1918983459,
+        "identifier": "EHHV",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Hilversum_Airport",
+        "isoRegion": "NL-NH",
+        "airportType": "small_airport",
+        "longitude": 5.14694023132,
+        "continent": "EU",
+        "id": 28122,
+        "elevation": 3,
+        "keywords": [
+          "Gooi"
+        ],
+        "homeLink": "http://www.ehhv.nl/",
+        "gpsCode": "EHHV",
+        "municipality": "Hilversum"
+      },
+      [
+        {
+          "leElevation": 3,
+          "airportReference": 28122,
+          "heElevation": 3,
+          "surface": "grass",
+          "airportIdentifier": "EHHV",
+          "closed": false,
+          "leHeading": 68,
+          "id": 263471,
+          "heHeading": 248,
+          "leIdent": "07",
+          "length": 1969,
+          "lighted": false,
+          "width": 164,
+          "heIdent": "25"
+        },
+        {
+          "leElevation": 3,
+          "airportReference": 28122,
+          "heElevation": 3,
+          "surface": "grass",
+          "airportIdentifier": "EHHV",
+          "closed": false,
+          "leHeading": 123,
+          "id": 263472,
+          "heHeading": 303,
+          "leIdent": "13",
+          "length": 2165,
+          "lighted": false,
+          "width": 164,
+          "heIdent": "31"
+        },
+        {
+          "leElevation": 3,
+          "airportReference": 28122,
+          "heElevation": 3,
+          "surface": "grass",
+          "airportIdentifier": "EHHV",
+          "closed": false,
+          "leHeading": 179,
+          "id": 263473,
+          "heHeading": 359,
+          "leIdent": "18",
+          "length": 2297,
+          "lighted": false,
+          "width": 164,
+          "heIdent": "36"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "De Kooy Airport",
+        "latitude": 52.92340087890625,
+        "iataCode": "DHR",
+        "identifier": "EHKD",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/De_Kooy",
+        "isoRegion": "NL-NH",
+        "airportType": "medium_airport",
+        "longitude": 4.780620098114014,
+        "continent": "EU",
+        "id": 2521,
+        "elevation": 3,
+        "keywords": [],
+        "gpsCode": "EHKD",
+        "municipality": "Den Helder"
+      },
+      [
+        {
+          "leElevation": 3,
+          "leLatitude": 52.9187,
+          "airportReference": 2521,
+          "heElevation": 2,
+          "surface": "CON",
+          "heLatitude": 52.9282,
+          "airportIdentifier": "EHKD",
+          "closed": false,
+          "leHeading": 33.9,
+          "id": 237930,
+          "heHeading": 213.9,
+          "leIdent": "04",
+          "leLongitude": 4.77534,
+          "heDisplacedThreshold": 804,
+          "length": 4183,
+          "leDisplacedThreshold": 804,
+          "heLongitude": 4.78592,
+          "lighted": true,
+          "width": 98,
+          "heIdent": "22"
+        }
+      ]
+    ],
+    [
+      {
+        "name": "Venlo-Herongen Airport",
+        "latitude": 51.3686111111,
+        "identifier": "NL-0038",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-LI",
+        "airportType": "closed",
+        "longitude": 6.21194444444,
+        "continent": "EU",
+        "id": 299519,
+        "elevation": 135,
+        "keywords": [],
+        "municipality": "Venlo"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Universitair Medisch Centrum Utrecht Heliport",
+        "latitude": 52.086769104003906,
+        "identifier": "NL-0015",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "isoRegion": "NL-UT",
+        "airportType": "heliport",
+        "longitude": 5.181416988372803,
+        "continent": "EU",
+        "id": 43710,
+        "elevation": 91,
+        "keywords": [
+          "EH0024"
+        ],
+        "municipality": "Utrecht"
+      },
+      []
+    ],
+    [
+      {
+        "name": "Vlieland Heliport",
+        "latitude": 53.29666519165039,
+        "identifier": "EHVL",
+        "isoCountry": "NL",
+        "scheduledService": false,
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Vlieland_Heliport",
+        "isoRegion": "NL-FR",
+        "airportType": "heliport",
+        "longitude": 5.0858330726623535,
+        "continent": "EU",
+        "id": 43210,
+        "elevation": 37,
+        "keywords": [],
+        "gpsCode": "EHVL",
+        "municipality": "Vlieland"
+      },
+      []
+    ]
+  ]
+}
