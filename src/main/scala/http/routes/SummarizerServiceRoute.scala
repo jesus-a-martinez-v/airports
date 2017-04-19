@@ -29,7 +29,9 @@ class SummarizerServiceRoute(summarizer: Summarizer)
         parameters('referenceIsCode.as[Boolean] ? true) { referenceIsCode =>
           completeGracefully(summarizer.query(countryReference, referenceIsCode)) {
             case Success(Some(queryResult)) => complete(queryResult)
-            case Success(None) => complete(StatusCodes.NotFound)
+            case Success(None) =>
+              complete(StatusCodes.NotFound,
+                s"Country ${if (referenceIsCode) "with code" else "named"} $countryReference not found.")
           }
         }
       }

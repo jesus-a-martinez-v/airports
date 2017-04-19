@@ -11,7 +11,7 @@ import scala.concurrent.{ExecutionContext, Future}
 import scala.concurrent.duration._
 
 /**
-  * Created by jesus on 16/04/17.
+  * Class that serves reports and queries about countries, airports and runways.
   */
 class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[Runway], cacheKeeper: ActorRef)
                 (implicit sparkContext: SparkContext, executionContext: ExecutionContext) {

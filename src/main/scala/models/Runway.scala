@@ -2,9 +2,6 @@ package models
 
 import utils.Utils
 
-/**
-  * Created by jesus on 16/04/17.
-  */
 case class Runway(id: Long,
                   airportReference: Long,
                   airportIdentifier: String,

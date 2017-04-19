@@ -1,7 +1,7 @@
 {
   "countriesWithHighestNumberOfAirports": [
-    [
-      {
+    {
+      "country": {
         "name": "United States",
         "wikipediaLink": "http://en.wikipedia.org/wiki/United_States",
         "continent": "NA",
@@ -11,10 +11,10 @@
           "America"
         ]
       },
-      21501
-    ],
-    [
-      {
+      "count": 21501
+    },
+    {
+      "country": {
         "name": "Brazil",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Brazil",
         "continent": "SA",
@@ -25,10 +25,10 @@
           " Brasilian"
         ]
       },
-      3839
-    ],
-    [
-      {
+      "count": 3839
+    },
+    {
+      "country": {
         "name": "Canada",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Canada",
         "continent": "NA",
@@ -36,10 +36,10 @@
         "id": 302730,
         "keywords": []
       },
-      2454
-    ],
-    [
-      {
+      "count": 2454
+    },
+    {
+      "country": {
         "name": "Australia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Australia",
         "continent": "OC",
@@ -47,10 +47,10 @@
         "id": 302764,
         "keywords": []
       },
-      1908
-    ],
-    [
-      {
+      "count": 1908
+    },
+    {
+      "country": {
         "name": "Russia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Russia",
         "continent": "EU",
@@ -62,10 +62,10 @@
           " Sovetskaya"
         ]
       },
-      920
-    ],
-    [
-      {
+      "count": 920
+    },
+    {
+      "country": {
         "name": "France",
         "wikipediaLink": "http://en.wikipedia.org/wiki/France",
         "continent": "EU",
@@ -73,10 +73,10 @@
         "id": 302687,
         "keywords": []
       },
-      789
-    ],
-    [
-      {
+      "count": 789
+    },
+    {
+      "country": {
         "name": "Argentina",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Argentina",
         "continent": "SA",
@@ -84,10 +84,10 @@
         "id": 302789,
         "keywords": []
       },
-      713
-    ],
-    [
-      {
+      "count": 713
+    },
+    {
+      "country": {
         "name": "Germany",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Germany",
         "continent": "EU",
@@ -97,10 +97,10 @@
           "Deutschland"
         ]
       },
-      703
-    ],
-    [
-      {
+      "count": 703
+    },
+    {
+      "country": {
         "name": "Colombia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Colombia",
         "continent": "SA",
@@ -108,10 +108,10 @@
         "id": 302793,
         "keywords": []
       },
-      700
-    ],
-    [
-      {
+      "count": 700
+    },
+    {
+      "country": {
         "name": "Venezuela",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Venezuela",
         "continent": "SA",
@@ -119,12 +119,12 @@
         "id": 302802,
         "keywords": []
       },
-      592
-    ]
+      "count": 592
+    }
   ],
   "countriesWithLowestNumberOfAirports": [
-    [
-      {
+    {
+      "country": {
         "name": "Macau",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Macau",
         "continent": "AS",
@@ -134,10 +134,10 @@
           "Macao"
         ]
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Cocos (Keeling) Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
         "continent": "AS",
@@ -145,10 +145,10 @@
         "id": 302626,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Martinique",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Martinique",
         "continent": "NA",
@@ -156,10 +156,10 @@
         "id": 302745,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Monaco",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Monaco",
         "continent": "EU",
@@ -167,10 +167,10 @@
         "id": 302703,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Gibraltar",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Gibraltar",
         "continent": "EU",
@@ -178,10 +178,10 @@
         "id": 302690,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Andorra",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Andorra",
         "continent": "EU",
@@ -189,10 +189,10 @@
         "id": 302672,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Mayotte",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mayotte",
         "continent": "AF",
@@ -200,10 +200,10 @@
         "id": 302609,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Nauru",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Nauru",
         "continent": "OC",
@@ -211,10 +211,10 @@
         "id": 302774,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Curaçao",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cura%C3%A7ao",
         "continent": "NA",
@@ -222,10 +222,10 @@
         "id": 302762,
         "keywords": []
       },
-      1
-    ],
-    [
-      {
+      "count": 1
+    },
+    {
+      "country": {
         "name": "Niue",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Niue",
         "continent": "OC",
@@ -233,12 +233,12 @@
         "id": 302775,
         "keywords": []
       },
-      1
-    ]
+      "count": 1
+    }
   ],
   "runwaysPerCountry": [
-    [
-      {
+    {
+      "country": {
         "name": "Northern Mariana Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Northern_Mariana_Islands",
         "continent": "OC",
@@ -246,14 +246,14 @@
         "id": 302771,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "TURF-GRVL",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Finland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Finland",
         "continent": "EU",
@@ -261,7 +261,7 @@
         "id": 302685,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRVL/GRASS",
         "ASPH/GRASS",
         "ASPH/GRVL",
@@ -280,9 +280,9 @@
         "Oilgravel/sand",
         "Oligravel/GRVL"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cambodia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cambodia",
         "continent": "AS",
@@ -290,16 +290,16 @@
         "id": 302641,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GVL",
         "ASP",
         "CON",
         "UNK",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Puerto Rico",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Puerto_Rico",
         "continent": "NA",
@@ -307,7 +307,7 @@
         "id": 302751,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "WATER",
         "ASPH-G",
         "ASPH",
@@ -317,9 +317,9 @@
         "CON",
         "ASPH-F"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Djibouti",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Djibouti",
         "continent": "AF",
@@ -327,12 +327,12 @@
         "id": 302567,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Portugal",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Portugal",
         "continent": "EU",
@@ -340,7 +340,7 @@
         "id": 302711,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "grav",
         "asphalt",
         "GVL",
@@ -350,9 +350,9 @@
         "asph",
         "GRAV"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Tunisia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Tunisia",
         "continent": "AF",
@@ -360,14 +360,14 @@
         "id": 302606,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "PEM",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "New Zealand",
         "wikipediaLink": "http://en.wikipedia.org/wiki/New_Zealand",
         "continent": "OC",
@@ -375,7 +375,7 @@
         "id": 302776,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "GRE",
         "Sealed",
@@ -391,9 +391,9 @@
         "Grass",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Nicaragua",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Nicaragua",
         "continent": "NA",
@@ -401,13 +401,13 @@
         "id": 302748,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "United Arab Emirates",
         "wikipediaLink": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
         "continent": "AS",
@@ -417,16 +417,16 @@
           "UAE"
         ]
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "U",
         "ASP",
         "UNK",
         "MAC"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Pakistan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Pakistan",
         "continent": "AS",
@@ -434,7 +434,7 @@
         "id": 302657,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "PEM",
         "GRE",
@@ -446,9 +446,9 @@
         "SAN",
         "'asphalt'"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Austria",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Austria",
         "continent": "EU",
@@ -456,7 +456,7 @@
         "id": 302674,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "CLOSED",
@@ -464,9 +464,9 @@
         "GRS",
         "GRASS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "British Virgin Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/British_Virgin_Islands",
         "continent": "NA",
@@ -474,13 +474,13 @@
         "id": 302757,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Italy",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Italy",
         "continent": "EU",
@@ -490,7 +490,7 @@
           "Italia"
         ]
       },
-      [
+      "runwayTypes": [
         "BIT",
         "GRE",
         "dirt",
@@ -504,9 +504,9 @@
         "ground",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Algeria",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Algeria",
         "continent": "AF",
@@ -514,7 +514,7 @@
         "id": 302568,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "PEM",
         "GRE",
@@ -523,9 +523,9 @@
         "UNK",
         "SAN"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Laos",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Laos",
         "continent": "AS",
@@ -533,14 +533,14 @@
         "id": 302646,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "COP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Haiti",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Haiti",
         "continent": "NA",
@@ -548,12 +548,12 @@
         "id": 302740,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Serbia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Serbia",
         "continent": "EU",
@@ -563,16 +563,16 @@
           "Serb"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "Paved",
         "grass",
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Solomon Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Solomon_Islands",
         "continent": "OC",
@@ -580,7 +580,7 @@
         "id": 302781,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Sand/grass",
         "Sand grass",
         "Gravel dirt",
@@ -596,9 +596,9 @@
         "Grass",
         "Coral"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Zambia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Zambia",
         "continent": "AF",
@@ -606,7 +606,7 @@
         "id": 302611,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "Gravel",
         "ASP",
@@ -615,9 +615,9 @@
         "BRI",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Somalia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Somalia",
         "continent": "AF",
@@ -625,14 +625,14 @@
         "id": 302601,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "sand"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Turkmenistan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Turkmenistan",
         "continent": "AS",
@@ -640,13 +640,13 @@
         "id": 302666,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Maldives",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Maldives",
         "continent": "AS",
@@ -654,14 +654,14 @@
         "id": 302652,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "BIT",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Netherlands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Netherlands",
         "continent": "EU",
@@ -671,7 +671,7 @@
           "Holland"
         ]
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASPH",
         "asphalt",
@@ -680,9 +680,9 @@
         "grass",
         "grass, first 500x6 meter on 25 is paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mozambique",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mozambique",
         "continent": "AF",
@@ -690,15 +690,15 @@
         "id": 302590,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "SAN",
         "GVL",
         "BIT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Senegal",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Senegal",
         "continent": "AF",
@@ -706,15 +706,15 @@
         "id": 302600,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "SAN",
         "MAC",
         "GRE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "South Sudan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/South_Sudan",
         "continent": "AF",
@@ -722,14 +722,14 @@
         "id": 302614,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP",
         "Asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "France",
         "wikipediaLink": "http://en.wikipedia.org/wiki/France",
         "continent": "EU",
@@ -737,7 +737,7 @@
         "id": 302687,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "grass - herbe  (avion)",
         "UNPAVED",
         "PEM",
@@ -760,9 +760,9 @@
         "grass - herbe  (planeur)",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guam",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guam",
         "continent": "OC",
@@ -770,13 +770,13 @@
         "id": 302768,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Belgium",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Belgium",
         "continent": "EU",
@@ -784,7 +784,7 @@
         "id": 302676,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "CON",
@@ -793,9 +793,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Equatorial Guinea",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Equatorial_Guinea",
         "continent": "AF",
@@ -803,14 +803,14 @@
         "id": 302577,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Yemen",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Yemen",
         "continent": "AS",
@@ -818,13 +818,13 @@
         "id": 302671,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Gibraltar",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Gibraltar",
         "continent": "EU",
@@ -832,12 +832,12 @@
         "id": 302690,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Réunion",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Réunion",
         "continent": "AF",
@@ -848,12 +848,12 @@
           " La Réunion"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Perú",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Perú",
         "continent": "SA",
@@ -861,14 +861,14 @@
         "id": 302798,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Armenia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Armenia",
         "continent": "AS",
@@ -876,14 +876,14 @@
         "id": 302620,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "paved",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Poland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Poland",
         "continent": "EU",
@@ -891,7 +891,7 @@
         "id": 302710,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "asphalt",
         "ASP",
@@ -902,9 +902,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guadeloupe",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guadeloupe",
         "continent": "NA",
@@ -912,12 +912,12 @@
         "id": 302737,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Malawi",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Malawi",
         "continent": "AF",
@@ -925,14 +925,14 @@
         "id": 302589,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRS",
         "BIT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Macedonia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Macedonia",
         "continent": "EU",
@@ -940,15 +940,15 @@
         "id": 302706,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRE",
         "CON",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Hungary",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Hungary",
         "continent": "EU",
@@ -956,7 +956,7 @@
         "id": 302693,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRE",
         "ASP",
         "concrete",
@@ -967,9 +967,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Croatia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Croatia",
         "continent": "EU",
@@ -977,7 +977,7 @@
         "id": 302692,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "ASP",
@@ -985,9 +985,9 @@
         "UNK",
         "grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Norway",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Norway",
         "continent": "EU",
@@ -995,7 +995,7 @@
         "id": 302709,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Gravel/Grass",
         "Gravel",
         "Ice",
@@ -1007,9 +1007,9 @@
         "Concrete",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bermuda",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bermuda",
         "continent": "NA",
@@ -1017,12 +1017,12 @@
         "id": 302727,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Israel",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Israel",
         "continent": "AS",
@@ -1030,14 +1030,14 @@
         "id": 302633,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "Asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Paraguay",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Paraguay",
         "continent": "SA",
@@ -1045,14 +1045,14 @@
         "id": 302799,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mayotte",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mayotte",
         "continent": "AF",
@@ -1060,12 +1060,12 @@
         "id": 302609,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Costa Rica",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Costa_Rica",
         "continent": "NA",
@@ -1073,14 +1073,14 @@
         "id": 302731,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "United States",
         "wikipediaLink": "http://en.wikipedia.org/wiki/United_States",
         "continent": "NA",
@@ -1090,7 +1090,7 @@
           "America"
         ]
       },
-      [
+      "runwayTypes": [
         "BIT",
         "DIRT-GRVL",
         "DIRT-P",
@@ -1261,9 +1261,9 @@
         "ASPH-TRTD-G",
         "TURF-GRVL-F"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Wallis and Futuna",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Wallis_and_Futuna",
         "continent": "OC",
@@ -1271,13 +1271,13 @@
         "id": 302787,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Turkey",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Turkey",
         "continent": "AS",
@@ -1285,7 +1285,7 @@
         "id": 302667,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "PER",
         "CONCRETE",
@@ -1294,9 +1294,9 @@
         "CON",
         "Concrete"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Botswana",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Botswana",
         "continent": "AF",
@@ -1304,14 +1304,14 @@
         "id": 302560,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GVL",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Vanuatu",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Vanuatu",
         "continent": "OC",
@@ -1319,7 +1319,7 @@
         "id": 302786,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Volcanic ash/soil",
         "Asphalt",
         "ASP",
@@ -1329,9 +1329,9 @@
         "Coral",
         "Grass on coral"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Namibia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Namibia",
         "continent": "AF",
@@ -1339,14 +1339,14 @@
         "id": 302591,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GVL",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Greece",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Greece",
         "continent": "EU",
@@ -1354,14 +1354,14 @@
         "id": 302691,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "PEM"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guatemala",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guatemala",
         "continent": "NA",
@@ -1369,14 +1369,14 @@
         "id": 302738,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP",
         "Dirt/Gravel"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Congo (Brazzaville)",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Congo_(Brazzaville)",
         "continent": "AF",
@@ -1384,13 +1384,13 @@
         "id": 302563,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cocos (Keeling) Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
         "continent": "AS",
@@ -1398,12 +1398,12 @@
         "id": 302626,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Estonia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Estonia",
         "continent": "EU",
@@ -1411,14 +1411,14 @@
         "id": 302683,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRS",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Jersey",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Jersey",
         "continent": "EU",
@@ -1426,12 +1426,12 @@
         "id": 302698,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "French Southern Territories",
         "wikipediaLink": "http://en.wikipedia.org/wiki/French_Southern_Territories",
         "continent": "AN",
@@ -1439,12 +1439,12 @@
         "id": 302617,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "dirt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Libya",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Libya",
         "continent": "AF",
@@ -1452,16 +1452,16 @@
         "id": 302583,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "COP",
         "GVL",
         "ASP",
         "CON",
         "SAN"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "British Indian Ocean Territory",
         "wikipediaLink": "http://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
         "continent": "AS",
@@ -1469,12 +1469,12 @@
         "id": 302635,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "French Polynesia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/French_Polynesia",
         "continent": "OC",
@@ -1482,15 +1482,15 @@
         "id": 302777,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "BIT",
         "COR",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Sint Maarten",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Sint_Maarten",
         "continent": "NA",
@@ -1498,13 +1498,13 @@
         "id": 302761,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "ASPH-CONC"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Burundi",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Burundi",
         "continent": "AF",
@@ -1512,13 +1512,13 @@
         "id": 302558,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "American Samoa",
         "wikipediaLink": "http://en.wikipedia.org/wiki/American_Samoa",
         "continent": "OC",
@@ -1526,14 +1526,14 @@
         "id": 302763,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CONC-G",
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Nepal",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Nepal",
         "continent": "AS",
@@ -1541,14 +1541,14 @@
         "id": 302654,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP",
         "asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "New Caledonia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/New_Caledonia",
         "continent": "OC",
@@ -1556,7 +1556,7 @@
         "id": 302772,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Paved/Compacted schist",
         "Asphalt",
         "ASP",
@@ -1564,9 +1564,9 @@
         "MAC",
         "Paved/Gravel"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Comoros",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Comoros",
         "continent": "AF",
@@ -1576,13 +1576,13 @@
           "جزر القمر"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guernsey",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guernsey",
         "continent": "EU",
@@ -1590,13 +1590,13 @@
         "id": 302689,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "São Tomé and Principe",
         "wikipediaLink": "http://en.wikipedia.org/wiki/São_Tomé_and_Principe",
         "continent": "AF",
@@ -1604,12 +1604,12 @@
         "id": 302602,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Norfolk Island",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Norfolk_Island",
         "continent": "OC",
@@ -1617,12 +1617,12 @@
         "id": 302773,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Niger",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Niger",
         "continent": "AF",
@@ -1630,14 +1630,14 @@
         "id": 302592,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "LAT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Sri Lanka",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Sri_Lanka",
         "continent": "AS",
@@ -1645,13 +1645,13 @@
         "id": 302648,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "Asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Venezuela",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Venezuela",
         "continent": "SA",
@@ -1659,15 +1659,15 @@
         "id": 302802,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "UNK",
         "CONCRETE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Angola",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Angola",
         "continent": "AF",
@@ -1675,13 +1675,13 @@
         "id": 302556,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "United Kingdom",
         "wikipediaLink": "http://en.wikipedia.org/wiki/United_Kingdom",
         "continent": "EU",
@@ -1691,7 +1691,7 @@
           "Great Britain"
         ]
       },
-      [
+      "runwayTypes": [
         "Grass/Graded Hardcore",
         "Grass/Asphalt",
         "PEM",
@@ -1717,9 +1717,9 @@
         "Grass/Helipads Concrete",
         "SAND"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Germany",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Germany",
         "continent": "EU",
@@ -1729,7 +1729,7 @@
           "Deutschland"
         ]
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASPH",
         "CONCRETE + GRASS. MTOM 2t",
@@ -1750,9 +1750,9 @@
         "GRASS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cuba",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cuba",
         "continent": "NA",
@@ -1760,13 +1760,13 @@
         "id": 302732,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Kenya",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Kenya",
         "continent": "AF",
@@ -1774,15 +1774,15 @@
         "id": 302579,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "GRE",
         "BIT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Swaziland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Swaziland",
         "continent": "AF",
@@ -1790,12 +1790,12 @@
         "id": 302603,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Montserrat",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Montserrat",
         "continent": "NA",
@@ -1803,12 +1803,12 @@
         "id": 302746,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mongolia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mongolia",
         "continent": "AS",
@@ -1816,16 +1816,16 @@
         "id": 302650,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "GRE",
         "ASP",
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Moldova",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Moldova",
         "continent": "EU",
@@ -1833,13 +1833,13 @@
         "id": 302704,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "grass",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saint Lucia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Lucia",
         "continent": "NA",
@@ -1847,12 +1847,12 @@
         "id": 302744,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Uganda",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Uganda",
         "continent": "AF",
@@ -1860,14 +1860,14 @@
         "id": 302608,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRE",
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cape Verde",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cape_Verde",
         "continent": "AF",
@@ -1875,13 +1875,13 @@
         "id": 302566,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Ethiopia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Ethiopia",
         "continent": "AF",
@@ -1889,14 +1889,14 @@
         "id": 302572,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Philippines",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Philippines",
         "continent": "AS",
@@ -1907,7 +1907,7 @@
           " Phillipines Philipines"
         ]
       },
-      [
+      "runwayTypes": [
         "BIT",
         "PEM",
         "COP",
@@ -1918,9 +1918,9 @@
         "Concrete",
         "ASP/CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Japan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Japan",
         "continent": "AS",
@@ -1930,7 +1930,7 @@
           "Nippon"
         ]
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "U",
@@ -1942,9 +1942,9 @@
         "COR",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Taiwan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Taiwan",
         "continent": "AS",
@@ -1952,15 +1952,15 @@
         "id": 302668,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Palestinian Territory",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Palestinian_Territory",
         "continent": "AS",
@@ -1968,12 +1968,12 @@
         "id": 302658,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Canada",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Canada",
         "continent": "NA",
@@ -1981,7 +1981,7 @@
         "id": 302730,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRVL/CLAY",
         "TURF/OIL PACKE",
         "GRVL/ASP",
@@ -2079,9 +2079,9 @@
         "SAND",
         "ASP/TURF"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bulgaria",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bulgaria",
         "continent": "EU",
@@ -2089,16 +2089,16 @@
         "id": 302677,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "ASP",
         "concrete",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Uruguay",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Uruguay",
         "continent": "SA",
@@ -2106,16 +2106,16 @@
         "id": 302801,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "CON",
         "UNK",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "El Salvador",
         "wikipediaLink": "http://en.wikipedia.org/wiki/El_Salvador",
         "continent": "NA",
@@ -2126,12 +2126,12 @@
           " Salvadorean"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bahrain",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bahrain",
         "continent": "AS",
@@ -2139,12 +2139,12 @@
         "id": 302623,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Falkland Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Falkland_Islands",
         "continent": "SA",
@@ -2152,12 +2152,12 @@
         "id": 302795,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Lesotho",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Lesotho",
         "continent": "AF",
@@ -2165,13 +2165,13 @@
         "id": 302582,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Ukraine",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Ukraine",
         "continent": "EU",
@@ -2179,7 +2179,7 @@
         "id": 302719,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "ASP",
@@ -2188,9 +2188,9 @@
         "BRI",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Afghanistan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Afghanistan",
         "continent": "AS",
@@ -2198,16 +2198,16 @@
         "id": 302619,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRV",
         "CONCRETE AND ASP",
         "GVL",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Nauru",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Nauru",
         "continent": "OC",
@@ -2215,12 +2215,12 @@
         "id": 302774,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Palau",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Palau",
         "continent": "OC",
@@ -2228,14 +2228,14 @@
         "id": 302780,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRAVEL-F",
         "GRVL-F"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Morocco",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Morocco",
         "continent": "AF",
@@ -2243,15 +2243,15 @@
         "id": 302584,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "BIT",
         "UNK",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Singapore",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Singapore",
         "continent": "AS",
@@ -2259,13 +2259,13 @@
         "id": 302661,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Malaysia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Malaysia",
         "continent": "AS",
@@ -2273,14 +2273,14 @@
         "id": 302653,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRE",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saudi Arabia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saudi_Arabia",
         "continent": "AS",
@@ -2288,16 +2288,16 @@
         "id": 302660,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "ASP",
         "CON",
         "UNK",
         "SAN"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "United States Minor Outlying Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
         "continent": "OC",
@@ -2305,13 +2305,13 @@
         "id": 302785,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Tajikistan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Tajikistan",
         "continent": "AS",
@@ -2321,13 +2321,13 @@
           "Tajik"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Vietnam",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Vietnam",
         "continent": "AS",
@@ -2335,14 +2335,14 @@
         "id": 302670,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Dominica",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Dominica",
         "continent": "NA",
@@ -2350,12 +2350,12 @@
         "id": 302733,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saint Helena",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Helena",
         "continent": "AF",
@@ -2363,12 +2363,12 @@
         "id": 302598,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Russia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Russia",
         "continent": "EU",
@@ -2380,7 +2380,7 @@
           " Sovetskaya"
         ]
       },
-      [
+      "runwayTypes": [
         "'concrete'",
         "PEM",
         "GRE",
@@ -2395,9 +2395,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Tonga",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Tonga",
         "continent": "OC",
@@ -2405,15 +2405,15 @@
         "id": 302783,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP",
         "GRS",
         "BIT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Honduras",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Honduras",
         "continent": "NA",
@@ -2421,16 +2421,16 @@
         "id": 302739,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRVL",
         "CON",
         "GRVL-GRASS",
         "GRASS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Antigua and Barbuda",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Antigua_and_Barbuda",
         "continent": "NA",
@@ -2438,12 +2438,12 @@
         "id": 302722,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Kazakhstan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Kazakhstan",
         "continent": "AS",
@@ -2453,7 +2453,7 @@
           "Kazakh"
         ]
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "asphalt",
@@ -2461,9 +2461,9 @@
         "CON",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Anguilla",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Anguilla",
         "continent": "NA",
@@ -2471,12 +2471,12 @@
         "id": 302723,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Western Sahara",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Western_Sahara",
         "continent": "AF",
@@ -2486,12 +2486,12 @@
           "Sahrawian"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Oman",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Oman",
         "continent": "AS",
@@ -2499,14 +2499,14 @@
         "id": 302655,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GVL",
         "GRE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Marshall Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Marshall_Islands",
         "continent": "OC",
@@ -2514,13 +2514,13 @@
         "id": 302770,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRVL",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Sudan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Sudan",
         "continent": "AF",
@@ -2528,7 +2528,7 @@
         "id": 302597,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "GVL",
         "ASP",
@@ -2536,9 +2536,9 @@
         "gravel",
         "graded earth"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saint Martin",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Martin_(France)",
         "continent": "NA",
@@ -2546,12 +2546,12 @@
         "id": 302759,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Liberia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Liberia",
         "continent": "AF",
@@ -2559,12 +2559,12 @@
         "id": 302581,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mauritius",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mauritius",
         "continent": "AF",
@@ -2572,12 +2572,12 @@
         "id": 302588,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Belarus",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Belarus",
         "continent": "EU",
@@ -2588,13 +2588,13 @@
           " Беларусь"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Lebanon",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Lebanon",
         "continent": "AS",
@@ -2602,13 +2602,13 @@
         "id": 302647,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Hong Kong",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Hong_Kong",
         "continent": "AS",
@@ -2616,13 +2616,13 @@
         "id": 302631,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Kuwait",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Kuwait",
         "continent": "AS",
@@ -2630,14 +2630,14 @@
         "id": 302644,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Barbados",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Barbados",
         "continent": "NA",
@@ -2645,12 +2645,12 @@
         "id": 302726,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Timor-Leste",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Timor-Leste",
         "continent": "AS",
@@ -2660,13 +2660,13 @@
           "East Timor"
         ]
       },
-      [
+      "runwayTypes": [
         "Grass",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Côte d'Ivoire",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Côte_d'Ivoire",
         "continent": "AF",
@@ -2676,14 +2676,14 @@
           "Ivory Coast"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Isle of Man",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Isle_of_Man",
         "continent": "EU",
@@ -2691,12 +2691,12 @@
         "id": 302695,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Niue",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Niue",
         "continent": "OC",
@@ -2704,12 +2704,12 @@
         "id": 302775,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Chad",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Chad",
         "continent": "AF",
@@ -2717,13 +2717,13 @@
         "id": 302604,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Seychelles",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Seychelles",
         "continent": "AF",
@@ -2731,13 +2731,13 @@
         "id": 302596,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Denmark",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Denmark",
         "continent": "EU",
@@ -2745,7 +2745,7 @@
         "id": 302682,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "ASP",
@@ -2754,9 +2754,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Eritrea",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Eritrea",
         "continent": "AF",
@@ -2764,13 +2764,13 @@
         "id": 302571,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Iceland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Iceland",
         "continent": "EU",
@@ -2778,15 +2778,15 @@
         "id": 302696,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "BIT",
         "ASP",
         "ASPH-G"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Brunei",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Brunei",
         "continent": "AS",
@@ -2794,12 +2794,12 @@
         "id": 302624,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Ghana",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Ghana",
         "continent": "AF",
@@ -2807,12 +2807,12 @@
         "id": 302574,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bangladesh",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bangladesh",
         "continent": "AS",
@@ -2820,14 +2820,14 @@
         "id": 302622,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Albania",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Albania",
         "continent": "EU",
@@ -2835,16 +2835,16 @@
         "id": 302673,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRE",
         "ASP",
         "CON",
         "GRS",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cameroon",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cameroon",
         "continent": "AF",
@@ -2852,13 +2852,13 @@
         "id": 302565,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Colombia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Colombia",
         "continent": "SA",
@@ -2866,15 +2866,15 @@
         "id": 302793,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "GRE",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Burkina Faso",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Burkina_Faso",
         "continent": "AF",
@@ -2882,13 +2882,13 @@
         "id": 302557,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "LAT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "India",
         "wikipediaLink": "http://en.wikipedia.org/wiki/India",
         "continent": "AS",
@@ -2896,7 +2896,7 @@
         "id": 302634,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "PEM",
         "GRE",
@@ -2917,9 +2917,9 @@
         "paved",
         "PAVED"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Antarctica",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Antarctica",
         "continent": "AN",
@@ -2927,15 +2927,15 @@
         "id": 302615,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "SNO",
         "ice",
         "ICE",
         "GRE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Syria",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Syria",
         "continent": "AS",
@@ -2943,7 +2943,7 @@
         "id": 302662,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "ASP",
@@ -2951,9 +2951,9 @@
         "UNK",
         "SAN"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Nigeria",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Nigeria",
         "continent": "AF",
@@ -2961,14 +2961,14 @@
         "id": 302593,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "LAT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Togo",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Togo",
         "continent": "AF",
@@ -2976,13 +2976,13 @@
         "id": 302605,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Samoa",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Samoa",
         "continent": "OC",
@@ -2990,12 +2990,12 @@
         "id": 302788,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cyprus",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cyprus",
         "continent": "AS",
@@ -3003,13 +3003,13 @@
         "id": 302629,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "concrete"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Spain",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Spain",
         "continent": "EU",
@@ -3017,7 +3017,7 @@
         "id": 302684,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRE",
         "Asphalt",
         "ASP",
@@ -3027,9 +3027,9 @@
         "ASPHALT",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Sierra Leone",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Sierra_Leone",
         "continent": "AF",
@@ -3037,12 +3037,12 @@
         "id": 302599,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Martinique",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Martinique",
         "continent": "NA",
@@ -3050,12 +3050,12 @@
         "id": 302745,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Turks and Caicos Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
         "continent": "NA",
@@ -3063,13 +3063,13 @@
         "id": 302753,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cook Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cook_Islands",
         "continent": "OC",
@@ -3077,15 +3077,15 @@
         "id": 302765,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "COR",
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Panama",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Panama",
         "continent": "NA",
@@ -3093,14 +3093,14 @@
         "id": 302749,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "Asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bosnia and Herzegovina",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
         "continent": "EU",
@@ -3108,14 +3108,14 @@
         "id": 302675,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "Grass",
         "GRASS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Chile",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Chile",
         "continent": "SA",
@@ -3123,7 +3123,7 @@
         "id": 302792,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "GRV",
         "GRE",
@@ -3145,9 +3145,9 @@
         "GRAIN",
         "GRV/ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Aruba",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Aruba",
         "continent": "NA",
@@ -3155,12 +3155,12 @@
         "id": 302725,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Lithuania",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Lithuania",
         "continent": "EU",
@@ -3168,7 +3168,7 @@
         "id": 302700,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "GRASS OR EARTH NOT GRADED OR ROLLED",
         "ASP",
@@ -3179,9 +3179,9 @@
         "Grass",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Grenada",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Grenada",
         "continent": "NA",
@@ -3189,13 +3189,13 @@
         "id": 302735,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Azerbaijan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Azerbaijan",
         "continent": "AS",
@@ -3203,13 +3203,13 @@
         "id": 302621,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Iran",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Iran",
         "continent": "AS",
@@ -3217,15 +3217,15 @@
         "id": 302637,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "PEM",
         "CON",
         "GRE"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Argentina",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Argentina",
         "continent": "SA",
@@ -3233,7 +3233,7 @@
         "id": 302789,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "GRE",
         "STONE",
         "ASP",
@@ -3242,9 +3242,9 @@
         "Concrete",
         "MET"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Sweden",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Sweden",
         "continent": "EU",
@@ -3252,7 +3252,7 @@
         "id": 302715,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "Gravel",
@@ -3265,9 +3265,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Burma",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Burma",
         "continent": "AS",
@@ -3277,14 +3277,14 @@
           "Myanmar"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "BIT",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guyana",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guyana",
         "continent": "SA",
@@ -3292,13 +3292,13 @@
         "id": 302797,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "concrete",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Tuvalu",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Tuvalu",
         "continent": "OC",
@@ -3306,12 +3306,12 @@
         "id": 302784,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Georgia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Georgia_(country)",
         "continent": "AS",
@@ -3319,13 +3319,13 @@
         "id": 302630,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Benin",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Benin",
         "continent": "AF",
@@ -3333,13 +3333,13 @@
         "id": 302559,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bolivia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bolivia",
         "continent": "SA",
@@ -3347,15 +3347,15 @@
         "id": 302790,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRE",
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Romania",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Romania",
         "continent": "EU",
@@ -3363,16 +3363,16 @@
         "id": 302712,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "UNK",
         "grass",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Suriname",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Suriname",
         "continent": "SA",
@@ -3380,12 +3380,12 @@
         "id": 302800,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASPHALT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mali",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mali",
         "continent": "AF",
@@ -3393,16 +3393,16 @@
         "id": 302586,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Brown clay gravel",
         "GVL",
         "ASP",
         "UNK",
         "LAT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Jordan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Jordan",
         "continent": "AS",
@@ -3410,13 +3410,13 @@
         "id": 302638,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Indonesia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Indonesia",
         "continent": "AS",
@@ -3424,7 +3424,7 @@
         "id": 302632,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Grass/sandy soil",
         "Sand/grass",
         "Rocky gravel",
@@ -3477,9 +3477,9 @@
         "Gravel/clay",
         "Clay"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Macau",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Macau",
         "continent": "AS",
@@ -3489,12 +3489,12 @@
           "Macao"
         ]
       },
-      [
+      "runwayTypes": [
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Luxembourg",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Luxembourg",
         "continent": "EU",
@@ -3502,13 +3502,13 @@
         "id": 302701,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Faroe Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Faroe_Islands",
         "continent": "EU",
@@ -3516,12 +3516,12 @@
         "id": 302686,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Iraq",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Iraq",
         "continent": "AS",
@@ -3529,7 +3529,7 @@
         "id": 302636,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GRE",
         "U",
@@ -3538,9 +3538,9 @@
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Fiji",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Fiji",
         "continent": "OC",
@@ -3548,13 +3548,13 @@
         "id": 302766,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Greenland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Greenland",
         "continent": "NA",
@@ -3562,7 +3562,7 @@
         "id": 302736,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASPH",
         "ICE",
         "GVL",
@@ -3570,9 +3570,9 @@
         "CON",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "U.S. Virgin Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/U.S._Virgin_Islands",
         "continent": "NA",
@@ -3580,13 +3580,13 @@
         "id": 302758,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "WATER"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Caribbean Netherlands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Caribbean_Netherlands",
         "continent": "NA",
@@ -3594,12 +3594,12 @@
         "id": 302724,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mauritania",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mauritania",
         "continent": "AF",
@@ -3607,14 +3607,14 @@
         "id": 302587,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "MAC",
         "BIT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Kyrgyzstan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Kyrgyzstan",
         "continent": "AS",
@@ -3622,16 +3622,16 @@
         "id": 302640,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "asphalt",
         "ASP",
         "concrete",
         "CON",
         "ASB"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Trinidad and Tobago",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Trinidad_and_Tobago",
         "continent": "NA",
@@ -3639,12 +3639,12 @@
         "id": 302754,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Belize",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Belize",
         "continent": "NA",
@@ -3652,12 +3652,12 @@
         "id": 302729,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Gabon",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Gabon",
         "continent": "AF",
@@ -3665,14 +3665,14 @@
         "id": 302573,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "LAT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Slovenia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Slovenia",
         "continent": "EU",
@@ -3680,16 +3680,16 @@
         "id": 302716,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "asphalt",
         "ASP",
         "concrete",
         "grass",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Curaçao",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cura%C3%A7ao",
         "continent": "NA",
@@ -3697,12 +3697,12 @@
         "id": 302762,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saint Vincent and the Grenadines",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
         "continent": "NA",
@@ -3710,12 +3710,12 @@
         "id": 302756,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Cayman Islands",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Cayman_Islands",
         "continent": "NA",
@@ -3723,12 +3723,12 @@
         "id": 302743,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Papua New Guinea",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Papua_New_Guinea",
         "continent": "OC",
@@ -3736,7 +3736,7 @@
         "id": 302778,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Grassed brown silty clay",
         "Grassed red clay gravel",
         "Grassed red silt clay",
@@ -3810,9 +3810,9 @@
         "Grassed white coronas",
         "Clay"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saint Pierre and Miquelon",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
         "continent": "NA",
@@ -3820,12 +3820,12 @@
         "id": 302750,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Egypt",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Egypt",
         "continent": "AF",
@@ -3833,14 +3833,14 @@
         "id": 302569,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "Asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Latvia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Latvia",
         "continent": "EU",
@@ -3848,14 +3848,14 @@
         "id": 302702,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "PEM"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Ireland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Ireland",
         "continent": "EU",
@@ -3865,7 +3865,7 @@
           "Eire"
         ]
       },
-      [
+      "runwayTypes": [
         "BIT",
         "PEM",
         "ASPH",
@@ -3877,9 +3877,9 @@
         "GRASS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Mexico",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Mexico",
         "continent": "NA",
@@ -3887,7 +3887,7 @@
         "id": 302747,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "packed dirt",
         "Soil",
         "GRE",
@@ -3900,9 +3900,9 @@
         "UNK",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guinea",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guinea",
         "continent": "AF",
@@ -3910,13 +3910,13 @@
         "id": 302576,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Christmas Island",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Christmas_Island",
         "continent": "AS",
@@ -3924,12 +3924,12 @@
         "id": 302628,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Guinea-Bissau",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Guinea-Bissau",
         "continent": "AF",
@@ -3937,13 +3937,13 @@
         "id": 302578,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "French Guiana",
         "wikipediaLink": "http://en.wikipedia.org/wiki/French_Guiana",
         "continent": "SA",
@@ -3953,13 +3953,13 @@
           "French Guyana"
         ]
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Uzbekistan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Uzbekistan",
         "continent": "AS",
@@ -3969,13 +3969,13 @@
           "Uzbek"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "South Africa",
         "wikipediaLink": "http://en.wikipedia.org/wiki/South_Africa",
         "continent": "AF",
@@ -3983,7 +3983,7 @@
         "id": 302610,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "hard",
         "GRE",
         "Gravel",
@@ -4008,9 +4008,9 @@
         "LAT",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Saint Kitts and Nevis",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
         "continent": "NA",
@@ -4018,12 +4018,12 @@
         "id": 302742,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Thailand",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Thailand",
         "continent": "AS",
@@ -4034,13 +4034,13 @@
           " Siamese"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Dominican Republic",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Dominican_Republic",
         "continent": "NA",
@@ -4048,14 +4048,14 @@
         "id": 302734,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP",
         "asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "North Korea",
         "wikipediaLink": "http://en.wikipedia.org/wiki/North_Korea",
         "continent": "AS",
@@ -4063,14 +4063,14 @@
         "id": 302642,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CON",
         "ASP",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Switzerland",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Switzerland",
         "continent": "EU",
@@ -4078,7 +4078,7 @@
         "id": 302679,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "CAUTION: ATC do NOT apply wake turbulence separation ! GRS.",
         "CONC",
         "ASPH",
@@ -4091,9 +4091,9 @@
         "GRS",
         "GRASS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Kosovo",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Kosovo",
         "continent": "EU",
@@ -4103,12 +4103,12 @@
           "Kosova"
         ]
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Tanzania",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Tanzania",
         "continent": "AF",
@@ -4116,16 +4116,16 @@
         "id": 302607,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "GRE",
         "ASP",
         "Hard",
         "UNK"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Micronesia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Micronesia",
         "continent": "OC",
@@ -4133,12 +4133,12 @@
         "id": 302767,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Ecuador",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Ecuador",
         "continent": "SA",
@@ -4146,14 +4146,14 @@
         "id": 302794,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "UNK",
         "Paviment hard"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Zimbabwe",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Zimbabwe",
         "continent": "AF",
@@ -4161,16 +4161,16 @@
         "id": 302612,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "GRE",
         "ASP",
         "GRS",
         "MAC"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "China",
         "wikipediaLink": "http://en.wikipedia.org/wiki/China",
         "continent": "AS",
@@ -4178,7 +4178,7 @@
         "id": 302627,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "ASP",
         "concrete",
@@ -4187,9 +4187,9 @@
         "Concrete",
         "paved"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Central African Republic",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Central_African_Republic",
         "continent": "AF",
@@ -4197,13 +4197,13 @@
         "id": 302562,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "UNK",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Brazil",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Brazil",
         "continent": "SA",
@@ -4214,7 +4214,7 @@
           " Brasilian"
         ]
       },
-      [
+      "runwayTypes": [
         "PIÇ",
         "SAI",
         "CON/MET",
@@ -4250,9 +4250,9 @@
         "PIC",
         "SAND"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Montenegro",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Montenegro",
         "continent": "EU",
@@ -4260,13 +4260,13 @@
         "id": 302705,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Slovakia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Slovakia",
         "continent": "EU",
@@ -4274,16 +4274,16 @@
         "id": 302717,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "CON",
         "UNK",
         "grass",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bahamas",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bahamas",
         "continent": "NA",
@@ -4291,14 +4291,14 @@
         "id": 302728,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "ASPH",
         "BIT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Bhutan",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Bhutan",
         "continent": "AS",
@@ -4306,14 +4306,14 @@
         "id": 302625,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "Asphalt",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Jamaica",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Jamaica",
         "continent": "NA",
@@ -4321,12 +4321,12 @@
         "id": 302741,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Congo (Kinshasa)",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Congo_(Kinshasa)",
         "continent": "AF",
@@ -4334,7 +4334,7 @@
         "id": 302561,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "PEM",
         "GVL",
         "Dirt",
@@ -4342,9 +4342,9 @@
         "CON",
         "LAT"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Qatar",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Qatar",
         "continent": "AS",
@@ -4352,13 +4352,13 @@
         "id": 302659,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "Asphalt"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Malta",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Malta",
         "continent": "EU",
@@ -4366,12 +4366,12 @@
         "id": 302707,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Kiribati",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Kiribati",
         "continent": "OC",
@@ -4379,14 +4379,14 @@
         "id": 302769,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "COR",
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Rwanda",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Rwanda",
         "continent": "AF",
@@ -4394,14 +4394,14 @@
         "id": 302595,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "'asphalt'",
         "grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "South Korea",
         "wikipediaLink": "http://en.wikipedia.org/wiki/South_Korea",
         "continent": "AS",
@@ -4409,7 +4409,7 @@
         "id": 302643,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "PEM",
         "GRE",
@@ -4421,9 +4421,9 @@
         "UNK",
         "GRS"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Gambia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Gambia",
         "continent": "AF",
@@ -4431,12 +4431,12 @@
         "id": 302575,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Madagascar",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Madagascar",
         "continent": "AF",
@@ -4444,15 +4444,15 @@
         "id": 302585,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "ASP",
         "COP",
         "BIT",
         "PEM"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Czech Republic",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Czech_Republic",
         "continent": "EU",
@@ -4460,7 +4460,7 @@
         "id": 302680,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "Asphalt",
         "ASP",
         "CON",
@@ -4469,9 +4469,9 @@
         "GRS",
         "Grass"
       ]
-    ],
-    [
-      {
+    },
+    {
+      "country": {
         "name": "Australia",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Australia",
         "continent": "OC",
@@ -4479,7 +4479,7 @@
         "id": 302764,
         "keywords": []
       },
-      [
+      "runwayTypes": [
         "BIT",
         "NRC",
         "UG",
@@ -4525,48 +4525,48 @@
         "XU",
         "paved"
       ]
-    ]
+    }
   ],
   "mostCommonRunwayIdentifications": [
-    [
-      "H1",
-      5566
-    ],
-    [
-      "18",
-      3180
-    ],
-    [
-      "09",
-      2581
-    ],
-    [
-      "17",
-      2320
-    ],
-    [
-      "16",
-      1559
-    ],
-    [
-      "12",
-      1506
-    ],
-    [
-      "14",
-      1469
-    ],
-    [
-      "08",
-      1459
-    ],
-    [
-      "13",
-      1447
-    ],
-    [
-      "15",
-      1399
-    ]
+    {
+      "runwayId": "H1",
+      "count": 5566
+    },
+    {
+      "runwayId": "18",
+      "count": 3180
+    },
+    {
+      "runwayId": "09",
+      "count": 2581
+    },
+    {
+      "runwayId": "17",
+      "count": 2320
+    },
+    {
+      "runwayId": "16",
+      "count": 1559
+    },
+    {
+      "runwayId": "12",
+      "count": 1506
+    },
+    {
+      "runwayId": "14",
+      "count": 1469
+    },
+    {
+      "runwayId": "08",
+      "count": 1459
+    },
+    {
+      "runwayId": "13",
+      "count": 1447
+    },
+    {
+      "runwayId": "15",
+      "count": 1399
+    }
   ]
 }

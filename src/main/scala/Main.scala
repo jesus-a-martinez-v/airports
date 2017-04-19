@@ -21,27 +21,26 @@ object Main extends App with Configuration with RouteConcatenation {
 
   // Use the actor system's embedded dispatcher
   private implicit val executor: ExecutionContext = system.dispatcher
-  private val log: LoggingAdapter = Logging(system, getClass)
   private implicit val materializer: ActorMaterializer = ActorMaterializer()
 
   // Spawn spark context.
   private val sparkConfiguration: SparkConf = new SparkConf().setAppName("Airports").setMaster("local")
-  implicit val sparkContext: SparkContext = new SparkContext(sparkConfiguration)
+  private implicit val sparkContext: SparkContext = new SparkContext(sparkConfiguration)
 
   // Load data from CSVs
-  val airports = Data.loadAirports()
-  val countries = Data.loadCountries()
-  val runways = Data.loadRunways()
+  private val airports = Data.loadAirports()
+  private val countries = Data.loadCountries()
+  private val runways = Data.loadRunways()
 
   // Create summarizer cache keeper
-  val cacheKeeper = system.actorOf(SummarizerCacheKeeper.props(frequency))
+  private val cacheKeeper = system.actorOf(SummarizerCacheKeeper.props(frequency))
 
   // Create summarizer service
-  val summarizer = new Summarizer(airports, countries, runways, cacheKeeper)
+  private val summarizer = new Summarizer(airports, countries, runways, cacheKeeper)
 
   // Create HTTP services.
-  val summarizerServiceRoute = new SummarizerServiceRoute(summarizer)
-  val httpService = new HttpService(summarizerServiceRoute)
+  private val summarizerServiceRoute = new SummarizerServiceRoute(summarizer)
+  private val httpService = new HttpService(summarizerServiceRoute)
 
   // Create Swagger service
   private val swaggerService = new SwaggerDocService(system, httpHost, httpPort)

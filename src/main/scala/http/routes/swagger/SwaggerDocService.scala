@@ -8,14 +8,14 @@ import com.github.swagger.akka.model.Info
 import http.routes.SummarizerServiceRoute
 import spray.json.pimpString
 
-import scala.reflect.runtime.{universe => ru}
+import scala.reflect.runtime.universe
 
 class SwaggerDocService(system: ActorSystem, hostname: String, port: Int) extends SwaggerHttpService with HasActorSystem {
   override implicit val actorSystem: ActorSystem = system
   override implicit val materializer: ActorMaterializer = ActorMaterializer()
 
   //Types used to create swagger.json
-  override val apiTypes = Seq(ru.typeOf[SummarizerServiceRoute])
+  override val apiTypes = Seq(universe.typeOf[SummarizerServiceRoute])
 
   //Address where the JSON will be served.
   override val host = s"$hostname:$port"

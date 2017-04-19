@@ -2,9 +2,6 @@ package models
 
 import utils.Utils
 
-/**
-  * Created by jesus on 15/04/17.
-  */
 case class Airport(id: Long, identifier: String, airportType: String, name: String, latitude: Double, longitude: Double,
                    elevation: Option[Double] = None, continent: String, isoCountry: String, isoRegion: String, scheduledService: Boolean,
                    municipality: Option[String] = None, gpsCode: Option[String] = None, iataCode: Option[String] = None,

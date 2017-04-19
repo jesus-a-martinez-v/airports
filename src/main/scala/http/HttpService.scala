@@ -7,9 +7,7 @@ import http.routes.SummarizerServiceRoute
 import utils.CorsSupport
 
 import scala.concurrent.ExecutionContext
-/**
-  * Created by jesus on 16/04/17.
-  */
+
 class HttpService(summarizerServiceRoute: SummarizerServiceRoute)(implicit ec: ExecutionContext) extends CorsSupport {
 
   //Support for Swagger UI.
