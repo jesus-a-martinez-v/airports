@@ -68,6 +68,6 @@ This will return [this.](https://github.com/jesus-a-martinez-v/airports/blob/mas
 
 #### Swagger
 
-For more interactivity, you can play with the Swagger UI specific to this API at [http://0.0.0.0:1234/swagger/](http://0.0.0.0:1234/swagger/)
+For more interactivity, you can play with the Swagger UI specific to this API at [http://localhost:1234/swagger/](http://localhost:1234/swagger/)
 
 
