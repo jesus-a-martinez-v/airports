@@ -57,7 +57,8 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
       val topTen = countriesAndAirportCount.sortBy(_._2, ascending = false).take(10)
       val bottomTen = countriesAndAirportCount.sortBy(_._2, ascending = true).take(10)
 
-      (topTen, bottomTen)
+      (topTen.map { case (country, count) => AirportsPerCountry(country, count) },
+        bottomTen.map { case (country, count) => AirportsPerCountry(country, count) })
     }
 
     def getTypeOfRunwaysPerCountry = {
@@ -77,7 +78,7 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
         } toSet) // We don't want duplicates.
         .collect()
 
-      runwaysPerCountry
+      runwaysPerCountry.map { case (country, runwaysType) => RunwaysPerCountry(country, runwaysType)}
     }
 
     def getTopTenRunwaysIdentifications = {
@@ -88,7 +89,7 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
         .sortBy(_._2, ascending = false)
         .take(10) // Take top 10.
 
-      topTenRunwaysIds
+      topTenRunwaysIds.map { case (runwayId, count) => RunwaysIdCount(runwayId, count) }
     }
 
     val (topTen, bottomTen) = getCountriesWithHigherAndLowerAmountOfAirports
@@ -115,7 +116,7 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
       airportsAndRunways
         .filter(_._1.isoCountry equalsIgnoreCase country.code)
         .collect()
-        .toSeq
+        .toSeq.map { case (airport, runwaysForAirport) => RunwaysPerAirport(airport, runwaysForAirport)}
 
     val queryResult = QueryResult(country = country, results = airportsAndRunwaysForSpecificCountry)
 

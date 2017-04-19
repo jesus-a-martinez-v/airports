@@ -1,10 +1,12 @@
 import akka.actor.ActorSystem
 import akka.util.Timeout
 import data.Data
+import models.RunwaysIdCount
 import org.apache.spark.{SparkConf, SparkContext}
 import org.scalatest.{BeforeAndAfterAll, FunSuite}
 import org.scalatest.concurrent.ScalaFutures
 import services.{Summarizer, SummarizerCacheKeeper}
+
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration._
 
@@ -32,7 +34,7 @@ class SummarizerSuite extends FunSuite with ScalaFutures with BeforeAndAfterAll 
   test("Must calculate correct report") {
     whenReady(summarizer.report()) { report =>
       val countriesWithHighestNumberOfAirports = report.countriesWithHighestNumberOfAirports
-        .map { case (country, count) => (country.name, count) }.toList
+        .map(result => (result.country.name, result.count)).toList
       val expected = List(
         ("United States",21501),
         ("Brazil",3839),
@@ -47,7 +49,7 @@ class SummarizerSuite extends FunSuite with ScalaFutures with BeforeAndAfterAll 
       assert(expected == countriesWithHighestNumberOfAirports)
 
       val countriesWithLowestNumberOfAirports = report.countriesWithLowestNumberOfAirports
-        .map { case (country, count) => (country.name, count) }.toSet
+        .map(result => (result.country.name, result.count)).toSet
       val expectedSet = Set(
         ("Gibraltar",1),
         ("Cocos (Keeling) Islands",1),
@@ -62,16 +64,16 @@ class SummarizerSuite extends FunSuite with ScalaFutures with BeforeAndAfterAll 
       assert(expectedSet == countriesWithLowestNumberOfAirports)
 
       val expectedRunways = List(
-        ("H1",5566),
-        ("18",3180),
-        ("09",2581),
-        ("17",2320),
-        ("16",1559),
-        ("12",1506),
-        ("14",1469),
-        ("08",1459),
-        ("13",1447),
-        ("15",1399))
+        RunwaysIdCount("H1",5566),
+        RunwaysIdCount("18",3180),
+        RunwaysIdCount("09",2581),
+        RunwaysIdCount("17",2320),
+        RunwaysIdCount("16",1559),
+        RunwaysIdCount("12",1506),
+        RunwaysIdCount("14",1469),
+        RunwaysIdCount("08",1459),
+        RunwaysIdCount("13",1447),
+        RunwaysIdCount("15",1399))
       assert(expectedRunways == report.mostCommonRunwayIdentifications.toList)
 
       val expectedRunwaysPerCountry = Set(
@@ -110,7 +112,7 @@ class SummarizerSuite extends FunSuite with ScalaFutures with BeforeAndAfterAll 
         ("Malta",1), ("Kiribati",3), ("Rwanda",3), ("South Korea",10), ("Gambia",1),
         ("Madagascar",4), ("Czech Republic",7), ("Australia",44))
 
-      assert(expectedRunwaysPerCountry == report.runwaysPerCountry.map { case (country, rws) => (country.name, rws.size)}.toSet)
+      assert(expectedRunwaysPerCountry == report.runwaysPerCountry.map(result => (result.country.name, result.runwayTypes.size)).toSet)
     }
   }
 

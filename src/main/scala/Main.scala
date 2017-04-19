@@ -1,11 +1,12 @@
 import akka.actor.ActorSystem
 import akka.event.{Logging, LoggingAdapter}
 import akka.http.scaladsl.Http
+import akka.http.scaladsl.server.RouteConcatenation
 import akka.stream.ActorMaterializer
-
 import data.Data
 import http.HttpService
 import http.routes.SummarizerServiceRoute
+import http.routes.swagger.SwaggerDocService
 import org.apache.spark.{SparkConf, SparkContext}
 import services.{Summarizer, SummarizerCacheKeeper}
 import utils.Configuration
@@ -15,7 +16,7 @@ import scala.concurrent.ExecutionContext
 /**
   * Service initialization and entry point.
   */
-object Main extends App with Configuration {
+object Main extends App with Configuration with RouteConcatenation {
   private implicit val system = ActorSystem()
 
   // Use the actor system's embedded dispatcher
@@ -42,7 +43,10 @@ object Main extends App with Configuration {
   val summarizerServiceRoute = new SummarizerServiceRoute(summarizer)
   val httpService = new HttpService(summarizerServiceRoute)
 
+  // Create Swagger service
+  private val swaggerService = new SwaggerDocService(system, httpHost, httpPort)
+
   // Run server and start serving.
   println(s"Server started. Listening on $httpHost:$httpPort")
-  Http().bindAndHandle(httpService.routes, httpHost, httpPort)
+  Http().bindAndHandle(httpService.routes ~ swaggerService.routes, httpHost, httpPort)
 }

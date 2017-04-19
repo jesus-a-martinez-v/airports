@@ -20,3 +20,6 @@ libraryDependencies += "com.typesafe.akka" %% "akka-http-testkit" % "2.4.10" % "
 
 // CSV library dependency
 libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.3.4"
+
+// Swagger support
+libraryDependencies += "com.github.swagger-akka-http" %% "swagger-akka-http" % "0.7.2"

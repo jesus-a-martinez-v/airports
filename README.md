@@ -18,8 +18,7 @@ sbt compile
 sbt run
 ```
     
-This will start the server. It will listen on `http://0.0.0.0:1234`. If you want to change
-these defaults, just head to `application.conf`
+This will start the server. It will listen on [http://0.0.0.0:1234](http://0.0.0.0:1234).
     
 If you want to run the tests, run:
     
@@ -46,7 +45,7 @@ sbt test
  
  
 ```
-GET /v1/{countryReference}[?referenceIsCode=<true|false>]
+GET /v1/query/{countryReference}[?referenceIsCode=<true|false>]
 ```
 
 Where:
@@ -57,12 +56,16 @@ Where:
 Example: 
 
 ```
-GET /v1/Netherlands?referenceIsCode=false
+GET /v1/query/Netherlands?referenceIsCode=false
 
 or
 
-GET /v1/NL (same as GET /v1/NL?referenceIsCode=true)
+GET /v1/query/NL (same as GET /v1/query/NL?referenceIsCode=true)
 
 ```
 
 This will return [this.]()
+
+#### Swagger
+
+For more interactivity, you can play with the Swagger UI specific to this API at [http://0.0.0.0:1234/swagger/](http://0.0.0.0:1234/swagger/)
