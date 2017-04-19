@@ -18,7 +18,7 @@ sbt compile
 sbt run
 ```
     
-This will start the server. It will listen on [http://0.0.0.0:1234](http://0.0.0.0:1234).
+This will start the server. It will listen on `http://0.0.0.0:1234`.
     
 If you want to run the tests, run:
     
