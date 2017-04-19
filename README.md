@@ -36,7 +36,7 @@ sbt test
  GET /v1/report
  ```
  
- This will return something like [this.](http://www.google.com)
+ This will return something like [this.](https://github.com/jesus-a-martinez-v/airports/blob/master/report.json)
  
  
  #### Querying
@@ -64,8 +64,10 @@ GET /v1/query/NL (same as GET /v1/query/NL?referenceIsCode=true)
 
 ```
 
-This will return [this.]()
+This will return [this.](https://github.com/jesus-a-martinez-v/airports/blob/master/query.json)
 
 #### Swagger
 
 For more interactivity, you can play with the Swagger UI specific to this API at [http://0.0.0.0:1234/swagger/](http://0.0.0.0:1234/swagger/)
+
+
