@@ -2,7 +2,7 @@
 
 This is a RESTful API that allows you to perform two basics operations on a database of countries, airports and runways.
 
-1. **Query** all the runways at each import for a given country. The input can be the country name (i.e. Venezuela) or country ISO code (i.e. VE).
+1. **Query** all the runways at each airport for a given country. The input can be the country name (i.e. Venezuela) or country ISO code (i.e. VE).
 2. **Get a report** which contains the following information:
     - Top 10 countries with highest number of airports.
     - Top 10 countries with lowest number of airports.
