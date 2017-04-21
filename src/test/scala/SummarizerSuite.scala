@@ -50,17 +50,8 @@ class SummarizerSuite extends FunSuite with ScalaFutures with BeforeAndAfterAll 
 
       val countriesWithLowestNumberOfAirports = report.countriesWithLowestNumberOfAirports
         .map(result => (result.country.name, result.count)).toSet
-      val expectedSet = Set(
-        ("Gibraltar",1),
-        ("Cocos (Keeling) Islands",1),
-        ("Curaçao",1),
-        ("Mayotte",1),
-        ("Macau",1),
-        ("Monaco",1),
-        ("Martinique",1),
-        ("Niue",1),
-        ("Andorra",1),
-        ("Nauru",1))
+      val expectedSet = Set(("Gibraltar",1), ("Cocos (Keeling) Islands",1), ("South Georgia and the South Sandwich Islands",0),
+        ("Mayotte",1), ("Macau",1), ("Monaco",1), ("Martinique",1), ("Pitcairn",0), ("Andorra",1), ("Tokelau",0))
       assert(expectedSet == countriesWithLowestNumberOfAirports)
 
       val expectedRunways = List(

@@ -51,7 +51,12 @@ class Summarizer(airports: Seq[Airport], countries: Seq[Country], runways: Seq[R
     def getCountriesWithHigherAndLowerAmountOfAirports = {
       // Calculate some useful PairRDDs first.
       val airportsCountPerCountry = airportsRdd.map(airport => (airport.isoCountry, 1)).reduceByKey(_ + _)
-      val countriesAndAirportCount = countriesAndCode.join(airportsCountPerCountry).map(_._2)
+      val countriesAndAirportCount = countriesAndCode.leftOuterJoin(airportsCountPerCountry).map {
+        _._2 match {
+          case pair if pair._2.isDefined => (pair._1, pair._2.get)
+          case pair => (pair._1, 0)
+        }
+      }
 
       // Calculate results for the report.
       val topTen = countriesAndAirportCount.sortBy(_._2, ascending = false).take(10)
