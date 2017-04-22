@@ -125,6 +125,39 @@
   "countriesWithLowestNumberOfAirports": [
     {
       "country": {
+        "name": "Tokelau",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Tokelau",
+        "continent": "OC",
+        "code": "TK",
+        "id": 302782,
+        "keywords": []
+      },
+      "count": 0
+    },
+    {
+      "country": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands",
+        "continent": "AN",
+        "code": "GS",
+        "id": 302616,
+        "keywords": []
+      },
+      "count": 0
+    },
+    {
+      "country": {
+        "name": "Pitcairn",
+        "wikipediaLink": "http://en.wikipedia.org/wiki/Pitcairn",
+        "continent": "OC",
+        "code": "PN",
+        "id": 302779,
+        "keywords": []
+      },
+      "count": 0
+    },
+    {
+      "country": {
         "name": "Macau",
         "wikipediaLink": "http://en.wikipedia.org/wiki/Macau",
         "continent": "AS",
@@ -198,39 +231,6 @@
         "continent": "AF",
         "code": "YT",
         "id": 302609,
-        "keywords": []
-      },
-      "count": 1
-    },
-    {
-      "country": {
-        "name": "Nauru",
-        "wikipediaLink": "http://en.wikipedia.org/wiki/Nauru",
-        "continent": "OC",
-        "code": "NR",
-        "id": 302774,
-        "keywords": []
-      },
-      "count": 1
-    },
-    {
-      "country": {
-        "name": "Curaçao",
-        "wikipediaLink": "http://en.wikipedia.org/wiki/Cura%C3%A7ao",
-        "continent": "NA",
-        "code": "CW",
-        "id": 302762,
-        "keywords": []
-      },
-      "count": 1
-    },
-    {
-      "country": {
-        "name": "Niue",
-        "wikipediaLink": "http://en.wikipedia.org/wiki/Niue",
-        "continent": "OC",
-        "code": "NU",
-        "id": 302775,
         "keywords": []
       },
       "count": 1
