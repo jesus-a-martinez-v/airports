@@ -5,12 +5,9 @@ import org.scalatest.{BeforeAndAfterAll, FunSuiteLike}
 import services.SummarizerCacheKeeper
 import services.SummarizerCacheKeeper._
 
-import scala.concurrent.duration._
 import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent.duration._
 
-/**
-  * Created by jesus on 17/04/17.
-  */
 class SummarizerCacheKeeperSuite extends TestKit(ActorSystem("KeeperSpec"))
   with FunSuiteLike with BeforeAndAfterAll with ImplicitSender {
 

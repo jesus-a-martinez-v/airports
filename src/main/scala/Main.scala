@@ -16,7 +16,7 @@ import scala.concurrent.ExecutionContext
   * Service initialization and entry point.
   */
 object Main extends App with Configuration with RouteConcatenation {
-  private implicit val system = ActorSystem()
+  private implicit val system: ActorSystem = ActorSystem()
 
   // Use the actor system's embedded dispatcher
   private implicit val executor: ExecutionContext = system.dispatcher
@@ -44,7 +44,9 @@ object Main extends App with Configuration with RouteConcatenation {
   // Create Swagger service
   private val swaggerService = new SwaggerDocService(system, httpHost, httpPort)
 
+  private val allRoutes = httpService.routes ~ swaggerService.routes
+
   // Run server and start serving.
   println(s"Server started. Listening on $httpHost:$httpPort")
-  Http().bindAndHandle(httpService.routes ~ swaggerService.routes, httpHost, httpPort)
+  Http().bindAndHandle(allRoutes, httpHost, httpPort)
 }

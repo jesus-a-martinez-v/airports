@@ -3,17 +3,13 @@ import akka.util.Timeout
 import data.Data
 import models.RunwaysIdCount
 import org.apache.spark.{SparkConf, SparkContext}
-import org.scalatest.{BeforeAndAfterAll, FunSuite}
 import org.scalatest.concurrent.ScalaFutures
+import org.scalatest.{BeforeAndAfterAll, FunSuite}
 import services.{Summarizer, SummarizerCacheKeeper}
 
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration._
 
-
-/**
-  * Created by jesus on 17/04/17.
-  */
 class SummarizerSuite extends FunSuite with ScalaFutures with BeforeAndAfterAll {
   val sparkConfiguration: SparkConf = new SparkConf().setAppName("Airports").setMaster("local")
   implicit val sparkContext: SparkContext = new SparkContext(sparkConfiguration)

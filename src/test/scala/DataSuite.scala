@@ -2,21 +2,22 @@ import data.Data
 import org.scalatest.FunSuite
 import org.scalatest.concurrent.ScalaFutures
 
-/**
-  * Created by jesus on 17/04/17.
-  */
 class DataSuite extends FunSuite with ScalaFutures {
 
+  private val ExpectedNumberOfAirports = 46505
+  private val ExpectedNumberOfCountries = 247
+  private val ExpectedNumberOfRunways = 39536
+
   test("Must load all the airports") {
-    assert(Data.loadAirports().size == 46505)
+    assert(Data.loadAirports().size == ExpectedNumberOfAirports)
   }
 
   test("Must load all the countries") {
-    assert(Data.loadCountries().size == 247)
+    assert(Data.loadCountries().size == ExpectedNumberOfCountries)
   }
 
   test("Must load all the runways") {
-    assert(Data.loadRunways().size == 39536)
+    assert(Data.loadRunways().size == ExpectedNumberOfRunways)
   }
 
 }

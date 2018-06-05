@@ -1,14 +1,14 @@
 package services
 
 import akka.actor.ActorRef
+import akka.pattern.ask
+import akka.util.Timeout
 import models._
 import org.apache.spark.SparkContext
 import org.apache.spark.rdd.RDD
-import akka.pattern.ask
-import akka.util.Timeout
 
-import scala.concurrent.{ExecutionContext, Future}
 import scala.concurrent.duration._
+import scala.concurrent.{ExecutionContext, Future}
 
 /**
   * Class that serves reports and queries about countries, airports and runways.

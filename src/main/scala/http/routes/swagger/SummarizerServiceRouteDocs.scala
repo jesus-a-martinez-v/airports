@@ -1,9 +1,8 @@
 package http.routes.swagger
 
-import javax.ws.rs.Path
-
 import akka.http.scaladsl.server._
 import io.swagger.annotations._
+import javax.ws.rs.Path
 import models.{QueryResult, Report}
 
 

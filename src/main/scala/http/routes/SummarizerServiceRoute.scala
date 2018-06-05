@@ -1,7 +1,7 @@
 package http.routes
 
-import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.model.StatusCodes
+import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.server.Route
 import http.routes.swagger.SummarizerServiceRouteDocs
 import services.Summarizer
